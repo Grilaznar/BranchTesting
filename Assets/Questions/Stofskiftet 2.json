@@ -1,0 +1,73 @@
+
+    {
+      "questionText": "Forhøjet anaerob forbrænding kan være problematisk fordi:",
+      "answers":["Det kan forårsage acidose", "Det kan medfører ophobning af ketonstoffer", "Det risikerer at hæve blodets pH ", "Det kan medføre ophobning af Acetyl-CoA"]
+    }
+    {
+      "questionText": "Leveren anvender denne proces til at lave de 11 ikke essentielle aminoserer",
+      "answers":["Transaminering", "Deaminering", "Endoaminering", "Epiaminering"]
+    }
+    {
+      "questionText": "Når aminoserer deamineres (forud for forbrænding) dannes dette giftige affaldsstof",
+      "answers":["Ammoniak", "Kuldioxid", "Cyanid", "Acetylkolin"]
+    }
+    {
+      "questionText": "Carbamid er et næsten ugiftigt stof der er dannet ud fra:",
+      "answers":["Ammoniak", "Nukleinsyrer", "Acetat", "Kuldioxid"]
+    }
+    {
+      "questionText": "Hvilken skæbne kan IKKE overgå den kvælstoffrie rest af en aminosyre",
+      "answers":["Omdannes til en essentiel aminosyre", "Aerob forbrænding", "Omdannes til glukose", "Omdannes til fedt"]
+    }
+    {
+      "questionText": "Hvornår danner cellerne ketonstoffer",
+      "answers":["I forbindelse med høj fedtforbrænding", "I forbindelse med forhøjet optag af essentielle fedtsyrer", "Hvad højt LDL niveau", "Ved lavt LDL niveau"]
+    }
+    {
+      "questionText": "Hvilken påstand om LDL er ikke korrekt",
+      "answers":["LDL fører kolesterol fra vævene tilbage til leveren", "LDL fremmer aflejringen af kolesterol i vævene", "LDL stammer fra VLDL, der har afleveret triglycerider til muskle rog fedtvæv", "LDL har en lavere massefylde end HDL"]
+    }
+    {
+      "questionText": "Hvad er et normalt faste-blodsukker",
+      "answers":["4-6 mmol/L", "2-4 mmol/L", "6-8 mmol/L ", "8-10 mmol/L"]
+    }
+    {
+      "questionText": "Umiddelbart efter et måltid er et normalt blodsukker på:",
+      "answers":["8 mmol/l", "> 10 mmol/L", "4-6 mmol/L", "12-14 mmol/L"]
+    }
+    {
+      "questionText": "Adrenalin ",
+      "answers":["Frigiver fedt fra fedtdepoter", "Dannes i gll. parathyroidea", "Dannes i gl. thyroidea", "Sænker blodsukkeret"]
+    }
+    {
+      "questionText": "Adrenalin ",
+      "answers":["Udskilles i forbindelse med fysisk og psykisk stress", "Fremmer leverens omdannelse af glukose til glykogen", "Udskilles ved høje parasympatisk aktivitet", "Virker nmodsat af noradrenalin"]
+    }
+    {
+      "questionText": "Hvilken påstand om kortisol er IKKE korrekt",
+      "answers":["Kortisol understøtter effekten af insulin", "Blodets kortisolindhold er højest tidligt om morgenen", "Produceres bl.a. ved blodsukkerfald ", "Sikrer glukose til især neuroner og erytrocytter"]
+    }
+    {
+      "questionText": "Hvilken påstand om kortisol er IKKE korrekt",
+      "answers":["Kortisol fremmer musklers og fedtcellers glukoseoptag", "Fremmer glukoneogenesen fra bl.a. glycerol og aminosyrer", "Fremmer nedbrydningen af fedtdepoter", "Fremmer nedbrydning af vævsproteiner i muskler, knogler og hud"]
+    }
+    {
+      "questionText": "Hvilket udsagn om stofskiftehormonerne T3 og T4 er usandt?",
+      "answers":["De fremmer dannelsen af mitokondriernes forbrændings-enzymer", "Der dannes 20-30 gange mere T3 end T4", "T4 virker kraftigere end T3", "T3 og t4 dannes i biskjoldbruskkirtlen"]
+    }
+    {
+      "questionText": "Hvilken af disse reguleringsmekanismer af T3/T4 produktionen er ikke korrekte",
+      "answers":["Fysisk og psykisk stress fremmer T3/T4-produktionen", "T3/T4 udskilles med en bestemt døgnrytme", "TRH fremmer indirekte T3/T4 produktionen", "TSH fremmer T3/T4-produktionen"]
+    }
+    {
+      "questionText": "Hvilke af disse hormoner påvirker IKKE appetitten?",
+      "answers":["Glukagon", "Glukagonlignende peptid-1", "Ghrelin", "Leptin"]
+    }
+    {
+      "questionText": "Hvilken information modtager det appatitregulerende center IKKE",
+      "answers":["Information om mavesækkens indhold af fedt og peptider", "Information om mavesækkens fyldningsgrad", "Information om blodets indhold af glukose", "Information om blodets indhold af insulin"]
+    }
+    {
+      "questionText": "Hvilken af disse temperaturregulerende metoder kan det temperaturregulerende center IKKE iværksætte?",
+      "answers":["Ændret fedt-isolering af huden", "Ændret svedsekretion", "Ændret perifer modstand", "Ændret produktion af TRH"]
+    }

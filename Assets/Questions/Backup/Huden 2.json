@@ -1,0 +1,161 @@
+    {
+      "Spørgsmål": "Hudens gennemsnitlige tykkelse er ",
+      "Korrekt svar": "0,1 mm",
+      "Ukorrekt svar 1": "1 mm",
+      "Ukorrekt svar 2": "5 mm",
+      "Ukorrekt svar 3": "3 mm"
+    },
+    {
+      "Spørgsmål": "Hvilket epitel opbygger huden?",
+      "Korrekt svar": "flerlaget pladeepitel, som er forhornet",
+      "Ukorrekt svar 1": "enlaget cylinder epitel",
+      "Ukorrekt svar 2": "flerlaget cylinder epitel",
+      "Ukorrekt svar 3": "enlaget pladeepitel"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de proteiner der holder hudcellerne sammen i epidermis",
+      "Korrekt svar": "desmosomer",
+      "Ukorrekt svar 1": "centromerer",
+      "Ukorrekt svar 2": "fagolysosomer",
+      "Ukorrekt svar 3": "gap-junctions"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det yderste lag i epidermis",
+      "Korrekt svar": "stratum corneum",
+      "Ukorrekt svar 1": "stratum basale",
+      "Ukorrekt svar 2": "corpús callosom",
+      "Ukorrekt svar 3": "capsula firbrosa"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det protein der findes i de døde yderste hudceller",
+      "Korrekt svar": "kreatin",
+      "Ukorrekt svar 1": "kreatinin",
+      "Ukorrekt svar 2": "kreatininfosfat",
+      "Ukorrekt svar 3": "calcitonin"
+    },
+    {
+      "Spørgsmål": "Hvilken celletype findes ikke i overhuden/epidermis?",
+      "Korrekt svar": "fibroblaster",
+      "Ukorrekt svar 1": "keratinholdige celler",
+      "Ukorrekt svar 2": "melanocytter",
+      "Ukorrekt svar 3": "langerhanske celler"
+    },
+    {
+      "Spørgsmål": "Hvor i epidermis dannes der nye celler ved mitosecelledeling?",
+      "Korrekt svar": "epidermis nederste lag, stratum basale",
+      "Ukorrekt svar 1": "epidermis øvertse lag, stratum corneum",
+      "Ukorrekt svar 2": "i melanocytterne i epidermis",
+      "Ukorrekt svar 3": "i de Langerhanske celler"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har Langerhanske celler i epidermis?",
+      "Korrekt svar": "de fagocytere mikroorganismer",
+      "Ukorrekt svar 1": "de danner farvestoffet melatonin",
+      "Ukorrekt svar 2": "de danner hudens fedtsyrer",
+      "Ukorrekt svar 3": "de danner hudens desmosomer"
+    },
+    {
+      "Spørgsmål": "Hvilken struktur er ikke udviklet fra epidermis?",
+      "Korrekt svar": "trykreceptorer",
+      "Ukorrekt svar 1": "hår",
+      "Ukorrekt svar 2": "negle",
+      "Ukorrekt svar 3": "svedkirtel"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den glatte muskel der får håret til at rejse sig, gåsehud",
+      "Korrekt svar": "m. arrector pili",
+      "Ukorrekt svar 1": "m. adductor brevis",
+      "Ukorrekt svar 2": "m. cilliaris",
+      "Ukorrekt svar 3": "m. cremaster"
+    },
+    {
+      "Spørgsmål": "Hvilke bestanddele indgår i læderhuden?",
+      "Korrekt svar": "fibroblaster, grundsubstans og fibre",
+      "Ukorrekt svar 1": "lymfocytter, grundsubstans og fibre",
+      "Ukorrekt svar 2": "kondrocytter og erytrocytter",
+      "Ukorrekt svar 3": "følereceptorer og melanocytter"
+    },
+    {
+      "Spørgsmål": "Hvilke bestanddele indgår i læderhudens grundsubstans?",
+      "Korrekt svar": "hyaluronsyre med vand og salte",
+      "Ukorrekt svar 1": "melanocytter og melanin",
+      "Ukorrekt svar 2": "saltsyre og hydrogenkarbonationer",
+      "Ukorrekt svar 3": "lymfevæske og plasma"
+    },
+    {
+      "Spørgsmål": "I hvilket interval måler temperatursanse celler i huden?",
+      "Korrekt svar": "10-45 grader",
+      "Ukorrekt svar 1": "36,5-37,5 grader",
+      "Ukorrekt svar 2": "0-10 grader",
+      "Ukorrekt svar 3": "45-100 grader"
+    },
+    {
+      "Spørgsmål": "Hvor meget af organismens blod findes normalt i huden?",
+      "Korrekt svar": "10 %",
+      "Ukorrekt svar 1": "25%",
+      "Ukorrekt svar 2": "40%",
+      "Ukorrekt svar 3": "50%"
+    },
+    {
+      "Spørgsmål": "Hvilken tilstand i organismen kan gremkalde nedsat hudturgor?",
+      "Korrekt svar": "væskemangel, dehydrering",
+      "Ukorrekt svar 1": "væskeoverskud",
+      "Ukorrekt svar 2": "normal diurese",
+      "Ukorrekt svar 3": "høj blodglukose"
+    },
+    {
+      "Spørgsmål": "Hvorfor opstår der tryksår når blodkarrene klemmes sammen?",
+      "Korrekt svar": "der opstår iltmangel og cellerne dør",
+      "Ukorrekt svar 1": "der opstår underskud af CO2 i huden",
+      "Ukorrekt svar 2": "der opstår underskud af H + ioner",
+      "Ukorrekt svar 3": "der opstår mangel på hvide blodceller"
+    },
+    {
+      "Spørgsmål": "Hvor er der normalt ikke risiko for tryksår?",
+      "Korrekt svar": "på låret",
+      "Ukorrekt svar 1": "på hælen",
+      "Ukorrekt svar 2": "ved knæet",
+      "Ukorrekt svar 3": "ved skulderbladene"
+    },
+    {
+      "Spørgsmål": "Hvilken ion er der risiko for at miste i større mængde ved kraftig svedproduktion?",
+      "Korrekt svar": "Na+ ionen",
+      "Ukorrekt svar 1": "K+ ionen",
+      "Ukorrekt svar 2": "Ca++ ionen",
+      "Ukorrekt svar 3": "Cl- ionen"
+    },
+    {
+      "Spørgsmål": "Hvilken bakterie er en normal del af hudens normalflora?",
+      "Korrekt svar": "Staphylococcus epidermidis",
+      "Ukorrekt svar 1": "Streptococcus pyrogenes",
+      "Ukorrekt svar 2": "Helicobacter pylori",
+      "Ukorrekt svar 3": "Eschericia coli"
+    },
+    {
+      "Spørgsmål": "Ud over at deltage i temperaturregulering har sveden også denne funktion",
+      "Korrekt svar": "medvirker til at bekæmpe bakterier vha. lav pH",
+      "Ukorrekt svar 1": "giver huden styrke",
+      "Ukorrekt svar 2": "gør huden varm",
+      "Ukorrekt svar 3": "opløser fedt og snavs i huden"
+    },
+    {
+      "Spørgsmål": "Unge mennesker kan rammes af bumser, acne vulgaris. Hvor i huden opstår bumser?",
+      "Korrekt svar": "i talgkirtler",
+      "Ukorrekt svar 1": "i svedkirtler",
+      "Ukorrekt svar 2": "i hårsækken",
+      "Ukorrekt svar 3": "i underhuden"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har farvestoffet melanin i huden?",
+      "Korrekt svar": "beskytte cellerns DNA",
+      "Ukorrekt svar 1": "beskyte mod vandtab",
+      "Ukorrekt svar 2": "beskytte mod tab af Na+ ioner",
+      "Ukorrekt svar 3": "gøre huden elastisk og spænstig"
+    },
+    {
+      "Spørgsmål": "Hvad gælder for tykkelsen af epidermis?",
+      "Korrekt svar": "0,1 mm tyk i gennemsnit",
+      "Ukorrekt svar 1": "0,00´1mm tyk i gennemsnit",
+      "Ukorrekt svar 2": "1,0 mm tyk i gennemsnit",
+      "Ukorrekt svar 3": "5 mm tyk i gennemsnit"
+    }

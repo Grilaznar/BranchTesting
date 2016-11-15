@@ -1,0 +1,350 @@
+{
+      "Spørgsmål": "Nævn de røde blodcellers latinske navn",
+      "Korrekt svar": "erytrocytter",
+      "Ukorrekt svar 1": "leucocytter",
+      "Ukorrekt svar 2": "trombocytter",
+      "Ukorrekt svar 3": "lymfocytter"
+    },
+    {
+      "Spørgsmål": "Nævn de hvide blodcellers latinske navn",
+      "Korrekt svar": "leucocytter",
+      "Ukorrekt svar 1": "erytrocytter",
+      "Ukorrekt svar 2": "trombocytter",
+      "Ukorrekt svar 3": "granulocytter"
+    },
+    {
+      "Spørgsmål": "Nævn blodpladers latinske navn",
+      "Korrekt svar": "trombocytter",
+      "Ukorrekt svar 1": "erytrocytter",
+      "Ukorrekt svar 2": "leucocytter",
+      "Ukorrekt svar 3": "granulocytter"
+    },
+    {
+      "Spørgsmål": "Hvilken er ikke en del af forsvarets tre planer?",
+      "Korrekt svar": "det runde forsvar",
+      "Ukorrekt svar 1": "det ydre forsvar",
+      "Ukorrekt svar 2": "det uspcifikke forsvar",
+      "Ukorrekt svar 3": "det spcifikke forsvar/immunsystemet"
+    },
+    {
+      "Spørgsmål": "Hvilken er ikke en del af det ydre forsvar?",
+      "Korrekt svar": "leveren ",
+      "Ukorrekt svar 1": "huden ",
+      "Ukorrekt svar 2": "mave/tarmkanalen ",
+      "Ukorrekt svar 3": "skylleeffekten"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes sygdomsfremkaldende mikroorganismer",
+      "Korrekt svar": "patogene mikroorganismer",
+      "Ukorrekt svar 1": "apatogene mikroorganismer",
+      "Ukorrekt svar 2": "infektion",
+      "Ukorrekt svar 3": "inflammation"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes ikke sygdomsfremkaldende bakterier?",
+      "Korrekt svar": "apatogene bakterier",
+      "Ukorrekt svar 1": "patogenebakterier",
+      "Ukorrekt svar 2": "gram negativ bakterier",
+      "Ukorrekt svar 3": "gram positiv bakterier"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af hudens beskyttelse mod bakterier?",
+      "Korrekt svar": "bakteriedræbende enzymer",
+      "Ukorrekt svar 1": "hudes bakteriflora",
+      "Ukorrekt svar 2": "sved ",
+      "Ukorrekt svar 3": "fedt fra talgkirtler"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af mave-tarmkanalens beskyttelse mod bakterier?",
+      "Korrekt svar": "makrofager",
+      "Ukorrekt svar 1": "lav pH i mavesækken",
+      "Ukorrekt svar 2": "tarmbakterier",
+      "Ukorrekt svar 3": "fordøjelsesenzymer"
+    },
+    {
+      "Spørgsmål": "Hvilket er en del af luftvejenes forsvar mod bakterier?",
+      "Korrekt svar": "slim og fimrehår der fanger bakterier",
+      "Ukorrekt svar 1": "skylleeffekten",
+      "Ukorrekt svar 2": "lav pH værdi",
+      "Ukorrekt svar 3": "fordøjelsesenzymer"
+    },
+    {
+      "Spørgsmål": "Hvilket er en del af luftvejenes beskyttelsemod bakterier?",
+      "Korrekt svar": "makrofager i alveolerne",
+      "Ukorrekt svar 1": "makrofager i næsehulen",
+      "Ukorrekt svar 2": "makrofager i luftrøret",
+      "Ukorrekt svar 3": "bakteriedræbende enzym i spyt"
+    },
+    {
+      "Spørgsmål": "Hvilket er en del af urinvejenes beskyttelse mod bakterier?",
+      "Korrekt svar": "skylleeffekten",
+      "Ukorrekt svar 1": "bakteriedræbende enzym",
+      "Ukorrekt svar 2": "lav  pH på 3",
+      "Ukorrekt svar 3": "normalflora i urinvejene"
+    },
+    {
+      "Spørgsmål": "Hvorfor øger blærekateter risikoen for urinvejsinfektion?",
+      "Korrekt svar": "fordi bakterier nemt klæber til kateter plastik",
+      "Ukorrekt svar 1": "fordi patienten for antibiotika",
+      "Ukorrekt svar 2": "fordi patienten er syg og underernæret",
+      "Ukorrekt svar 3": "fordi patienten er underafkølet"
+    },
+    {
+      "Spørgsmål": "Hvilket er en del af de kvindelige kønsorganers beskyttelse mod bakterier?",
+      "Korrekt svar": "mælkesyre producerende bakterier",
+      "Ukorrekt svar 1": "patogene bakterier",
+      "Ukorrekt svar 2": "P-piller",
+      "Ukorrekt svar 3": "skylleeffekten"
+    },
+    {
+      "Spørgsmål": "Hvorfor øger en antibiotikakur risikoen for svampeinfektion i skeden?",
+      "Korrekt svar": "fordi mælkesyre bakterier i skeden dræbes",
+      "Ukorrekt svar 1": "fordi tarm bakterierne dræbes ",
+      "Ukorrekt svar 2": " fordi der er øget blodtilførsel til skeden",
+      "Ukorrekt svar 3": "fordi skeden udtørres"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af luftvejenes beskyttelse mod bakterier?",
+      "Korrekt svar": "lav pH værdi",
+      "Ukorrekt svar 1": "slim og cilier",
+      "Ukorrekt svar 2": "antistoffer i luftvejsslim",
+      "Ukorrekt svar 3": "makrofager i alveoler"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af mave-tarmkanalens beskyttelse mod bakterier?",
+      "Korrekt svar": "hoste",
+      "Ukorrekt svar 1": "enzymer i spyt",
+      "Ukorrekt svar 2": "normalflora i colon",
+      "Ukorrekt svar 3": "lav pH i mavesækken"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af urinvejenes beskyttelse mod mikroorganismer?",
+      "Korrekt svar": "sej slimprop i uterus",
+      "Ukorrekt svar 1": "skylleeffekten",
+      "Ukorrekt svar 2": "lav pH i urin",
+      "Ukorrekt svar 3": "ventillukning ved urinleders indløb i blæren"
+    },
+    {
+      "Spørgsmål": "Hvilken type celle er makrofager?",
+      "Korrekt svar": "en leucocyt",
+      "Ukorrekt svar 1": "en trombocyt",
+      "Ukorrekt svar 2": "en erytrocyt",
+      "Ukorrekt svar 3": "en lymfocyt"
+    },
+    {
+      "Spørgsmål": "Hvad \"kaldes\" makrofager på dansk?",
+      "Korrekt svar": "kæmpe ædeceller",
+      "Ukorrekt svar 1": "små ædeceller ",
+      "Ukorrekt svar 2": "små fagocytter",
+      "Ukorrekt svar 3": "store fagolysosomer"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den type hvide blodceller der kan optage og nedbryde store partikler, som bakterier og ædelagte celler?",
+      "Korrekt svar": "makrofager",
+      "Ukorrekt svar 1": "basofil granulocyt",
+      "Ukorrekt svar 2": "eosinofil granulocyt",
+      "Ukorrekt svar 3": "trombocyt"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den type leucocyt der er flest af i blodet?",
+      "Korrekt svar": "neutrofile granulocytter",
+      "Ukorrekt svar 1": "basofle granulocytter",
+      "Ukorrekt svar 2": "monocytter",
+      "Ukorrekt svar 3": "epifytter"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion udøver neutrofile granulocytter?",
+      "Korrekt svar": "fagocytose af mikrorganismer",
+      "Ukorrekt svar 1": "fagocytose af ødelagte erytrocytter",
+      "Ukorrekt svar 2": "dræber virus inficerede celler",
+      "Ukorrekt svar 3": "aktivere immunsystemet"
+    },
+    {
+      "Spørgsmål": "Hvilke er ikke vigtige stoffer i det uspecifikke forsvar?",
+      "Korrekt svar": "antistoffer",
+      "Ukorrekt svar 1": "komplementsystemet/faktorer",
+      "Ukorrekt svar 2": "interferoner",
+      "Ukorrekt svar 3": "akutfaseprotein,CRP"
+    },
+    {
+      "Spørgsmål": "Hvilke celler danner interferoner?",
+      "Korrekt svar": "virus inficerede vævsceller",
+      "Ukorrekt svar 1": "røde blodceller",
+      "Ukorrekt svar 2": "hvide blodceller",
+      "Ukorrekt svar 3": "bakterieceller"
+    },
+    {
+      "Spørgsmål": "Hvilket stof i blodet ses i forøget mængde ved en bakterieinfektion?",
+      "Korrekt svar": "C-reaktivt protein, CRP",
+      "Ukorrekt svar 1": "interferoner",
+      "Ukorrekt svar 2": "antistoffer ",
+      "Ukorrekt svar 3": "antigener"
+    },
+    {
+      "Spørgsmål": "Virus kan kun",
+      "Korrekt svar": "formeres inde i levende værtsceller",
+      "Ukorrekt svar 1": "formeres inde i bakterieceller ",
+      "Ukorrekt svar 2": "formeres inde i andre viruspartikler",
+      "Ukorrekt svar 3": "formeres inde i døde celler"
+    },
+    {
+      "Spørgsmål": "Celler der er inficeret med virus vil",
+      "Korrekt svar": "stoppe deres normale funktion",
+      "Ukorrekt svar 1": "fortsætte som tidligere",
+      "Ukorrekt svar 2": "dræbe virus",
+      "Ukorrekt svar 3": "begå apoptose/selvmord"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de celler der er knyttet til immunsystemet?",
+      "Korrekt svar": "lymfocytter",
+      "Ukorrekt svar 1": "granulocytter",
+      "Ukorrekt svar 2": "makrofager",
+      "Ukorrekt svar 3": "mastceller"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det stof i mikroorganismer, som de hvide blodceller reagerer på",
+      "Korrekt svar": "antigen",
+      "Ukorrekt svar 1": "antistof",
+      "Ukorrekt svar 2": "interferoner",
+      "Ukorrekt svar 3": "akutfase protein"
+    },
+    {
+      "Spørgsmål": "Der findes to hovedtyper af lymfocytter, hvilke?",
+      "Korrekt svar": "T- og B- lymfocytter",
+      "Ukorrekt svar 1": "monocytter og makrofager",
+      "Ukorrekt svar 2": "basofile og neutrofile granulocytter",
+      "Ukorrekt svar 3": "hukommelses- hæmmerceller"
+    },
+    {
+      "Spørgsmål": "Hvorfor kaldes T-lymfocytter for T ?",
+      "Korrekt svar": "fordi de modnes i Thymus, brislen",
+      "Ukorrekt svar 1": "fordi  de modnes i glandula thyroidea",
+      "Ukorrekt svar 2": "fordi de danner T-stoffer",
+      "Ukorrekt svar 3": "fordi de er dannet af tyrosin"
+    },
+    {
+      "Spørgsmål": "Der findes undergrupper af T-lymfocytter, hvilke?",
+      "Korrekt svar": "T-hjælpeceller,T-dræberceller og T -hukommelsesceller",
+      "Ukorrekt svar 1": "Thymus og Thyroidea celler",
+      "Ukorrekt svar 2": "plasmaceller og huskeceller",
+      "Ukorrekt svar 3": "granulocytter og monocytter"
+    },
+    {
+      "Spørgsmål": "En makrofag der har fagocyteret en bakterie, vil bevæge sig til en ",
+      "Korrekt svar": "lymfeknude og aktivere den rette T-hjælpecelle",
+      "Ukorrekt svar 1": "lymfeknude og aktivere den rette neutrofile granulocyt",
+      "Ukorrekt svar 2": "lymfeknude og aktivere tilfældige lymfocytter",
+      "Ukorrekt svar 3": "nyre  og udskille bakterien"
+    },
+    {
+      "Spørgsmål": "T-hjælpeceller, hjælper med at ",
+      "Korrekt svar": "aktivere andre leukocytter",
+      "Ukorrekt svar 1": "aktivere andre erytrocytter",
+      "Ukorrekt svar 2": "aktivere andre trombocytter",
+      "Ukorrekt svar 3": "at danne antistoffer direkte"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har T- og B-hukommelsesceller?",
+      "Korrekt svar": "at give immunitet for den pågældende mikroorganisme",
+      "Ukorrekt svar 1": "at huske antistoffet til senere",
+      "Ukorrekt svar 2": "at huske hvor infektionen fandt sted",
+      "Ukorrekt svar 3": "at gøre mikroorganismen immun "
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har B-plasmaceller?",
+      "Korrekt svar": "danner antistoffer",
+      "Ukorrekt svar 1": "danner antigener",
+      "Ukorrekt svar 2": "danner interferoner",
+      "Ukorrekt svar 3": "aktivere T-hjælpeceller"
+    },
+    {
+      "Spørgsmål": "Der findes to typer af B-lymfocytter, hvilke?",
+      "Korrekt svar": "B- plasmaceller og B- hukommelsesceller",
+      "Ukorrekt svar 1": "B-hjælpeceller og B- granulocytter",
+      "Ukorrekt svar 2": "store og små B-lymfocytter",
+      "Ukorrekt svar 3": "B-lymfocytter i blodet og i lymfeknuder"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på en antistofproducerende B-lymfocyt",
+      "Korrekt svar": "B-plasmacelle",
+      "Ukorrekt svar 1": "B-huskecelle",
+      "Ukorrekt svar 2": "B-dræbercelle",
+      "Ukorrekt svar 3": "B- hjælpecelle"
+    },
+    {
+      "Spørgsmål": "Hvorledes er antistoffer opbygget?",
+      "Korrekt svar": "som Y formede proteiner",
+      "Ukorrekt svar 1": "som runde proteiner",
+      "Ukorrekt svar 2": "som S formede proteiner",
+      "Ukorrekt svar 3": "som E formede proteiner"
+    },
+    {
+      "Spørgsmål": "Nævn hvor mange antistof undertyper der findes",
+      "Korrekt svar": " IgM, IgE, Ig D, IgA,  og  IgG,",
+      "Ukorrekt svar 1": " IgE, Ig B, IgA,  og  IgG,",
+      "Ukorrekt svar 2": " IgM, IgE, Ig D, og  IgS,",
+      "Ukorrekt svar 3": " IgM, IgE, Ig L, IgA,  og  IgK"
+    },
+    {
+      "Spørgsmål": "Hvilke leucocytter findes i lymfeknuder?",
+      "Korrekt svar": "T- og B- lymfocytter",
+      "Ukorrekt svar 1": "basofile granulocytter",
+      "Ukorrekt svar 2": "neutrofilegranulocytter",
+      "Ukorrekt svar 3": "monocytter"
+    },
+    {
+      "Spørgsmål": "Hvad er vævstypeantigener?",
+      "Korrekt svar": "proteiner i meneskers cellemembran",
+      "Ukorrekt svar 1": "proteiner i bakteriers cellemembran",
+      "Ukorrekt svar 2": "proteiner i virus kapsidet",
+      "Ukorrekt svar 3": "forskellige typer celler i organismen"
+    },
+    {
+      "Spørgsmål": "Hvad er allergene?",
+      "Korrekt svar": "molekyler der fremkalder allergi",
+      "Ukorrekt svar 1": "protener i menneskets cellemembran",
+      "Ukorrekt svar 2": "proteiner i bakterier",
+      "Ukorrekt svar 3": "proteiner i virus kapsidet"
+    },
+    {
+      "Spørgsmål": "Hvilket stof fra basofile granulocytter og mastceller fremkalder allergi?",
+      "Korrekt svar": "histamin",
+      "Ukorrekt svar 1": "heparin",
+      "Ukorrekt svar 2": "komplementfaktorer",
+      "Ukorrekt svar 3": "interferoner"
+    },
+    {
+      "Spørgsmål": " Hvilken leucocyttype dannes ved en vaccination?",
+      "Korrekt svar": "hukommelsesceller",
+      "Ukorrekt svar 1": "dræberceller",
+      "Ukorrekt svar 2": "makrofager",
+      "Ukorrekt svar 3": "hæmmerceller"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for erytrocyter",
+      "Korrekt svar": "røde blodceller",
+      "Ukorrekt svar 1": "hvide blodceller/",
+      "Ukorrekt svar 2": "blodplader",
+      "Ukorrekt svar 3": "ædeceller"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for leucocytter",
+      "Korrekt svar": "hvide blodceller",
+      "Ukorrekt svar 1": "røde blodceller",
+      "Ukorrekt svar 2": "blodplader",
+      "Ukorrekt svar 3": "ædeceller"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for trombocytter",
+      "Korrekt svar": "blodplader",
+      "Ukorrekt svar 1": "røde blodceller",
+      "Ukorrekt svar 2": "hvide blodceller",
+      "Ukorrekt svar 3": "ædeceller"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har monocytter i blodet?",
+      "Korrekt svar": "fagocytose af mikrorganismer",
+      "Ukorrekt svar 1": "produktion af antistoffer",
+      "Ukorrekt svar 2": "produktion af interferoner",
+      "Ukorrekt svar 3": "dræbe cancerceller"
+    }

@@ -1,0 +1,136 @@
+{
+      "questionText": "Den ydre knoglehinde hedder",
+      "answers":["Periost", "Peritoneum", "Pleura visceralis", "Pleura parietalis"]
+    }
+    {
+      "questionText": "Endost er",
+      "answers":["Den indre knoglehinde", "Den midterste hjernehinde", "Den ydre knoglehinde", "Det inderste hjernehinde"]
+    }
+    {
+      "questionText": "Osteoblaster er",
+      "answers":["Knogleopbyggende celler", "Knoglenedbrydende celler", "Omdannede osteocytter", "Celller fanget i knoglevævet"]
+    }
+    {
+      "questionText": "Osteoklaster er",
+      "answers":["Knoglenedbrydende celler", "Omdannede osteocytter", "Knogleopbyggende celler", "Celller fanget i knoglevævet"]
+    }
+    {
+      "questionText": "Osteocytter er",
+      "answers":["Omdannede osteoblaster, der frigiver Ca2+", "Knogleopbyggende celler", "Knoglevævets makrofager", "Bindevævscceller"]
+    }
+    {
+      "questionText": "Knoglevævet består af",
+      "answers":["Celler, Calciumsalte, fosfat og kollagene fibre", "Fibroblastrer, fibrocytter og grundsubstans", "Condrocytter, chondroblaster og kollagene fibre", "Kalk og Chondroitinsulfat"]
+    }
+    {
+      "questionText": "Knoglemassen er størst ved en alder på ",
+      "answers":["25 år", "18 år", "45 år ", "12 år"]
+    }
+    {
+      "questionText": "Navnet på rørknoglens dele er",
+      "answers":["Diafyse og epifyse", "Diafyse og hypofyse", "Osteofyse og epifyse ", "Blasteofyse og osteofyse"]
+    }
+    {
+      "questionText": "Nøglebenet er",
+      "answers":["Clavicula", "Scapula", "Sternum", "Mandibula"]
+    }
+    {
+      "questionText": "Trabekler er",
+      "answers":["Tynde knoglebjælker i det spongiøse knoglevæv", "Hulrum i knoglevævet m osteocytter", "Hulrum i et Haversk lamelsystem", "Senehæfte på knoglevæv"]
+    }
+    {
+      "questionText": "Bruskceller hedder",
+      "answers":["Kondroblaster og kondrocytter ", "Osteocytter og osteoklaster", "Fibrocytter og fibroblaster", "neutrofile og basofile granulocytter"]
+    }
+    {
+      "questionText": "Hvilket hormon er IKKE Ca2+ regulerende",
+      "answers":["Oxytocin", "PTH", "Calcitoninn", "Vitamin D"]
+    }
+    {
+      "questionText": "Hvor dannes PTH",
+      "answers":["Bskjoldbruskkirtler", "Binyrerne", "Hypofysen", "Skjoldbruskkirtlen"]
+    }
+    {
+      "questionText": "PTH har følgende virkning",
+      "answers":["Øger blodets Ca2+ indhold", "Sænker blodets Ca2+ indhold", "Fremmer knogleopbygning", "Hæmmer osteoklast-aktivitet"]
+    }
+    {
+      "questionText": "Uægte led er kendetegnet ved",
+      "answers":["Ringe bevægelighed", "Stor bevægelighed", "Ledhule", "Synovialvæske"]
+    }
+    {
+      "questionText": "Fleksion er det modsatte af",
+      "answers":["Ekstension", "Adduktion", "Supination", "Cirkumduktion"]
+    }
+    {
+      "questionText": "Adduktion er det modsatte af",
+      "answers":["Abduktion ", "Rotation", "Pronation", "Supination"]
+    }
+    {
+      "questionText": "Crista betyder",
+      "answers":["Kam", "Bue", "Spids", "Søjle"]
+    }
+    {
+      "questionText": "Articulatio betyder",
+      "answers":["led ", "Hals", "Søjle", "Knude"]
+    }
+    {
+      "questionText": "Columna betyder",
+      "answers":["Søjle", "Hals", "Bue", "Åbning"]
+    }
+    {
+      "questionText": "Crista betyder",
+      "answers":["Kam", "Bue", "Skillevæg", "Ledbånd"]
+    }
+    {
+      "questionText": "Lateral betyder",
+      "answers":["Væk fra kroppens midtlinje", "Tæt på kroppens midtlinie", "Tæt på udspringssted", "Langt fra udspringssted"]
+    }
+    {
+      "questionText": "Distal betyder",
+      "answers":["Langt fra udspringssted", "Tæt på udspringssted", "Tæt på kroppens midtlinie", "Over eller øvre"]
+    }
+    {
+      "questionText": "Os sacrum er",
+      "answers":["Korsbenet", "Halebenet", "Skulderbladet", "Underkæben"]
+    }
+    {
+      "questionText": "Os coccygis",
+      "answers":["Halebenet", "Ribben", "Knogleopbyggende celle ", "Sædebenet"]
+    }
+    {
+      "questionText": "Lordose er",
+      "answers":["Fremadbøjning af rygsøjlen", "Ledtap", "Bagudbøjning af rygsøjlen", "Lændehvirvel"]
+    }
+    {
+      "questionText": "Denne knogle indgår IKKE i brystbenet",
+      "answers":["Clavicula", "Processus ziphoideus", "Manubrium sterni", "Corpus sterni"]
+    }
+    {
+      "questionText": "Denne knogle indgår IKKE i bækkenet",
+      "answers":["Os ethmoidale", "Os ileum", "Os ischii", "Os pubis"]
+    }
+    {
+      "questionText": "Denne muskel er IKKE en del af bugmuskulaturen",
+      "answers":["m. latissimus dorsi", "m. rectur abdominis", "m. obliquus internus abdominis", "m transversus abdominis"]
+    }
+    {
+      "questionText": "Dette er IKKE en af armens knogler",
+      "answers":["Tibia", "Radius", "Humerus", "Ulna "]
+    }
+    {
+      "questionText": "Dette er IKKE en af benets knogler",
+      "answers":["Scapula", "Femur", "Patella", "Fibula"]
+    }
+    {
+      "questionText": "Os ethmoidale hedder på dansk",
+      "answers":["Sibenet", "Kilebenet", "Isseben", "Plovskærebenet"]
+    }
+    {
+      "questionText": "Denne er størst",
+      "answers":["Muskelfiber", "Myofibril", "Myofilament", "Myosin"]
+    }
+    {
+      "questionText": "Dette er IKKE en kranieknogle",
+      "answers":["Os Ileum", "Os xiphiodale", "Os Zygomaticum", "Os occipitale"]
+    }

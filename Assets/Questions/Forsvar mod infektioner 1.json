@@ -1,0 +1,200 @@
+{
+      "questionText": "Nævn de røde blodcellers latinske navn",
+      "answers":["erytrocytter", "leucocytter", "trombocytter", "lymfocytter"]
+    }
+    {
+      "questionText": "Nævn de hvide blodcellers latinske navn",
+      "answers":["leucocytter", "erytrocytter", "trombocytter", "granulocytter"]
+    }
+    {
+      "questionText": "Nævn blodpladers latinske navn",
+      "answers":["trombocytter", "erytrocytter", "leucocytter", "granulocytter"]
+    }
+    {
+      "questionText": "Hvilken er ikke en del af forsvarets tre planer?",
+      "answers":["det runde forsvar", "det ydre forsvar", "det uspcifikke forsvar", "det spcifikke forsvar/immunsystemet"]
+    }
+    {
+      "questionText": "Hvilken er ikke en del af det ydre forsvar?",
+      "answers":["leveren ", "huden ", "mave/tarmkanalen ", "skylleeffekten"]
+    }
+    {
+      "questionText": "Hvad kaldes sygdomsfremkaldende mikroorganismer",
+      "answers":["patogene mikroorganismer", "apatogene mikroorganismer", "infektion", "inflammation"]
+    }
+    {
+      "questionText": "Hvad kaldes ikke sygdomsfremkaldende bakterier?",
+      "answers":["apatogene bakterier", "patogenebakterier", "gram negativ bakterier", "gram positiv bakterier"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af hudens beskyttelse mod bakterier?",
+      "answers":["bakteriedræbende enzymer", "hudes bakteriflora", "sved ", "fedt fra talgkirtler"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af mave-tarmkanalens beskyttelse mod bakterier?",
+      "answers":["makrofager", "lav pH i mavesækken", "tarmbakterier", "fordøjelsesenzymer"]
+    }
+    {
+      "questionText": "Hvilket er en del af luftvejenes forsvar mod bakterier?",
+      "answers":["slim og fimrehår der fanger bakterier", "skylleeffekten", "lav pH værdi", "fordøjelsesenzymer"]
+    }
+    {
+      "questionText": "Hvilket er en del af luftvejenes beskyttelsemod bakterier?",
+      "answers":["makrofager i alveolerne", "makrofager i næsehulen", "makrofager i luftrøret", "bakteriedræbende enzym i spyt"]
+    }
+    {
+      "questionText": "Hvilket er en del af urinvejenes beskyttelse mod bakterier?",
+      "answers":["skylleeffekten", "bakteriedræbende enzym", "lav  pH på 3", "normalflora i urinvejene"]
+    }
+    {
+      "questionText": "Hvorfor øger blærekateter risikoen for urinvejsinfektion?",
+      "answers":["fordi bakterier nemt klæber til kateter plastik", "fordi patienten for antibiotika", "fordi patienten er syg og underernæret", "fordi patienten er underafkølet"]
+    }
+    {
+      "questionText": "Hvilket er en del af de kvindelige kønsorganers beskyttelse mod bakterier?",
+      "answers":["mælkesyre producerende bakterier", "patogene bakterier", "P-piller", "skylleeffekten"]
+    }
+    {
+      "questionText": "Hvorfor øger en antibiotikakur risikoen for svampeinfektion i skeden?",
+      "answers":["fordi mælkesyre bakterier i skeden dræbes", "fordi tarm bakterierne dræbes ", " fordi der er øget blodtilførsel til skeden", "fordi skeden udtørres"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af luftvejenes beskyttelse mod bakterier?",
+      "answers":["lav pH værdi", "slim og cilier", "antistoffer i luftvejsslim", "makrofager i alveoler"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af mave-tarmkanalens beskyttelse mod bakterier?",
+      "answers":["hoste", "enzymer i spyt", "normalflora i colon", "lav pH i mavesækken"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af urinvejenes beskyttelse mod mikroorganismer?",
+      "answers":["sej slimprop i uterus", "skylleeffekten", "lav pH i urin", "ventillukning ved urinleders indløb i blæren"]
+    }
+    {
+      "questionText": "Hvilken type celle er makrofager?",
+      "answers":["en leucocyt", "en trombocyt", "en erytrocyt", "en lymfocyt"]
+    }
+    {
+      "questionText": "Hvad \"kaldes\" makrofager på dansk?",
+      "answers":["kæmpe ædeceller", "små ædeceller ", "små fagocytter", "store fagolysosomer"]
+    }
+    {
+      "questionText": "Hvad hedder den type hvide blodceller der kan optage og nedbryde store partikler, som bakterier og ædelagte celler?",
+      "answers":["makrofager", "basofil granulocyt", "eosinofil granulocyt", "trombocyt"]
+    }
+    {
+      "questionText": "Hvad hedder den type leucocyt der er flest af i blodet?",
+      "answers":["neutrofile granulocytter", "basofle granulocytter", "monocytter", "epifytter"]
+    }
+    {
+      "questionText": "Hvilken funktion udøver neutrofile granulocytter?",
+      "answers":["fagocytose af mikrorganismer", "fagocytose af ødelagte erytrocytter", "dræber virus inficerede celler", "aktivere immunsystemet"]
+    }
+    {
+      "questionText": "Hvilke er ikke vigtige stoffer i det uspecifikke forsvar?",
+      "answers":["antistoffer", "komplementsystemet/faktorer", "interferoner", "akutfaseprotein,CRP"]
+    }
+    {
+      "questionText": "Hvilke celler danner interferoner?",
+      "answers":["virus inficerede vævsceller", "røde blodceller", "hvide blodceller", "bakterieceller"]
+    }
+    {
+      "questionText": "Hvilket stof i blodet ses i forøget mængde ved en bakterieinfektion?",
+      "answers":["C-reaktivt protein, CRP", "interferoner", "antistoffer ", "antigener"]
+    }
+    {
+      "questionText": "Virus kan kun",
+      "answers":["formeres inde i levende værtsceller", "formeres inde i bakterieceller ", "formeres inde i andre viruspartikler", "formeres inde i døde celler"]
+    }
+    {
+      "questionText": "Celler der er inficeret med virus vil",
+      "answers":["stoppe deres normale funktion", "fortsætte som tidligere", "dræbe virus", "begå apoptose/selvmord"]
+    }
+    {
+      "questionText": "Hvad hedder de celler der er knyttet til immunsystemet?",
+      "answers":["lymfocytter", "granulocytter", "makrofager", "mastceller"]
+    }
+    {
+      "questionText": "Nævn navnet på det stof i mikroorganismer, som de hvide blodceller reagerer på",
+      "answers":["antigen", "antistof", "interferoner", "akutfase protein"]
+    }
+    {
+      "questionText": "Der findes to hovedtyper af lymfocytter, hvilke?",
+      "answers":["T- og B- lymfocytter", "monocytter og makrofager", "basofile og neutrofile granulocytter", "hukommelses- hæmmerceller"]
+    }
+    {
+      "questionText": "Hvorfor kaldes T-lymfocytter for T ?",
+      "answers":["fordi de modnes i Thymus, brislen", "fordi  de modnes i glandula thyroidea", "fordi de danner T-stoffer", "fordi de er dannet af tyrosin"]
+    }
+    {
+      "questionText": "Der findes undergrupper af T-lymfocytter, hvilke?",
+      "answers":["T-hjælpeceller,T-dræberceller og T -hukommelsesceller", "Thymus og Thyroidea celler", "plasmaceller og huskeceller", "granulocytter og monocytter"]
+    }
+    {
+      "questionText": "En makrofag der har fagocyteret en bakterie, vil bevæge sig til en ",
+      "answers":["lymfeknude og aktivere den rette T-hjælpecelle", "lymfeknude og aktivere den rette neutrofile granulocyt", "lymfeknude og aktivere tilfældige lymfocytter", "nyre  og udskille bakterien"]
+    }
+    {
+      "questionText": "T-hjælpeceller, hjælper med at ",
+      "answers":["aktivere andre leukocytter", "aktivere andre erytrocytter", "aktivere andre trombocytter", "at danne antistoffer direkte"]
+    }
+    {
+      "questionText": "Hvilken funktion har T- og B-hukommelsesceller?",
+      "answers":["at give immunitet for den pågældende mikroorganisme", "at huske antistoffet til senere", "at huske hvor infektionen fandt sted", "at gøre mikroorganismen immun "]
+    }
+    {
+      "questionText": "Hvilken funktion har B-plasmaceller?",
+      "answers":["danner antistoffer", "danner antigener", "danner interferoner", "aktivere T-hjælpeceller"]
+    }
+    {
+      "questionText": "Der findes to typer af B-lymfocytter, hvilke?",
+      "answers":["B- plasmaceller og B- hukommelsesceller", "B-hjælpeceller og B- granulocytter", "store og små B-lymfocytter", "B-lymfocytter i blodet og i lymfeknuder"]
+    }
+    {
+      "questionText": "Nævn navnet på en antistofproducerende B-lymfocyt",
+      "answers":["B-plasmacelle", "B-huskecelle", "B-dræbercelle", "B- hjælpecelle"]
+    }
+    {
+      "questionText": "Hvorledes er antistoffer opbygget?",
+      "answers":["som Y formede proteiner", "som runde proteiner", "som S formede proteiner", "som E formede proteiner"]
+    }
+    {
+      "questionText": "Nævn hvor mange antistof undertyper der findes",
+      "answers":[" IgM, IgE, Ig D, IgA,  og  IgG,", " IgE, Ig B, IgA,  og  IgG,", " IgM, IgE, Ig D, og  IgS,", " IgM, IgE, Ig L, IgA,  og  IgK"]
+    }
+    {
+      "questionText": "Hvilke leucocytter findes i lymfeknuder?",
+      "answers":["T- og B- lymfocytter", "basofile granulocytter", "neutrofilegranulocytter", "monocytter"]
+    }
+    {
+      "questionText": "Hvad er vævstypeantigener?",
+      "answers":["proteiner i meneskers cellemembran", "proteiner i bakteriers cellemembran", "proteiner i virus kapsidet", "forskellige typer celler i organismen"]
+    }
+    {
+      "questionText": "Hvad er allergene?",
+      "answers":["molekyler der fremkalder allergi", "protener i menneskets cellemembran", "proteiner i bakterier", "proteiner i virus kapsidet"]
+    }
+    {
+      "questionText": "Hvilket stof fra basofile granulocytter og mastceller fremkalder allergi?",
+      "answers":["histamin", "heparin", "komplementfaktorer", "interferoner"]
+    }
+    {
+      "questionText": " Hvilken leucocyttype dannes ved en vaccination?",
+      "answers":["hukommelsesceller", "dræberceller", "makrofager", "hæmmerceller"]
+    }
+    {
+      "questionText": "Nævn det danske navn for erytrocyter",
+      "answers":["røde blodceller", "hvide blodceller/", "blodplader", "ædeceller"]
+    }
+    {
+      "questionText": "Nævn det danske navn for leucocytter",
+      "answers":["hvide blodceller", "røde blodceller", "blodplader", "ædeceller"]
+    }
+    {
+      "questionText": "Nævn det danske navn for trombocytter",
+      "answers":["blodplader", "røde blodceller", "hvide blodceller", "ædeceller"]
+    }
+    {
+      "questionText": "Hvilken funktion har monocytter i blodet?",
+      "answers":["fagocytose af mikrorganismer", "produktion af antistoffer", "produktion af interferoner", "dræbe cancerceller"]
+    }

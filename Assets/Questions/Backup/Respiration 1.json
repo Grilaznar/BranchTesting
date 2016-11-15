@@ -1,0 +1,337 @@
+
+    {
+      "Spørgsmål": "Hvad hedder næsehulen på latin?",
+      "Korrekt svar": "cavitas nasi",
+      "Ukorrekt svar 1": "vestibulum nasi",
+      "Ukorrekt svar 2": "septum nasi",
+      "Ukorrekt svar 3": "os nasle"
+    },
+    {
+      "Spørgsmål": "Hvad hedder strubehovedet på latin?",
+      "Korrekt svar": "larynz",
+      "Ukorrekt svar 1": "pharynx",
+      "Ukorrekt svar 2": "trachea",
+      "Ukorrekt svar 3": "oesophagus"
+    },
+    {
+      "Spørgsmål": "Hvor ligger respirationscentret?",
+      "Korrekt svar": "i medulla oblongata",
+      "Ukorrekt svar 1": "i pons",
+      "Ukorrekt svar 2": "i hypothalamus",
+      "Ukorrekt svar 3": "i medulla spinalis"
+    },
+    {
+      "Spørgsmål": "Hvilken muskel anvendes ved abdominal respiration i hvile?",
+      "Korrekt svar": "diaphragma",
+      "Ukorrekt svar 1": "m. intercostalis internus",
+      "Ukorrekt svar 2": "m. intercostalis externus",
+      "Ukorrekt svar 3": "bugmuskulaturen"
+    },
+    {
+      "Spørgsmål": "Hvilke gasser udveksles i lungerne?",
+      "Korrekt svar": "O2 og CO2",
+      "Ukorrekt svar 1": "N2 og O2",
+      "Ukorrekt svar 2": "CO2 og N2",
+      "Ukorrekt svar 3": "CO og O2"
+    },
+    {
+      "Spørgsmål": "Hvad hedder lunge på latin?",
+      "Korrekt svar": "pulmo",
+      "Ukorrekt svar 1": "pulmonalis",
+      "Ukorrekt svar 2": "hilus pulmonis",
+      "Ukorrekt svar 3": "pulmonis"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den transportform der sørger for udveksling af CO2 og O2?",
+      "Korrekt svar": "diffusion",
+      "Ukorrekt svar 1": "iontransport",
+      "Ukorrekt svar 2": "faciliteret diffusion",
+      "Ukorrekt svar 3": "aktiv transport"
+    },
+    {
+      "Spørgsmål": "Find den rigtige rækkefølge",
+      "Korrekt svar": "arterier-> lunge kapillærer->vener",
+      "Ukorrekt svar 1": "lungekapillærer->arterier->vener",
+      "Ukorrekt svar 2": "arterioler->lungekapillærer->arterier",
+      "Ukorrekt svar 3": "venoler->lungekapillærer->arterioler"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes en vejrtrækning?",
+      "Korrekt svar": "respiration",
+      "Ukorrekt svar 1": "ekspiration",
+      "Ukorrekt svar 2": "inspiration",
+      "Ukorrekt svar 3": "konspiration"
+    },
+    {
+      "Spørgsmål": "Hvad angiver respirationsfrekvensen?",
+      "Korrekt svar": "antal inspirationer pr. minut",
+      "Ukorrekt svar 1": "mængde luft der trækkes ned i lungerne pr. minut",
+      "Ukorrekt svar 2": "antal impulser der sendes til respirationscentret pr. min",
+      "Ukorrekt svar 3": "respiratinsdybden pr. minut"
+    },
+    {
+      "Spørgsmål": "Hvor mange lapper er lungerne inddelt i?",
+      "Korrekt svar": "højre lunge 3 lapper, venstre lunge 2 lapper",
+      "Ukorrekt svar 1": "højre lunge 2 lapper, venstre lunge 3 lapper",
+      "Ukorrekt svar 2": "højre lunge 2 lapper, venstre lunge 2 lapper",
+      "Ukorrekt svar 3": "højre lunge 3 lapper, venstre lunge 3 lapper"
+    },
+    {
+      "Spørgsmål": "Hvad hedder lungehinden på latin?",
+      "Korrekt svar": "pleura",
+      "Ukorrekt svar 1": "costa",
+      "Ukorrekt svar 2": "pluralis",
+      "Ukorrekt svar 3": "pulmonis"
+    },
+    {
+      "Spørgsmål": "Hvilken er ikke en af luftvejenes funktioner",
+      "Korrekt svar": "deltage i blodtryksregulering",
+      "Ukorrekt svar 1": "opvarme og befugte luften",
+      "Ukorrekt svar 2": "at rense luften ",
+      "Ukorrekt svar 3": "at dannel lyd "
+    },
+    {
+      "Spørgsmål": "Hvor i luftvejene finder gasudvekslingen sted?",
+      "Korrekt svar": "i alveolerne",
+      "Ukorrekt svar 1": "i bronkierne",
+      "Ukorrekt svar 2": "i lutfrøret ",
+      "Ukorrekt svar 3": "i lungehinden"
+    },
+    {
+      "Spørgsmål": "Hvad sker der hvis en af  lungehinderne punkteres? ",
+      "Korrekt svar": "lungen klapper sammen, pneumothorax",
+      "Ukorrekt svar 1": "lungerhinden gendannes straks",
+      "Ukorrekt svar 2": "lungehinden repareres af surfaktant",
+      "Ukorrekt svar 3": "patienten dør"
+    },
+    {
+      "Spørgsmål": "Hvor mange lapper er der i lungerne?",
+      "Korrekt svar": "tre lapper i højre side og to lapper i venstre side",
+      "Ukorrekt svar 1": "to lapper i højre side og tre lapper i venstre side",
+      "Ukorrekt svar 2": "tre lapper i højre side og tre lapper i venstre side",
+      "Ukorrekt svar 3": "to lapper i højre side og to lapper i venstre side"
+    },
+    {
+      "Spørgsmål": "Hvilke muskler benyttes ikke som respirationsmusker?",
+      "Korrekt svar": "m. gastrocnemius og m. brachialis",
+      "Ukorrekt svar 1": "diphragma og m. intercostalis externus",
+      "Ukorrekt svar 2": "halsmuskler, ryg- og brystmuskler, samt bugmuskler",
+      "Ukorrekt svar 3": "m. intercostalis internus"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for mellemgulvsmusklen",
+      "Korrekt svar": "diaphragma",
+      "Ukorrekt svar 1": "intercostalis",
+      "Ukorrekt svar 2": "costa",
+      "Ukorrekt svar 3": "plexus coeliacus"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn et ribben",
+      "Korrekt svar": "costa",
+      "Ukorrekt svar 1": "costalis",
+      "Ukorrekt svar 2": "costae",
+      "Ukorrekt svar 3": "intercostalis"
+    },
+    {
+      "Spørgsmål": "Hvad hedder det system i luftvejene der renser luften for mikroorganismer og andre urenheder?",
+      "Korrekt svar": "ciliebærende celler og bægerceller",
+      "Ukorrekt svar 1": "surfaktant",
+      "Ukorrekt svar 2": "peristaltik",
+      "Ukorrekt svar 3": "vores bakterieflora"
+    },
+    {
+      "Spørgsmål": "Hvor findes sinus frontalis",
+      "Korrekt svar": "i pandebenet",
+      "Ukorrekt svar 1": "i overkæben",
+      "Ukorrekt svar 2": "i tindingebenet",
+      "Ukorrekt svar 3": "i underkæben"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for skjoldbrusken",
+      "Korrekt svar": "cartilago thyroidea",
+      "Ukorrekt svar 1": "glandula thyroidea",
+      "Ukorrekt svar 2": "cartilago crecoidea",
+      "Ukorrekt svar 3": "os hyoideum"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for strubelåget",
+      "Korrekt svar": "epiglottis",
+      "Ukorrekt svar 1": "os hyoideum",
+      "Ukorrekt svar 2": "trachea",
+      "Ukorrekt svar 3": "cartilagines arytenoidea"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for stemmebånd",
+      "Korrekt svar": "plica vocales",
+      "Ukorrekt svar 1": "plica circulares",
+      "Ukorrekt svar 2": "cartilagines arytenoidea",
+      "Ukorrekt svar 3": "plicae vestibulares"
+    },
+    {
+      "Spørgsmål": "Hvor langt er luftrøret ca.?",
+      "Korrekt svar": "10 cm ",
+      "Ukorrekt svar 1": "20 cm ",
+      "Ukorrekt svar 2": "25 cm ",
+      "Ukorrekt svar 3": "30 cm "
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det bruskstykke der afslutter trachea",
+      "Korrekt svar": "carina",
+      "Ukorrekt svar 1": "calcaneus",
+      "Ukorrekt svar 2": "caecum",
+      "Ukorrekt svar 3": "cardia"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det stof der binder ilten i erytrocytter",
+      "Korrekt svar": "hæmoglobin",
+      "Ukorrekt svar 1": "myoglobin",
+      "Ukorrekt svar 2": "bilirubin",
+      "Ukorrekt svar 3": "urobilin"
+    },
+    {
+      "Spørgsmål": "Navn ord betyder iltmætning?",
+      "Korrekt svar": "saturation",
+      "Ukorrekt svar 1": "hæmostase",
+      "Ukorrekt svar 2": "homøstase",
+      "Ukorrekt svar 3": "sarkomer"
+    },
+    {
+      "Spørgsmål": "Hvad betyder: Pars nasalis pharyngis?",
+      "Korrekt svar": "næsesvælget",
+      "Ukorrekt svar 1": "mundsvælget",
+      "Ukorrekt svar 2": "strubesvælget",
+      "Ukorrekt svar 3": "strubehovedet"
+    },
+    {
+      "Spørgsmål": "Hvad betyder: Pars oralis pharyngis?",
+      "Korrekt svar": "mundsvælget",
+      "Ukorrekt svar 1": "næsesvælget",
+      "Ukorrekt svar 2": "strubesvælget",
+      "Ukorrekt svar 3": "strubehovedet"
+    },
+    {
+      "Spørgsmål": "Hvad betyder: Pars laryngea pharyngis?",
+      "Korrekt svar": "strubesvælget",
+      "Ukorrekt svar 1": "strubehovedet",
+      "Ukorrekt svar 2": "næsesvælget",
+      "Ukorrekt svar 3": "mundsvælget"
+    },
+    {
+      "Spørgsmål": "Luften i luftvejene opvarmes ved at",
+      "Korrekt svar": "der findes mange blodkar i luftvejenes slimhinde",
+      "Ukorrekt svar 1": "ved at luften ledes over i bihulerne",
+      "Ukorrekt svar 2": "at luften ledes over i pleurahulen",
+      "Ukorrekt svar 3": "ved at luften står stille i alveolerne"
+    },
+    {
+      "Spørgsmål": "Hæmoglobin der har bundet ilt, kaldes",
+      "Korrekt svar": "oxyhæmoglobin",
+      "Ukorrekt svar 1": "deoxyhæmoglobin",
+      "Ukorrekt svar 2": "methæmoglobin",
+      "Ukorrekt svar 3": "reduceret hæmoglobin"
+    },
+    {
+      "Spørgsmål": "Hvor i luftvejene findes lugtsansecellerne?",
+      "Korrekt svar": "øverst i næsehulen",
+      "Ukorrekt svar 1": "nederst i næsehule ",
+      "Ukorrekt svar 2": "i næsesvælget",
+      "Ukorrekt svar 3": "i mundhulen"
+    },
+    {
+      "Spørgsmål": "Nævn hvad conchae nasales består af",
+      "Korrekt svar": "knogle",
+      "Ukorrekt svar 1": "brusk",
+      "Ukorrekt svar 2": "muskler",
+      "Ukorrekt svar 3": "fedt"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der ikke er en del af luftvejenes funktioner?",
+      "Korrekt svar": "deltage i blodtryksregulering",
+      "Ukorrekt svar 1": "evnen til at tale",
+      "Ukorrekt svar 2": "lugtesansen",
+      "Ukorrekt svar 3": "gasudveksling"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der ikke er en del af luftvejenes funktioner?",
+      "Korrekt svar": "aktivering af D-vitamin",
+      "Ukorrekt svar 1": "syre-base-regulering",
+      "Ukorrekt svar 2": "ilt optagelse",
+      "Ukorrekt svar 3": "CO2 transport"
+    },
+    {
+      "Spørgsmål": "Hvorfra og hvortil findes de konduktive luftveje?",
+      "Korrekt svar": "fra cavitas nasi til bronkioler",
+      "Ukorrekt svar 1": "fra cavitas nasi til pulmones",
+      "Ukorrekt svar 2": "fra cavitas nasi til alveolerne",
+      "Ukorrekt svar 3": "fra trachea til alveolerne"
+    },
+    {
+      "Spørgsmål": "Hvorfra og hvortil forløber Lungekredsløbet?",
+      "Korrekt svar": "fra lungearterierne til lungekapillærerne videre til lungevenerne",
+      "Ukorrekt svar 1": "fra  lungevenerne til lungekapillærerne videre til lungearterierne",
+      "Ukorrekt svar 2": "fra aorta til kaplærer til vena cava",
+      "Ukorrekt svar 3": "fra venstre forkammer til højre hjertekammer"
+    },
+    {
+      "Spørgsmål": "I luftvejene findes bægerceller, hvilken funktion har disse bægerceller?",
+      "Korrekt svar": "at danne slim som fanger støv og mikroorganismer",
+      "Ukorrekt svar 1": "at øge diffusionsarealet",
+      "Ukorrekt svar 2": "at danne bølgebevægelser",
+      "Ukorrekt svar 3": "at føre partikler ned mod alveolerne"
+    },
+    {
+      "Spørgsmål": "Hvormeget er en normal respirationsfrekvens i hvile pr. minut?",
+      "Korrekt svar": "12-16",
+      "Ukorrekt svar 1": "16-20",
+      "Ukorrekt svar 2": "20-25",
+      "Ukorrekt svar 3": "25-30"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes cellerne der måler CO2, O2 og pH?",
+      "Korrekt svar": "kemoreceptorer",
+      "Ukorrekt svar 1": "baroreceptorer",
+      "Ukorrekt svar 2": "motoriske celler",
+      "Ukorrekt svar 3": "sympatiske celler"
+    },
+    {
+      "Spørgsmål": "Ved inspiration skabes der ",
+      "Korrekt svar": "undertryk i lungerne",
+      "Ukorrekt svar 1": "overtryk i lungerne",
+      "Ukorrekt svar 2": "undertryk i luftrøret men overtryk i alveolerne",
+      "Ukorrekt svar 3": " overtryk i luftrøret men i undertryk alveolerne"
+    },
+    {
+      "Spørgsmål": "I luftvejene findes ciliebærende celler, hvilken funktion har disse ciliebærendeceller?",
+      "Korrekt svar": "at transportere slimlaget hen mod svælget",
+      "Ukorrekt svar 1": "at transportere slimlaget ned mod alveolerne",
+      "Ukorrekt svar 2": "at transportere slimlaget op i cavitas nasi",
+      "Ukorrekt svar 3": "at mindske diffusions afstanden"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for næseskillevæggen",
+      "Korrekt svar": "septum nasi",
+      "Ukorrekt svar 1": "septum cordis",
+      "Ukorrekt svar 2": "concha nasalis",
+      "Ukorrekt svar 3": "os nasale"
+    },
+    {
+      "Spørgsmål": "Ved observation af patientens vejrtrækning tælles",
+      "Korrekt svar": "hvor mange vejrtrækninger der er pr. minut",
+      "Ukorrekt svar 1": "hvor mange hjerteslag der er pr. minut",
+      "Ukorrekt svar 2": "hvor stor vitalkapaciteten er ",
+      "Ukorrekt svar 3": "hvor stor lungvolumen er "
+    },
+    {
+      "Spørgsmål": "Hvad kaldes en udånding?",
+      "Korrekt svar": "eksspiration",
+      "Ukorrekt svar 1": "inspiration",
+      "Ukorrekt svar 2": "respiration",
+      "Ukorrekt svar 3": "vejrtrækning"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes en indånding?",
+      "Korrekt svar": "inspiration ",
+      "Ukorrekt svar 1": "eksspiration",
+      "Ukorrekt svar 2": "respiration",
+      "Ukorrekt svar 3": "vejrtrækning"
+    }

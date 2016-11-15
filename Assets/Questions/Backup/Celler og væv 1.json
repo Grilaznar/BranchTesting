@@ -1,0 +1,294 @@
+{
+      "Spørgsmål": "Hvorledes defineres en celle ?",
+      "Korrekt svar": "som den mindste levende enhed i organismen",
+      "Ukorrekt svar 1": "som den mindste molekyleenhed i organismen",
+      "Ukorrekt svar 2": "den mindste enhed i organismen der er synlig med det blotte øje",
+      "Ukorrekt svar 3": "den mindste enhed i organismen der kun kan ses i et mikroskop"
+    },
+    {
+      "Spørgsmål": "Hvad er nucleolus?",
+      "Korrekt svar": "kernelegemet",
+      "Ukorrekt svar 1": "cellekernen",
+      "Ukorrekt svar 2": "en nervecelle med udløbere",
+      "Ukorrekt svar 3": "kromosomer"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har mitochondrier?",
+      "Korrekt svar": "opbygning af energirige forbindelser som ATP",
+      "Ukorrekt svar 1": "udskillelse af energirige affaldsstoffer",
+      "Ukorrekt svar 2": "produktion af ilt",
+      "Ukorrekt svar 3": "opbygning af proteiner"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har ribosomer?",
+      "Korrekt svar": "små RNA-holdige korn,der medvirker ved proteinsyntesen",
+      "Ukorrekt svar 1": "små DNA-holdige korn",
+      "Ukorrekt svar 2": "organeller med membran og enzymer",
+      "Ukorrekt svar 3": "organeller der opkoncentrere proteiner"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den normale vækstcelledeling i legemscellerne",
+      "Korrekt svar": "en mitose",
+      "Ukorrekt svar 1": "en meiose",
+      "Ukorrekt svar 2": "en reduktionsdeling",
+      "Ukorrekt svar 3": "En kønscelledeling"
+    },
+    {
+      "Spørgsmål": "Hvad består cellemembranernes receptorer af?",
+      "Korrekt svar": "proteiner",
+      "Ukorrekt svar 1": "fedtstoffer",
+      "Ukorrekt svar 2": "kulhydrater",
+      "Ukorrekt svar 3": "fosfolipider"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har cellemembranernes receptorer?",
+      "Korrekt svar": "de er tilhæftningssted for hormoner",
+      "Ukorrekt svar 1": "tilhæftning for ilt",
+      "Ukorrekt svar 2": "de virker som ionkanaler for elektrolytter",
+      "Ukorrekt svar 3": "de danner Na/K pumpen"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på kønscelledelingen",
+      "Korrekt svar": "en meiose",
+      "Ukorrekt svar 1": "en mitose",
+      "Ukorrekt svar 2": "en vækstcelledeling",
+      "Ukorrekt svar 3": "en zygote celledeling"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har Golgi-apparatet?",
+      "Korrekt svar": "det opsamler og koncentrerer proteiner",
+      "Ukorrekt svar 1": "det har betydning for celledelingen",
+      "Ukorrekt svar 2": "det danner proteiner",
+      "Ukorrekt svar 3": "forbrændingen af glukose foregår her"
+    },
+    {
+      "Spørgsmål": "Hvor i cellerne dannes energien til de kemiske processer?",
+      "Korrekt svar": "i mitokondrierne",
+      "Ukorrekt svar 1": "i endoplasmatisk reticulum",
+      "Ukorrekt svar 2": "i golgi apparatet",
+      "Ukorrekt svar 3": "i lysosomerne"
+    },
+    {
+      "Spørgsmål": "Hvad er exocytose? ",
+      "Korrekt svar": "aktiv transport af størrer partikler ud af  cellen",
+      "Ukorrekt svar 1": "passiv transport af vand ind i cellen",
+      "Ukorrekt svar 2": "passiv transport af salt ind i cellen",
+      "Ukorrekt svar 3": "aktiv transport af stoffer ind i cellen"
+    },
+    {
+      "Spørgsmål": "Cellemembranen fungerer som en ",
+      "Korrekt svar": "barriere mellem cellen og dens omgivelser",
+      "Ukorrekt svar 1": "barriere mod bakterier",
+      "Ukorrekt svar 2": "barriere mod virus",
+      "Ukorrekt svar 3": "barriere mod udefrakommende fedtstoffer"
+    },
+    {
+      "Spørgsmål": "Cellemembranen er opbygget af ",
+      "Korrekt svar": "fosfolipider, kolesterol og membranproteiner",
+      "Ukorrekt svar 1": "fosfolipider og membranproteiner",
+      "Ukorrekt svar 2": "kolesterol og fosfolipider",
+      "Ukorrekt svar 3": "kolesterol og fedtsyrer"
+    },
+    {
+      "Spørgsmål": "Fosfolipidernes hydrofile ende er",
+      "Korrekt svar": "placeret ud mod ekstacellulærvæsken og ind mos intracellulærvæsken",
+      "Ukorrekt svar 1": "ind mod cellemembanens midte",
+      "Ukorrekt svar 2": "kun placeret ud mod den ekstracellulære side ",
+      "Ukorrekt svar 3": "kun placeret ud mod den intracellulære side "
+    },
+    {
+      "Spørgsmål": "Fosfolipidernes hydrofobe ende er",
+      "Korrekt svar": "placeret ind mod cellemembranens midte",
+      "Ukorrekt svar 1": "placeret ud mod ekstacellulærvæsken og ind mos intracellulærvæsken",
+      "Ukorrekt svar 2": "placeret ud mod den ekstracellulære side ",
+      "Ukorrekt svar 3": "placeret ud mod den intracellulære side "
+    },
+    {
+      "Spørgsmål": "Fosfolipider er opbygget af ",
+      "Korrekt svar": "glycerol, fosfat og to fedtsyrer",
+      "Ukorrekt svar 1": "fosfat og to fedtsyrer",
+      "Ukorrekt svar 2": "glycerol og to fedtsyrer",
+      "Ukorrekt svar 3": "glycerol, fosfat, kolesterol og to fedtsyrer"
+    },
+    {
+      "Spørgsmål": "Hvor findes epitelvæv?",
+      "Korrekt svar": "epitelvæv findes på overflader",
+      "Ukorrekt svar 1": "i knogler ",
+      "Ukorrekt svar 2": "i muskler ",
+      "Ukorrekt svar 3": "i nervevæv"
+    },
+    {
+      "Spørgsmål": "Hvad er anaerob forbrænding?",
+      "Korrekt svar": "forbrænding uden ilt",
+      "Ukorrekt svar 1": "forbrænding med ilt",
+      "Ukorrekt svar 2": "forbrænding med ilt eller uden ilt",
+      "Ukorrekt svar 3": "en oxidation"
+    },
+    {
+      "Spørgsmål": "Hvilke to ioner \"flytter\" natrium-kalium pumpen?",
+      "Korrekt svar": "Na+  og   K+",
+      "Ukorrekt svar 1": "Na+ og Ca++",
+      "Ukorrekt svar 2": "Na+  og Cl-",
+      "Ukorrekt svar 3": "Ca++ og K+"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det organel der færdigdanner og pakker proteiner",
+      "Korrekt svar": "golgiapparatet",
+      "Ukorrekt svar 1": "endoplasmatisk reticulum",
+      "Ukorrekt svar 2": "mitokondrie",
+      "Ukorrekt svar 3": "lysosom"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det organel der medvirker ved proteinsyntesen",
+      "Korrekt svar": "ribosom",
+      "Ukorrekt svar 1": "lysosom",
+      "Ukorrekt svar 2": "centriole",
+      "Ukorrekt svar 3": "glat endoplasmatisk reticulum"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det organel der indeholder enzymer, som nedbryder fagocyterede stoffer",
+      "Korrekt svar": "lysosom",
+      "Ukorrekt svar 1": "centriole",
+      "Ukorrekt svar 2": "glat endoplasmatisk reticulum",
+      "Ukorrekt svar 3": "mitokondrie"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det organel der indeholder cellens 46 kromosomer",
+      "Korrekt svar": "nucleus",
+      "Ukorrekt svar 1": "nucleolus",
+      "Ukorrekt svar 2": "kernelegemet",
+      "Ukorrekt svar 3": "glat endoplasmatisk reticulum"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de organeller der fordeler kromosomerne under celledeling",
+      "Korrekt svar": "centrioler",
+      "Ukorrekt svar 1": "nucleolus",
+      "Ukorrekt svar 2": "ribosomer",
+      "Ukorrekt svar 3": "vesikler"
+    },
+    {
+      "Spørgsmål": "Hvad er et gen?",
+      "Korrekt svar": "gener er stykker af DNA",
+      "Ukorrekt svar 1": "gener er stykker af proteiner i kernen",
+      "Ukorrekt svar 2": "gener er stykker af tRNA",
+      "Ukorrekt svar 3": "gener er stykker af rRNA"
+    },
+    {
+      "Spørgsmål": "Hvor mange kromosompar findes i en celle?",
+      "Korrekt svar": "23 par",
+      "Ukorrekt svar 1": "46 par ",
+      "Ukorrekt svar 2": "46 par ",
+      "Ukorrekt svar 3": "2 par homologe kromosomer"
+    },
+    {
+      "Spørgsmål": "Hvor mange gener har mennesker ca.",
+      "Korrekt svar": "25.000 gener",
+      "Ukorrekt svar 1": "50.000 gener",
+      "Ukorrekt svar 2": "75.000 gener",
+      "Ukorrekt svar 3": "100.000 gener"
+    },
+    {
+      "Spørgsmål": "Hvilken base findes ikke i DNA?",
+      "Korrekt svar": "urasil",
+      "Ukorrekt svar 1": "adenin",
+      "Ukorrekt svar 2": "thymin",
+      "Ukorrekt svar 3": "guanin"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående er ikke transport ved diffusion?",
+      "Korrekt svar": "natrium-kalium pumpen",
+      "Ukorrekt svar 1": "osmose",
+      "Ukorrekt svar 2": "faciliteret diffusion",
+      "Ukorrekt svar 3": "ionkanaler"
+    },
+    {
+      "Spørgsmål": "Hvad betyder osmose?",
+      "Korrekt svar": "diffusion af vand",
+      "Ukorrekt svar 1": "diffusion af ioner",
+      "Ukorrekt svar 2": "diffusion af glukose og aminosyrer",
+      "Ukorrekt svar 3": "osmose betyder aktiv transport"
+    },
+    {
+      "Spørgsmål": "Diffusion er altid ",
+      "Korrekt svar": "en passiv transport",
+      "Ukorrekt svar 1": "en pumpe ",
+      "Ukorrekt svar 2": "en aktiv transport",
+      "Ukorrekt svar 3": "en energikrævende transport"
+    },
+    {
+      "Spørgsmål": "Diffusion er en ",
+      "Korrekt svar": "ikke energi krævende transport",
+      "Ukorrekt svar 1": " energi krævende transport",
+      "Ukorrekt svar 2": "en aktiv transport",
+      "Ukorrekt svar 3": "endo- eller eksocytose"
+    },
+    {
+      "Spørgsmål": "Diffusion er altid bevægelse af et stof ",
+      "Korrekt svar": "fra høj til lav koncentration af stoffet",
+      "Ukorrekt svar 1": "fra lav til høj koncentration af stoffet",
+      "Ukorrekt svar 2": "ved hjælp af pumper ",
+      "Ukorrekt svar 3": "ved hjælp af aktiv transport"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedstående transport former er energikrævende?",
+      "Korrekt svar": "pumoer",
+      "Ukorrekt svar 1": "diffusion af ioner",
+      "Ukorrekt svar 2": "diffusion af glukose og aminosyrer",
+      "Ukorrekt svar 3": "osmose "
+    },
+    {
+      "Spørgsmål": "Hvad sker der ved endocytose?",
+      "Korrekt svar": "cellen optager større partikler eller væske",
+      "Ukorrekt svar 1": "cellen udskiller større partikler",
+      "Ukorrekt svar 2": "cellen sender stoffer rundt i cytoplasma",
+      "Ukorrekt svar 3": "cellen danner endosporer"
+    },
+    {
+      "Spørgsmål": "Hvad sker der ved eksocytose?",
+      "Korrekt svar": "vesiklers indhold tømmes ud af cellen",
+      "Ukorrekt svar 1": "cellen optager stoffer ",
+      "Ukorrekt svar 2": "cellen optager opløste partikler i væske",
+      "Ukorrekt svar 3": "cellen udskiller sine gener"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes mitose også?",
+      "Korrekt svar": "vækstcelledeling",
+      "Ukorrekt svar 1": "meiosen",
+      "Ukorrekt svar 2": "kønscelledeling",
+      "Ukorrekt svar 3": "reduktionsdeling"
+    },
+    {
+      "Spørgsmål": "Hvad er slut produktet efter en mitosecelledeling?",
+      "Korrekt svar": "to identiske datterceller ",
+      "Ukorrekt svar 1": "to forskellige datterceller",
+      "Ukorrekt svar 2": "fire ens kønsceller",
+      "Ukorrekt svar 3": "fire forskellige kønsceller"
+    },
+    {
+      "Spørgsmål": "Hvad er slutproduktet efter en meiosecelledeling hos manden?",
+      "Korrekt svar": "fire genetisk forskellige kønsceller ",
+      "Ukorrekt svar 1": "fire genetisk ens kønsceller",
+      "Ukorrekt svar 2": "to ens datterceller",
+      "Ukorrekt svar 3": "en kønscelle og tre polceller"
+    },
+    {
+      "Spørgsmål": "Hvor mange kromosomer indholder en ægcelle?",
+      "Korrekt svar": "23 kromosomer ",
+      "Ukorrekt svar 1": "23 par kromosomer",
+      "Ukorrekt svar 2": "46 kromosomer ",
+      "Ukorrekt svar 3": "46 dobbelt kromosomer"
+    },
+    {
+      "Spørgsmål": "Hvad er DNA replikation?",
+      "Korrekt svar": "det er når cellens 46 kromosomer fordobles inden celledeling",
+      "Ukorrekt svar 1": "det er en del af cellens proteinsyntese",
+      "Ukorrekt svar 2": "der er når cellen danner fedtstoffer",
+      "Ukorrekt svar 3": "det er translation i forbindelse med mRNA"
+    },
+    {
+      "Spørgsmål": "Hvad er væv?",
+      "Korrekt svar": "en samling af ens celler ",
+      "Ukorrekt svar 1": "en samling af forskellige celler",
+      "Ukorrekt svar 2": "celler med forskelligt udseende",
+      "Ukorrekt svar 3": "celler der kun findes i nervesystemet"
+    }

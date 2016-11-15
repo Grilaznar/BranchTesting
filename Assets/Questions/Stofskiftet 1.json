@@ -1,0 +1,124 @@
+    {
+      "questionText": "Stofskiftet er",
+      "answers":["En samle-betegnelse for kroppens opbyggende og nedbrydende processer", "En betegnelse for celler der afstødes for at erstattes af nye", "Det samme som anabolisme", "Det samme som katabolisme"]
+    }
+    {
+      "questionText": "Anabolisme er",
+      "answers":["En samlebetegnelse for kroppens opbyggende processer", "En samlebetegnelse for kroppens nedbrydende processer", "Nedrydningen af anabole steroider", "En fællesbetegnelse for metabolisme og katabolisme"]
+    }
+    {
+      "questionText": "Katabolisme er",
+      "answers":["En samlebetegnelse for kroppens nedbrydende processer", "En samlebetegnelse for kroppens opbyggende processer", "Opbygning af katekolaminer", "En fællesbetegnelse for metabolisme og anabolisme"]
+    }
+    {
+      "questionText": "Ved katabolismen",
+      "answers":["Nedbrydes kulhydrat, fedt og protein til energi", "Anvendes energi til at bygge kulhydrat, fedt og proteiner", "Forbruges ATP", "Kopieres DNA"]
+    }
+    {
+      "questionText": "Proces, hvor næringsstoffer omdannes til kuldioxid, vand og energi under forbrug af ilt",
+      "answers":["Aerob forbrænding", "Oxidativ decarboxylering", "Anaerob forbrænding", "Anabolisme"]
+    }
+    {
+      "questionText": "Proces, hvor glukose nedbrydes til mælkesyre og en begrænset mængde energi",
+      "answers":["Anaerob forbrænding", "Glykogenolyse", "Glykoneogenese", "Aerob forbrænding"]
+    }
+    {
+      "questionText": "Celleorganel nødvendig for den aerobe forbrænding",
+      "answers":["Mitokondrie", "Golgiapparat", "Lysosom", "Endoplasmatisk retikulum"]
+    }
+    {
+      "questionText": "Carbamid er et affaldsstof ved forbrændingen af ",
+      "answers":["Aminosyrer", "Glukose", "Fedtsyrer", "Kolesterol"]
+    }
+    {
+      "questionText": "I tarmepitelet optages monoglyceriderne",
+      "answers":["fruktose, galaktose og glukose", "laktose, glukose og fruktose", "sukrose, galaktose og glukose", "galaktose, sukrose og fruktose"]
+    }
+    {
+      "questionText": "Absorberede monosakkarider transporteres med vena portae til",
+      "answers":["Leveren", "Vena subclavia sinister", "Glandula portae", "Glandula parathyroidea"]
+    }
+    {
+      "questionText": "Lever- og rmuskelcellerne deponerer glukose som ",
+      "answers":["Glykogen", "Stivelse", "Glykoneogenese", "Glycerol"]
+    }
+    {
+      "questionText": "Når leveren modtager monosakkariderne fruktose og galaktose fra tarmen, omdannes de til",
+      "answers":["Glukose", "Aminosyrer", "Glycerol", "DNA"]
+    }
+    {
+      "questionText": "Energiudbyttet ved aerob i forhld til anaerob glukoseforbrænding er ca X gange større",
+      "answers":["X = 19", "X = 2", "X = 32", "X = 12"]
+    }
+    {
+      "questionText": "Kroppens glykogendepoter findes i ",
+      "answers":["Lever og muskler", "Muskler og fedtvæv", "Blodet", "Lever og nyrer"]
+    }
+    {
+      "questionText": "Kan leveren bruge kvælstoffet fra deaminerede aminosyrer til at lave kreatin",
+      "answers":["Ja da", "Hell no", "Nå", "Næppe"]
+    }
+    {
+      "questionText": "Hvilke lipoproteiner findes IKKE i blodet",
+      "answers":["Miceller", "HDL", "LDL", "VLDL"]
+    }
+    {
+      "questionText": "Hvilken funktion tjener lipoproteinerne",
+      "answers":["Gør lipiderne vandopløselige", "Sikrer en effektiv membranpassage", "Indgår i proteinsyntesen", "Bistår i lipasenes nedbrydning af fedtstoffer"]
+    }
+    {
+      "questionText": "Fra hvilket stof kan leveren lave galdesure salte",
+      "answers":["Kolesterol", "Glukose", "Aminosyrer", "Triglycerider"]
+    }
+    {
+      "questionText": "Hvor findes vores primære fedtdepoter",
+      "answers":["I subcutis og peritoneum", "I leveren og nyrene", "I Statum basale og statum lucidum", "I knoglemarvshulen"]
+    }
+    {
+      "questionText": "Nyrernes tærskelværdi for glukose er. ",
+      "answers":["10 mmol/L", "8 mmol/L", "12 mmol/L", "22 mmol/L"]
+    }
+    {
+      "questionText": "Hvilket af disse hormoner har ikke betydning for blodsukkeret?",
+      "answers":["Aldosteron", "Kortisol ", "Glukagon", "Adrenalin"]
+    }
+    {
+      "questionText": "Hvilket af disse hormoner har ikke betydning for blodsukkeret?",
+      "answers":["Aldosteron", "Insulin ", "Glukagon", "Adrenalin"]
+    }
+    {
+      "questionText": "Hvilken påstand om insulin er IKKE korrekt",
+      "answers":["Insulin hæver blodsukkeret", "Insulin dannes i betaceller i pancreas", "Insulin fremmer fedtcellers optag af fedtsyrer", "Insulin fremmer cellers optag af aminosyrer"]
+    }
+    {
+      "questionText": "Glukagon",
+      "answers":["Hæver blodsukkeret", "Hæmmer glukoneogenesen", "Dannes i betaceller i pancreas", "Fremmer dannelsen af glykogen"]
+    }
+    {
+      "questionText": "Ved aerob forbrænding af kulhydrat dannes der energimængden:",
+      "answers":["17 kJ/g", "38 kJ/g", "2 kJ/g", "36 kJ/g"]
+    }
+    {
+      "questionText": "Ved aerob forbrænding af fedt dannes der energimængden:",
+      "answers":["38 kJ/g", "17 kJ/g", "2 kJ/g", "36 kJ/g"]
+    }
+    {
+      "questionText": "Ved aerob forbrænding af protein dannes der energimængden:",
+      "answers":["17 kJ/g", "38 kJ/g", "36 kJ/g", "34 kJ/g"]
+    }
+    {
+      "questionText": "Hvad er ATP?",
+      "answers":["Et molekyle der holder på forbrændingsenergi indtil den skal bruges", "En central byggesten i DNA", "Et vigtigt molekyle i Renin-Angiotensin-Aldosteron systemet", "Et nedbrydningsprodukt fra proteinfordøjelsen"]
+    }
+    {
+      "questionText": "Hvor findes det appetitregulerende center",
+      "answers":["Hypothalamus", "Medulla oblongata", "Hypofysen", "Substantia nigra"]
+    }
+    {
+      "questionText": "Hvad er varmeledning",
+      "answers":["Temperaturændring af huden ved berøring af et koldere eller varmere emne", "Temperatur ændring af huden som følge af varmestråling", "Temperaturændring af huden som følge af udskiftning af den omkringliggende luft eller vand", "Temperaturændring af huden som følge af svedsekretion"]
+    }
+    {
+      "questionText": "Hvor findes det temperaturregulerende center?",
+      "answers":["Hypothalamus", "Medulla oblongata", "Hypofysen", "Substantia nigra"]
+    }

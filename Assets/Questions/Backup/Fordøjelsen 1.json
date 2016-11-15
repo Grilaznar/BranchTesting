@@ -1,0 +1,301 @@
+{
+      "Spørgsmål": "Hvor dannes enzymet lipase?",
+      "Korrekt svar": "i bugspytkirtlen",
+      "Ukorrekt svar 1": "i mavesækken",
+      "Ukorrekt svar 2": "i duodenum",
+      "Ukorrekt svar 3": "i leveren"
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymforstadiet pepsinogen?",
+      "Korrekt svar": "i mavesækken",
+      "Ukorrekt svar 1": "i duodenum",
+      "Ukorrekt svar 2": "i bugspytkirtlen",
+      "Ukorrekt svar 3": "i leveren"
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymforstadiet trypsinogen?",
+      "Korrekt svar": "i bugspytkirtlen",
+      "Ukorrekt svar 1": "i leveren ",
+      "Ukorrekt svar 2": "i mavesækken",
+      "Ukorrekt svar 3": "i leveren"
+    },
+    {
+      "Spørgsmål": "Hvor dannes  peptidaser enzymerne?",
+      "Korrekt svar": "i tyndtarmen",
+      "Ukorrekt svar 1": "i mavesækken ",
+      "Ukorrekt svar 2": "i leveren",
+      "Ukorrekt svar 3": "i bugspytkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymerne laktase, sukrase og maltase?",
+      "Korrekt svar": "i tyndtarmen",
+      "Ukorrekt svar 1": "i mavesækken",
+      "Ukorrekt svar 2": "i leveren ",
+      "Ukorrekt svar 3": "i bugspytkirtlen"
+    },
+    {
+      "Spørgsmål": "I hvilke kirtler dannes enzymet amylase)",
+      "Korrekt svar": "spytkirtlerne og bugspytkirtlerne",
+      "Ukorrekt svar 1": "i mavesækken og spytkirtlerne",
+      "Ukorrekt svar 2": "i leveren og spytkirtlerne",
+      "Ukorrekt svar 3": "i tyndtarmen og spytkirtlerne"
+    },
+    {
+      "Spørgsmål": "Hvilket af nedenstående stoffer findes ikke i galde?",
+      "Korrekt svar": "lipase",
+      "Ukorrekt svar 1": "galdesuresalte ",
+      "Ukorrekt svar 2": "bilirubin ",
+      "Ukorrekt svar 3": "kolesterol"
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymforstadiet trypsinogen?",
+      "Korrekt svar": "i bugspytkirtlen",
+      "Ukorrekt svar 1": "i leveren ",
+      "Ukorrekt svar 2": "i tyndtarmen",
+      "Ukorrekt svar 3": "i mavesækken"
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymet pepsin?",
+      "Korrekt svar": "i ventriculus",
+      "Ukorrekt svar 1": "i hepar",
+      "Ukorrekt svar 2": "i intestinum tenue",
+      "Ukorrekt svar 3": "i pancreas"
+    },
+    {
+      "Spørgsmål": "Tyndtarmen har en meget stor overlade. Hvilket bygningstræk i tarmcellerne er med til at give denne store overflade?",
+      "Korrekt svar": "at tarmcellerne danner mikrovilli",
+      "Ukorrekt svar 1": "at tarmcellerne sidder i fordybninger",
+      "Ukorrekt svar 2": "at tarmcellerne er meget lange",
+      "Ukorrekt svar 3": "at tarmcellerne er store celler"
+    },
+    {
+      "Spørgsmål": "Hvor mange par spytkirtler har mennesket?",
+      "Korrekt svar": "tre par",
+      "Ukorrekt svar 1": "et par",
+      "Ukorrekt svar 2": "to par ",
+      "Ukorrekt svar 3": "fire par"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for den spytkirtel der findes ved øret",
+      "Korrekt svar": "gl. parotidea",
+      "Ukorrekt svar 1": "gl. submandibularis",
+      "Ukorrekt svar 2": "gl. sublingualis",
+      "Ukorrekt svar 3": "gl. pineale"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den spytkirtel der findes under tungen?",
+      "Korrekt svar": "gl. sublingualis",
+      "Ukorrekt svar 1": "gl. submandibularis",
+      "Ukorrekt svar 2": "gl. parotidea",
+      "Ukorrekt svar 3": "gl. pineale"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den spytkirtel der sidder ved underkæben?",
+      "Korrekt svar": "gl. submandibularis",
+      "Ukorrekt svar 1": "gl. sublingualis",
+      "Ukorrekt svar 2": "gl. parotidea",
+      "Ukorrekt svar 3": "gl. pineale"
+    },
+    {
+      "Spørgsmål": "Nævn hvad spyt hedder på latin",
+      "Korrekt svar": "saliva",
+      "Ukorrekt svar 1": "lysozym",
+      "Ukorrekt svar 2": "lingua",
+      "Ukorrekt svar 3": "mucin"
+    },
+    {
+      "Spørgsmål": "Nævn mundhulens latinske navn",
+      "Korrekt svar": "cavitas oris",
+      "Ukorrekt svar 1": "cavitas nasi",
+      "Ukorrekt svar 2": "vestibulum oris",
+      "Ukorrekt svar 3": "cavitasuteri"
+    },
+    {
+      "Spørgsmål": "Nævn svælgets latinske navn",
+      "Korrekt svar": "pharynx",
+      "Ukorrekt svar 1": "trachea",
+      "Ukorrekt svar 2": "larynx",
+      "Ukorrekt svar 3": "epiglottis"
+    },
+    {
+      "Spørgsmål": "Det latinske navn for mavesækken er ventriculus, men hvad er det græske navn for mavesækken?",
+      "Korrekt svar": "gaster",
+      "Ukorrekt svar 1": "gastrin",
+      "Ukorrekt svar 2": "gastriculus",
+      "Ukorrekt svar 3": "intestinum tenue"
+    },
+    {
+      "Spørgsmål": "Hvor findes Cardia?",
+      "Korrekt svar": "der hvor spiserøret løber ind i mavesækken",
+      "Ukorrekt svar 1": "ved overgangen mellem mavesækken og duodenum",
+      "Ukorrekt svar 2": "ved overgangen mellem tyndtarm og tyktarm",
+      "Ukorrekt svar 3": "ved øverste del af spiserøret"
+    },
+    {
+      "Spørgsmål": "Hvad er peristaltik?",
+      "Korrekt svar": "rytmiske kontraktioner af  glat muskulatur ",
+      "Ukorrekt svar 1": "rytmiske kontraktioner af tværstribet muskulatur",
+      "Ukorrekt svar 2": "rytmiske kontraktioner i milten der giver sidesting/stik",
+      "Ukorrekt svar 3": "rytmiske kontraktioner i blodkarrene der fører til mavesækken"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det hormon der dannes i mavesækken",
+      "Korrekt svar": "gastrin",
+      "Ukorrekt svar 1": "gaster",
+      "Ukorrekt svar 2": "intrinsic faktor ",
+      "Ukorrekt svar 3": "pepsin"
+    },
+    {
+      "Spørgsmål": "Hvilke(n) funktion har saltsyren i mavesæken?",
+      "Korrekt svar": "at dræbe bakterier samt aktivering af pepsin",
+      "Ukorrekt svar 1": "at dræbe bakterier samt aktivering af trypsin",
+      "Ukorrekt svar 2": "at nedbryde proteiner samt at dræbe bakterier",
+      "Ukorrekt svar 3": "at nedbryde proteiner"
+    },
+    {
+      "Spørgsmål": "Nævn hvor meget pH er i mavesækken",
+      "Korrekt svar": "2-3",
+      "Ukorrekt svar 1": "4-6",
+      "Ukorrekt svar 2": "7",
+      "Ukorrekt svar 3": "8-9"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes det mest almindelige fedt i vores mad ?",
+      "Korrekt svar": "triglycerider",
+      "Ukorrekt svar 1": "kolesterol",
+      "Ukorrekt svar 2": "oliesyre",
+      "Ukorrekt svar 3": "smørsyre"
+    },
+    {
+      "Spørgsmål": "Imellem svælg og tyndtarm er ",
+      "Korrekt svar": "spiserør og mavesæk indskudt",
+      "Ukorrekt svar 1": "bugspytkirtel og nyrer",
+      "Ukorrekt svar 2": "tyktarm og mavesæk indskudt",
+      "Ukorrekt svar 3": "lever og rectum indskudt"
+    },
+    {
+      "Spørgsmål": "Det blivende tandsæt, dentes permanentes, består af",
+      "Korrekt svar": "32 tænder ialt",
+      "Ukorrekt svar 1": "28 tænder ialt",
+      "Ukorrekt svar 2": "30 tænder ialt ",
+      "Ukorrekt svar 3": "20 tænder ialt"
+    },
+    {
+      "Spørgsmål": "Spiserøret kan betragtes som  ",
+      "Korrekt svar": "et 25 cm langt muskulært rør, der udfører peristaltik",
+      "Ukorrekt svar 1": "et 25 cm langt rør, opbygget af bruskringe",
+      "Ukorrekt svar 2": "et 25 cm lang, ubevægeligt muskelrør",
+      "Ukorrekt svar 3": "et 25 cm langt rør, med cylinderepitel og mikrovilli"
+    },
+    {
+      "Spørgsmål": "Mavesækken inddeles opefra og nedefter i ",
+      "Korrekt svar": "fundus ventriculi, corpus ventriculi og pars pylorica",
+      "Ukorrekt svar 1": "corpus ventriculi, pars pylorica og fundus ventriculi",
+      "Ukorrekt svar 2": "pars pylorica, corpus ventriculi og fundus ventriculi",
+      "Ukorrekt svar 3": "bindevævs hinde, tre lag glat muskulatur og en slimhinde"
+    },
+    {
+      "Spørgsmål": "Tyndtarmen kan betragtes som",
+      "Korrekt svar": "et 25 cm langt buet rør, der starter med en udvidelse, bulbus duodeni",
+      "Ukorrekt svar 1": "en 10 cm lang, ligeforløbende begyndelse på tyndtarmen",
+      "Ukorrekt svar 2": "en kort tarm med tolv små udvidelser",
+      "Ukorrekt svar 3": "en udvidelse af papilla vateri, "
+    },
+    {
+      "Spørgsmål": "En af tyktarmens vigtigste funktioner er at",
+      "Korrekt svar": "at absorbere elektrolytter og væske",
+      "Ukorrekt svar 1": "at absorbere næringsstoffer",
+      "Ukorrekt svar 2": "at nedbryde proteiner",
+      "Ukorrekt svar 3": "at dræbe bakterier"
+    },
+    {
+      "Spørgsmål": "Mennesker med laktoseintolerans kan ikke ",
+      "Korrekt svar": "nedbryde laktose i mælkeprodukter",
+      "Ukorrekt svar 1": "nebryde laktose i planter",
+      "Ukorrekt svar 2": "få for meget mælkesukker",
+      "Ukorrekt svar 3": "nedbryde sukrose i maden"
+    },
+    {
+      "Spørgsmål": "Hvilket af nedenstående udsagn er ikke en af mavesækkens funktioner?",
+      "Korrekt svar": "at nedbryde triglycerider",
+      "Ukorrekt svar 1": "at nedbryde proteiner",
+      "Ukorrekt svar 2": "at optage lidt glukose, alkohol og visse lægemidler",
+      "Ukorrekt svar 3": "at dræbe mikroorganismer"
+    },
+    {
+      "Spørgsmål": "Afføringstrangen(defækation) udløses når ",
+      "Korrekt svar": "ampulla recti strækkes",
+      "Ukorrekt svar 1": "faldende tryk i abdomen",
+      "Ukorrekt svar 2": "stigende tryk i tyndtarmen",
+      "Ukorrekt svar 3": "afføringens irritation af tyndtarmen"
+    },
+    {
+      "Spørgsmål": "Pankreas er speciel derved ",
+      "Korrekt svar": "at den både er endokrin og eksokrin",
+      "Ukorrekt svar 1": "at den styres af det somatiske nervesystem",
+      "Ukorrekt svar 2": "at dens udførselsgang ligger i ileum",
+      "Ukorrekt svar 3": "at den producerer et meget surt sekret"
+    },
+    {
+      "Spørgsmål": "Hepar er beliggende",
+      "Korrekt svar": "i bughulen højre side, lige under diaphragma",
+      "Ukorrekt svar 1": "i bunden af bughulens højre side",
+      "Ukorrekt svar 2": "i bugulens venstre side foroven",
+      "Ukorrekt svar 3": "i bughulens venstre side forneden"
+    },
+    {
+      "Spørgsmål": "Galdeblæren har til opgave ",
+      "Korrekt svar": "at opbevare og opkoncentrere galden",
+      "Ukorrekt svar 1": "at producere galde",
+      "Ukorrekt svar 2": "at fortynde galden under et måltid",
+      "Ukorrekt svar 3": "at lede fedtsyrer over i blodet"
+    },
+    {
+      "Spørgsmål": "Proteiner er opbygget af ",
+      "Korrekt svar": "aminosyrer",
+      "Ukorrekt svar 1": "monosakkarider",
+      "Ukorrekt svar 2": "fedtsyrer",
+      "Ukorrekt svar 3": "glycerol og aminosyrer"
+    },
+    {
+      "Spørgsmål": "Stivelse er opbygget af ",
+      "Korrekt svar": "glukose enheder",
+      "Ukorrekt svar 1": "aminosyrer",
+      "Ukorrekt svar 2": "glycerol og fedtsyrer",
+      "Ukorrekt svar 3": "glukose og fruktose"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den opstigende del af colon",
+      "Korrekt svar": "colon ascendens",
+      "Ukorrekt svar 1": "colon descendens",
+      "Ukorrekt svar 2": "colon transversum",
+      "Ukorrekt svar 3": "colon sigmoideum"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den tværgående del af colon ",
+      "Korrekt svar": "colon transversum",
+      "Ukorrekt svar 1": "colon ascendens",
+      "Ukorrekt svar 2": "colon descendens",
+      "Ukorrekt svar 3": "colon sigmoideum"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den nedstigende del af colon",
+      "Korrekt svar": "colon descendens ",
+      "Ukorrekt svar 1": "colon transversum",
+      "Ukorrekt svar 2": "colon ascendens",
+      "Ukorrekt svar 3": "colon sigmoideum"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den s-formede del af colon",
+      "Korrekt svar": "colon sigmoideum",
+      "Ukorrekt svar 1": "colon descendens",
+      "Ukorrekt svar 2": "colon transversum",
+      "Ukorrekt svar 3": "colon ascendens"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det yderste længdegående lag glat muskulatur i colon",
+      "Korrekt svar": "taeniae, tæniæ",
+      "Ukorrekt svar 1": "haustra",
+      "Ukorrekt svar 2": "plicae semicirculares",
+      "Ukorrekt svar 3": "plicae circulares"
+    }

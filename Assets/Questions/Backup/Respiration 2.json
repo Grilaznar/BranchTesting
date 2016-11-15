@@ -1,0 +1,432 @@
+
+    {
+      "Spørgsmål": "Nævn det latinske navn for næsemuslingene ",
+      "Korrekt svar": "concha nasalis",
+      "Ukorrekt svar 1": "vestibulum nasi",
+      "Ukorrekt svar 2": "cavitas nasi",
+      "Ukorrekt svar 3": "pharynx"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den inderste lungehinde?",
+      "Korrekt svar": "pleura visceralis",
+      "Ukorrekt svar 1": "peritoneum",
+      "Ukorrekt svar 2": "hilus pulmonalis",
+      "Ukorrekt svar 3": "pleura parietalis"
+    },
+    {
+      "Spørgsmål": "Hvad hedder strukturerne for enden af de respiratoriske alveoler?",
+      "Korrekt svar": "alveoler",
+      "Ukorrekt svar 1": "bronkioler",
+      "Ukorrekt svar 2": "lungekapillærer",
+      "Ukorrekt svar 3": "arterioler"
+    },
+    {
+      "Spørgsmål": "Hvor stor er lungernes indre overfladeareal?",
+      "Korrekt svar": "80-100m2",
+      "Ukorrekt svar 1": "150m2",
+      "Ukorrekt svar 2": "200m2",
+      "Ukorrekt svar 3": "250m2"
+    },
+    {
+      "Spørgsmål": "Hvilken celletype opbygger alveolevæggen?",
+      "Korrekt svar": "enlaget pladeepitel",
+      "Ukorrekt svar 1": "enlaget cylinderepitel",
+      "Ukorrekt svar 2": "flerlaget pladeepitel",
+      "Ukorrekt svar 3": "urotel"
+    },
+    {
+      "Spørgsmål": "Hvad hedder det stof, der forhindrer at lungerne klapper sammen?",
+      "Korrekt svar": "surfaktant",
+      "Ukorrekt svar 1": "lipoprotein",
+      "Ukorrekt svar 2": "glukoprotein",
+      "Ukorrekt svar 3": "lysozym"
+    },
+    {
+      "Spørgsmål": "Hvad hedder celletypen der opbygger lungekapillærvæggen?",
+      "Korrekt svar": "enlaget pladeepitel",
+      "Ukorrekt svar 1": "flerlaget pladeepitel",
+      "Ukorrekt svar 2": "enlaget cylinderepitel",
+      "Ukorrekt svar 3": "overgangsepitel"
+    },
+    {
+      "Spørgsmål": "Ved inspiration skal der skabes:",
+      "Korrekt svar": "et undertryk i lungerne ",
+      "Ukorrekt svar 1": "et overtryk i lungerne ",
+      "Ukorrekt svar 2": "et konstant højt tryk i lungerne",
+      "Ukorrekt svar 3": "et stigende tryk i lungerne"
+    },
+    {
+      "Spørgsmål": "Hvad sker der med lungerne når diphragma kontraheres?",
+      "Korrekt svar": " der opstår undertryk i lungerne, som suger luft ind",
+      "Ukorrekt svar 1": "der opstår overtryk i lungerne"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den yderste lungehinde?",
+      "Korrekt svar": "pleura parietalis",
+      "Ukorrekt svar 1": "pleura visceralis",
+      "Ukorrekt svar 2": "lobus parietalis",
+      "Ukorrekt svar 3": "pleurahulen"
+    },
+    {
+      "Spørgsmål": "Hvilket stof danner overfladespændingen på alveolernes inderside?",
+      "Korrekt svar": "vand",
+      "Ukorrekt svar 1": "glukoprotein",
+      "Ukorrekt svar 2": "surfaktant",
+      "Ukorrekt svar 3": "lipoprotein"
+    },
+    {
+      "Spørgsmål": "Hvad hedder musklerne mellem ribbenene?",
+      "Korrekt svar": "mm.intercostales",
+      "Ukorrekt svar 1": "mm. intersterni",
+      "Ukorrekt svar 2": "mm. intercosta",
+      "Ukorrekt svar 3": "musculus. costalis"
+    },
+    {
+      "Spørgsmål": "Hvordan er koncentrationen af O2 og CO2 i lungevenerne?",
+      "Korrekt svar": "høj O2 koncentration og lav CO2 koncentration",
+      "Ukorrekt svar 1": "lav O2 koncentration og høj CO2 koncentration",
+      "Ukorrekt svar 2": "lav O2 koncentration og lav CO2 koncentration",
+      "Ukorrekt svar 3": "høj O2 koncentration og høj CO2 koncentration"
+    },
+    {
+      "Spørgsmål": "Den alveolære ventilation er afhængig af:",
+      "Korrekt svar": "åde respirationsfrekvensen og respirationsdybden",
+      "Ukorrekt svar 1": "kun respirationsfrekvensen ",
+      "Ukorrekt svar 2": "de accessoriske respirationsmuskler",
+      "Ukorrekt svar 3": "abdominal respiration"
+    },
+    {
+      "Spørgsmål": "Respirationsepitel indeholder to typer celler, hvilke?",
+      "Korrekt svar": "ciliebærende celler og bægerceller",
+      "Ukorrekt svar 1": "ciliebærende celler og pladeepitel",
+      "Ukorrekt svar 2": "pladeepitel og cylinderepitel",
+      "Ukorrekt svar 3": "pladeepitel og bægerceller"
+    },
+    {
+      "Spørgsmål": "Hvilken relation har hjernestammen til lungerne?",
+      "Korrekt svar": "i hjernestammen findes respirationscentret",
+      "Ukorrekt svar 1": " hjernestammen og lungerne har ingen relationer",
+      "Ukorrekt svar 2": "hjernestammen bestemmer alveolernes antal",
+      "Ukorrekt svar 3": "hjernestammen danner surfaktant til lungerne"
+    },
+    {
+      "Spørgsmål": "Hvilke forhold i lungernes anatomi sikre en effektiv gasudveksling ved diffusion?",
+      "Korrekt svar": "stor konc.forskel, stort areal, kort afstand og 37 grader",
+      "Ukorrekt svar 1": "lille konc. forskel og stor afstand mellem luft og blod",
+      "Ukorrekt svar 2": "lang transportvej  gennem de kondutive luftveje",
+      "Ukorrekt svar 3": "at lungerne er bygget af muskler og brusk"
+    },
+    {
+      "Spørgsmål": "Hvad gælder for arterierne i lungekredsløbet?",
+      "Korrekt svar": "transporterer blod med lav ilt indhold",
+      "Ukorrekt svar 1": "transporterer blod med høj ilt indhold",
+      "Ukorrekt svar 2": "transporterer blod med lav kuldioxid indhold",
+      "Ukorrekt svar 3": "transporterer blod med højt O2 og lavt CO2 indhold"
+    },
+    {
+      "Spørgsmål": "Hvad gælder for venerne i lungekredsløbet?",
+      "Korrekt svar": "transporterer blod med højt ilt indhold",
+      "Ukorrekt svar 1": "transporterer blod med højt lavt indhold",
+      "Ukorrekt svar 2": "transporterer blod med højt ilt indhold",
+      "Ukorrekt svar 3": "transporterer blod med lavt O2 og højt CO2 indhold"
+    },
+    {
+      "Spørgsmål": "Hvordan beregnes minutvolumen?",
+      "Korrekt svar": "respirationsfrekvens x respirationsdybde",
+      "Ukorrekt svar 1": "slagvolumen x hjertefrekvens",
+      "Ukorrekt svar 2": "inspiration x eksspiration",
+      "Ukorrekt svar 3": "den beregnes ikke men måles med et spirometer"
+    },
+    {
+      "Spørgsmål": "Hvad er vitalkapacitet?",
+      "Korrekt svar": "den maksimale luftmængde der kan eksspireres",
+      "Ukorrekt svar 1": "den mindste luftmængde der kan eksspireres",
+      "Ukorrekt svar 2": "den mængde luft der giver vitalitet",
+      "Ukorrekt svar 3": "den mængde luft der står i de øvre luftveje"
+    },
+    {
+      "Spørgsmål": "Hvad er tidalvolumen?",
+      "Korrekt svar": "den mængde luft der indåndes i hvile, ca 0,5l",
+      "Ukorrekt svar 1": "den mængde luft der indåndes i hvile, ca 2,5l",
+      "Ukorrekt svar 2": "den mængde luft der udåndesi hvile, ca 0,5l",
+      "Ukorrekt svar 3": "den mængde luft der står tilbage i lungerne efter eksspiration"
+    },
+    {
+      "Spørgsmål": "Hvor stor er den inspiratoriske reservevolumen?",
+      "Korrekt svar": "ca. 3 liter",
+      "Ukorrekt svar 1": "ca. 0,5 liter",
+      "Ukorrekt svar 2": "ca. 1 liter ",
+      "Ukorrekt svar 3": "ca. 1,5 liter "
+    },
+    {
+      "Spørgsmål": "Hvor stor er den eksspiratoriske reservevolumen?",
+      "Korrekt svar": "ca. 1 liter ",
+      "Ukorrekt svar 1": "ca. 2 liter",
+      "Ukorrekt svar 2": "ca. 3 liter",
+      "Ukorrekt svar 3": "ca. 4 liter"
+    },
+    {
+      "Spørgsmål": "Hvor sidder de kemoreceptorer der målerblodets pH og indhold af CO2 og O2?",
+      "Korrekt svar": "i arcus aorta og aa. carotis communis",
+      "Ukorrekt svar 1": "i truncus pulmonalis ",
+      "Ukorrekt svar 2": "i aorta thoracalis",
+      "Ukorrekt svar 3": "i vena cava superior og v. cava inferior"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse er ikke en bihule?",
+      "Ukorrekt svar 1": "sinus sagittalis",
+      "Ukorrekt svar 2": "sinus ethmoidalis",
+      "Ukorrekt svar 3": "sinus maxillaris"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse er ikke en bihule?",
+      "Korrekt svar": "sinus coronarius",
+      "Ukorrekt svar 1": "sinus frontalis",
+      "Ukorrekt svar 2": "sinus ethmoidalis",
+      "Ukorrekt svar 3": "sinus maxillaris"
+    },
+    {
+      "Spørgsmål": "Hvad er normalværdien for personer over 40 år med henssyn til iltmætning ?",
+      "Korrekt svar": "95-99%",
+      "Ukorrekt svar 1": "92-95%",
+      "Ukorrekt svar 2": "90-92%",
+      "Ukorrekt svar 3": "85-89%"
+    },
+    {
+      "Spørgsmål": "Hvor i luftvejene kan der optræde polypper i tonsilla pharyngealis?",
+      "Korrekt svar": "i næsesvælget",
+      "Ukorrekt svar 1": "i mundsvælget",
+      "Ukorrekt svar 2": "i strubesvælget",
+      "Ukorrekt svar 3": "i bronkiolerne"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der er sandt om bronkioler",
+      "Korrekt svar": "bronkioler er uden brusk ",
+      "Ukorrekt svar 1": "bronkioler findes i pleura",
+      "Ukorrekt svar 2": "bronkioler er større end bronkier",
+      "Ukorrekt svar 3": "bronkioler ender ikke i respiratoriske bronkioler"
+    },
+    {
+      "Spørgsmål": "Hæmoglobin der har bundet H+, kaldes",
+      "Korrekt svar": "reduceret hæmoglobin",
+      "Ukorrekt svar 1": "oxyhæmoglobin",
+      "Ukorrekt svar 2": "methæmoglobin",
+      "Ukorrekt svar 3": "deoxyhæmoglobin"
+    },
+    {
+      "Spørgsmål": "Iltmåling(saturation) måles mest præcist fra en ",
+      "Korrekt svar": "arterie, arteriepunktur",
+      "Ukorrekt svar 1": "vene, venepunktur",
+      "Ukorrekt svar 2": "kaillærer",
+      "Ukorrekt svar 3": "venole"
+    },
+    {
+      "Spørgsmål": "Hvilket stof dannes i erytrocytterne når CO2 reagerer med H2O? ",
+      "Korrekt svar": "H2CO3, kulsyre",
+      "Ukorrekt svar 1": "HCO3-, hydrogenkarbonation",
+      "Ukorrekt svar 2": "CO3--, karbonation",
+      "Ukorrekt svar 3": "C6H12O6, glukose"
+    },
+    {
+      "Spørgsmål": "Respirationscentret måler CO2, O2, pH, men på hvilken væske måles der?",
+      "Korrekt svar": "nervesystemets cerebrospinalvæske",
+      "Ukorrekt svar 1": "arterielt blod",
+      "Ukorrekt svar 2": "venøst blod ",
+      "Ukorrekt svar 3": "lymfevæske"
+    },
+    {
+      "Spørgsmål": "Hvilken effekt har en ophobning af CO2 i blodet?",
+      "Korrekt svar": "respirationsmusklernes arbejde øges",
+      "Ukorrekt svar 1": "respirationsmusklernes arbejde mindskes",
+      "Ukorrekt svar 2": "respirationsmusklerne afslappes",
+      "Ukorrekt svar 3": "respirationscentrest aktivitet mindskes"
+    },
+    {
+      "Spørgsmål": "Respiraionscentret modtager signaler fra lungerne, men fra hvilke celler?",
+      "Korrekt svar": "strækreceptorer i lungevævet",
+      "Ukorrekt svar 1": "kemoreceptorer i lungevævet",
+      "Ukorrekt svar 2": "barroreceptorer i lungerne",
+      "Ukorrekt svar 3": "pH receptorer i lungevævet"
+    },
+    {
+      "Spørgsmål": "Hvis pH er for høj og CO2 for lav så reagerer respirationscentret ved at",
+      "Korrekt svar": "sænke respirationsfrekvensen",
+      "Ukorrekt svar 1": "øge respirationsfrekvensen",
+      "Ukorrekt svar 2": "øge udskillelsen af CO2",
+      "Ukorrekt svar 3": "øge iltoptagelsen"
+    },
+    {
+      "Spørgsmål": "Hvis CO2 er for høj eller pH for lav så reagerere respirationscentret ved at",
+      "Korrekt svar": "øge respirationsfrekvensen og resp. dybden",
+      "Ukorrekt svar 1": "sænke respirationsfrekvensen og resp. dybden",
+      "Ukorrekt svar 2": "mindske udskillelsen af CO2",
+      "Ukorrekt svar 3": " mindske iltoptagelsen"
+    },
+    {
+      "Spørgsmål": "Hikke opstår ved spontane, korte muskelkontraktioner, men hvilken muskel(muskler) er der tale om?",
+      "Korrekt svar": "diaphragma",
+      "Ukorrekt svar 1": "intercostal musklerne",
+      "Ukorrekt svar 2": "bugmuskulaturen",
+      "Ukorrekt svar 3": "spiserørsmuskler"
+    },
+    {
+      "Spørgsmål": "Trykket i aorta er 120 mmHg, hvor meget er trykket i lungearterierne?",
+      "Korrekt svar": "15mmHg",
+      "Ukorrekt svar 1": "50 mmHg",
+      "Ukorrekt svar 2": "100mmHg",
+      "Ukorrekt svar 3": "120mmHg"
+    },
+    {
+      "Spørgsmål": "Hvorfor nedsætter en punkteret lunge gasudvekslingen?",
+      "Korrekt svar": "fordi diffusionsarealet nedsættes",
+      "Ukorrekt svar 1": "fordi diffusionafstanden nedsættes",
+      "Ukorrekt svar 2": "fordi diffusionsarealet øges",
+      "Ukorrekt svar 3": "fordi respirationsmusklerne standser"
+    },
+    {
+      "Spørgsmål": "Hvor i  luftvejene findes mandlerne, tonsillae palatinae?",
+      "Korrekt svar": "i mundsvælget",
+      "Ukorrekt svar 1": "i næsesvælget",
+      "Ukorrekt svar 2": "i strubesvælget",
+      "Ukorrekt svar 3": "i næsen"
+    },
+    {
+      "Spørgsmål": "Hvorfor nedsætter en lungeødem gasudvekslingen?",
+      "Korrekt svar": "fordi diffusionsafstanden øges",
+      "Ukorrekt svar 1": "fordi diffusionafstanden nedsættes",
+      "Ukorrekt svar 2": "fordi diffusionsarealet øges",
+      "Ukorrekt svar 3": "fordi respirationsmusklerne standser"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det enzym der medvirker, når CO2 reagerer med H2O og danner H2CO3",
+      "Korrekt svar": "kulsyreanhydrase",
+      "Ukorrekt svar 1": "peptidase",
+      "Ukorrekt svar 2": "enteropeptidase",
+      "Ukorrekt svar 3": "ptyalin"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for den hårde gane",
+      "Korrekt svar": "palatum durum",
+      "Ukorrekt svar 1": "palatum molle",
+      "Ukorrekt svar 2": "conchae nasales",
+      "Ukorrekt svar 3": "septum nasi"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det stof der dannes når kulsyre fraspalter en brintion",
+      "Korrekt svar": "HCO3-,hydrogenkarbonation",
+      "Ukorrekt svar 1": "H2CO3",
+      "Ukorrekt svar 2": "H2O",
+      "Ukorrekt svar 3": " CO2"
+    },
+    {
+      "Spørgsmål": "Hvorfor er lugtesansen nedsat ved forkølelse?",
+      "Korrekt svar": "lugtesansecellerne er dækket af slim",
+      "Ukorrekt svar 1": "lugtesansecellerne er døde",
+      "Ukorrekt svar 2": "lugtesansecellernes antal er stærkt reduceret",
+      "Ukorrekt svar 3": "der kommer ingen duftmolekyler ind i næsen"
+    },
+    {
+      "Spørgsmål": "Nævn navnet for den 1. hjernenerve, lugtenerven, på latin",
+      "Korrekt svar": "n. olfactorius",
+      "Ukorrekt svar 1": "n. opticus",
+      "Ukorrekt svar 2": "n. occulomotorius",
+      "Ukorrekt svar 3": "n. facialis"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på bruskstykket i strubehovedet der kaldes adamsæblet ",
+      "Korrekt svar": "cartilago thyroidea",
+      "Ukorrekt svar 1": "cartilago crecoidea",
+      "Ukorrekt svar 2": "cartilago cartilagines",
+      "Ukorrekt svar 3": "cartilago arytenoidea"
+    },
+    {
+      "Spørgsmål": " Nævn det latinske for navnlungeporten",
+      "Korrekt svar": "hilus pulmonis",
+      "Ukorrekt svar 1": "apex pulmonis",
+      "Ukorrekt svar 2": "basis pulmonis",
+      "Ukorrekt svar 3": "pulmo"
+    },
+    {
+      "Spørgsmål": "Hvorledes er væggen i lungekapillærerne opbygget?",
+      "Korrekt svar": "af et lag pladeepitel",
+      "Ukorrekt svar 1": "af flerlaget pladeepitel",
+      "Ukorrekt svar 2": "af cylinderepitel",
+      "Ukorrekt svar 3": "af overgangsepitel"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de falske stemmelæber på latin?",
+      "Korrekt svar": "plicae vestibulares",
+      "Ukorrekt svar 1": "plicae vocales",
+      "Ukorrekt svar 2": "plica sublingualis",
+      "Ukorrekt svar 3": "plicae circulares"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de falske stemmelæber?",
+      "Korrekt svar": "plicae vestibulares",
+      "Ukorrekt svar 1": "plicae vocales",
+      "Ukorrekt svar 2": "plicae circulares",
+      "Ukorrekt svar 3": "plica sublingualis"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den knogle hvorigennem n. olfactorius passerer fra næsehulen til lugtecentrene i hjernen?",
+      "Korrekt svar": "os etmoidale",
+      "Ukorrekt svar 1": "os frontale",
+      "Ukorrekt svar 2": "os nasale",
+      "Ukorrekt svar 3": "os sphenoidale"
+    },
+    {
+      "Spørgsmål": "Hvad hedder musklerne mellem ribbenene?",
+      "Korrekt svar": "mm.intercostales",
+      "Ukorrekt svar 1": "mm. intercosta",
+      "Ukorrekt svar 2": "mm. intersterni",
+      "Ukorrekt svar 3": "musculus. costalis"
+    },
+    {
+      "Spørgsmål": "Hvilken del af luftvejene kaldes dead space?",
+      "Korrekt svar": " de konduktive luftveje",
+      "Ukorrekt svar 1": "cavitas nasi",
+      "Ukorrekt svar 2": "de respiratoriske luftveje",
+      "Ukorrekt svar 3": "alveolerne."
+    },
+    {
+      "Spørgsmål": "Hvilken vej løber blodet i lungearterierne?",
+      "Korrekt svar": "fra hjertets højre halvdel til lungerne ",
+      "Ukorrekt svar 1": "fra hjertets venstre halvdel til lungerne",
+      "Ukorrekt svar 2": "fra lungerne til hjertets højre halvdel",
+      "Ukorrekt svar 3": "fra lungerne til hjertets venstre halvdel"
+    },
+    {
+      "Spørgsmål": "Hvilket stof danner overfladespændingen på alveolernes inderside?",
+      "Korrekt svar": "vand",
+      "Ukorrekt svar 1": "surfaktant",
+      "Ukorrekt svar 2": "lipoprotein",
+      "Ukorrekt svar 3": "glukoprotein"
+    },
+    {
+      "Spørgsmål": "Hvor meget er blodtrykket i lungearterierne?",
+      "Korrekt svar": "15mmHg",
+      "Ukorrekt svar 1": "50mmHg",
+      "Ukorrekt svar 2": "100mmHg",
+      "Ukorrekt svar 3": "120mmHG"
+    },
+    {
+      "Spørgsmål": "Hvor stor er en alveoles indre diameter?",
+      "Korrekt svar": "0,3 mm",
+      "Ukorrekt svar 1": "0,03mm",
+      "Ukorrekt svar 2": "0,003mm",
+      "Ukorrekt svar 3": "1,5 mm"
+    },
+    {
+      "Spørgsmål": "Hvordan er koncentrationen af O2 og CO2 i lungearterierne?",
+      "Korrekt svar": "lav O2 koncentration og høj CO koncentration",
+      "Ukorrekt svar 1": "høj O2 koncentration og lav CO koncentration",
+      "Ukorrekt svar 2": "lav O2 koncentration og lav CO koncentration",
+      "Ukorrekt svar 3": "høj O2 koncentration og høj CO koncentration"
+    },
+    {
+      "Spørgsmål": "Hvordan er koncentrationen af O2 og CO2 i lungevenerne?",
+      "Korrekt svar": "høj O2 koncentration og lav CO2 koncentration",
+      "Ukorrekt svar 1": "lav O2 koncentration og høj CO2 koncentration",
+      "Ukorrekt svar 2": "lav O2 koncentration og lav CO2 koncentration",
+      "Ukorrekt svar 3": "høj O2 koncentration og høj CO2 koncentration"
+    }

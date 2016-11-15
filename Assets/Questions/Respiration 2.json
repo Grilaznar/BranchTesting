@@ -1,0 +1,249 @@
+
+    {
+      "questionText": "Nævn det latinske navn for næsemuslingene ",
+      "answers":["concha nasalis", "vestibulum nasi", "cavitas nasi", "pharynx"]
+    }
+    {
+      "questionText": "Hvad hedder den inderste lungehinde?",
+      "answers":["pleura visceralis", "peritoneum", "hilus pulmonalis", "pleura parietalis"]
+    }
+    {
+      "questionText": "Hvad hedder strukturerne for enden af de respiratoriske alveoler?",
+      "answers":["alveoler", "bronkioler", "lungekapillærer", "arterioler"]
+    }
+    {
+      "questionText": "Hvor stor er lungernes indre overfladeareal?",
+      "answers":["80-100m2", "150m2", "200m2", "250m2"]
+    }
+    {
+      "questionText": "Hvilken celletype opbygger alveolevæggen?",
+      "answers":["enlaget pladeepitel", "enlaget cylinderepitel", "flerlaget pladeepitel", "urotel"]
+    }
+    {
+      "questionText": "Hvad hedder det stof, der forhindrer at lungerne klapper sammen?",
+      "answers":["surfaktant", "lipoprotein", "glukoprotein", "lysozym"]
+    }
+    {
+      "questionText": "Hvad hedder celletypen der opbygger lungekapillærvæggen?",
+      "answers":["enlaget pladeepitel", "flerlaget pladeepitel", "enlaget cylinderepitel", "overgangsepitel"]
+    }
+    {
+      "questionText": "Ved inspiration skal der skabes:",
+      "answers":["et undertryk i lungerne ", "et overtryk i lungerne ", "et konstant højt tryk i lungerne", "et stigende tryk i lungerne"]
+    }
+    {
+      "questionText": "Hvad sker der med lungerne når diphragma kontraheres?",
+      "answers":[" der opstår undertryk i lungerne, som suger luft ind", "der opstår overtryk i lungerne"]
+    }
+    {
+      "questionText": "Hvad hedder den yderste lungehinde?",
+      "answers":["pleura parietalis", "pleura visceralis", "lobus parietalis", "pleurahulen"]
+    }
+    {
+      "questionText": "Hvilket stof danner overfladespændingen på alveolernes inderside?",
+      "answers":["vand", "glukoprotein", "surfaktant", "lipoprotein"]
+    }
+    {
+      "questionText": "Hvad hedder musklerne mellem ribbenene?",
+      "answers":["mm.intercostales", "mm. intersterni", "mm. intercosta", "musculus. costalis"]
+    }
+    {
+      "questionText": "Hvordan er koncentrationen af O2 og CO2 i lungevenerne?",
+      "answers":["høj O2 koncentration og lav CO2 koncentration", "lav O2 koncentration og høj CO2 koncentration", "lav O2 koncentration og lav CO2 koncentration", "høj O2 koncentration og høj CO2 koncentration"]
+    }
+    {
+      "questionText": "Den alveolære ventilation er afhængig af:",
+      "answers":["åde respirationsfrekvensen og respirationsdybden", "kun respirationsfrekvensen ", "de accessoriske respirationsmuskler", "abdominal respiration"]
+    }
+    {
+      "questionText": "Respirationsepitel indeholder to typer celler, hvilke?",
+      "answers":["ciliebærende celler og bægerceller", "ciliebærende celler og pladeepitel", "pladeepitel og cylinderepitel", "pladeepitel og bægerceller"]
+    }
+    {
+      "questionText": "Hvilken relation har hjernestammen til lungerne?",
+      "answers":["i hjernestammen findes respirationscentret", " hjernestammen og lungerne har ingen relationer", "hjernestammen bestemmer alveolernes antal", "hjernestammen danner surfaktant til lungerne"]
+    }
+    {
+      "questionText": "Hvilke forhold i lungernes anatomi sikre en effektiv gasudveksling ved diffusion?",
+      "answers":["stor konc.forskel, stort areal, kort afstand og 37 grader", "lille konc. forskel og stor afstand mellem luft og blod", "lang transportvej  gennem de kondutive luftveje", "at lungerne er bygget af muskler og brusk"]
+    }
+    {
+      "questionText": "Hvad gælder for arterierne i lungekredsløbet?",
+      "answers":["transporterer blod med lav ilt indhold", "transporterer blod med høj ilt indhold", "transporterer blod med lav kuldioxid indhold", "transporterer blod med højt O2 og lavt CO2 indhold"]
+    }
+    {
+      "questionText": "Hvad gælder for venerne i lungekredsløbet?",
+      "answers":["transporterer blod med højt ilt indhold", "transporterer blod med højt lavt indhold", "transporterer blod med højt ilt indhold", "transporterer blod med lavt O2 og højt CO2 indhold"]
+    }
+    {
+      "questionText": "Hvordan beregnes minutvolumen?",
+      "answers":["respirationsfrekvens x respirationsdybde", "slagvolumen x hjertefrekvens", "inspiration x eksspiration", "den beregnes ikke men måles med et spirometer"]
+    }
+    {
+      "questionText": "Hvad er vitalkapacitet?",
+      "answers":["den maksimale luftmængde der kan eksspireres", "den mindste luftmængde der kan eksspireres", "den mængde luft der giver vitalitet", "den mængde luft der står i de øvre luftveje"]
+    }
+    {
+      "questionText": "Hvad er tidalvolumen?",
+      "answers":["den mængde luft der indåndes i hvile, ca 0,5l", "den mængde luft der indåndes i hvile, ca 2,5l", "den mængde luft der udåndesi hvile, ca 0,5l", "den mængde luft der står tilbage i lungerne efter eksspiration"]
+    }
+    {
+      "questionText": "Hvor stor er den inspiratoriske reservevolumen?",
+      "answers":["ca. 3 liter", "ca. 0,5 liter", "ca. 1 liter ", "ca. 1,5 liter "]
+    }
+    {
+      "questionText": "Hvor stor er den eksspiratoriske reservevolumen?",
+      "answers":["ca. 1 liter ", "ca. 2 liter", "ca. 3 liter", "ca. 4 liter"]
+    }
+    {
+      "questionText": "Hvor sidder de kemoreceptorer der målerblodets pH og indhold af CO2 og O2?",
+      "answers":["i arcus aorta og aa. carotis communis", "i truncus pulmonalis ", "i aorta thoracalis", "i vena cava superior og v. cava inferior"]
+    }
+    {
+      "questionText": "Hvilken af disse er ikke en bihule?",
+	  "answers":["sinus sagittalis", "sinus ethmoidalis", "sinus maxillaris", "sinus sphenoidalis"]
+    }
+    {
+      "questionText": "Hvilken af disse er ikke en bihule?",
+      "answers":["sinus coronarius", "sinus frontalis", "sinus ethmoidalis", "sinus maxillaris"]
+    }
+    {
+      "questionText": "Hvad er normalværdien for personer over 40 år med henssyn til iltmætning ?",
+      "answers":["95-99%", "92-95%", "90-92%", "85-89%"]
+    }
+    {
+      "questionText": "Hvor i luftvejene kan der optræde polypper i tonsilla pharyngealis?",
+      "answers":["i næsesvælget", "i mundsvælget", "i strubesvælget", "i bronkiolerne"]
+    }
+    {
+      "questionText": "Nævn hvad der er sandt om bronkioler",
+      "answers":["bronkioler er uden brusk ", "bronkioler findes i pleura", "bronkioler er større end bronkier", "bronkioler ender ikke i respiratoriske bronkioler"]
+    }
+    {
+      "questionText": "Hæmoglobin der har bundet H+, kaldes",
+      "answers":["reduceret hæmoglobin", "oxyhæmoglobin", "methæmoglobin", "deoxyhæmoglobin"]
+    }
+    {
+      "questionText": "Iltmåling(saturation) måles mest præcist fra en ",
+      "answers":["arterie, arteriepunktur", "vene, venepunktur", "kaillærer", "venole"]
+    }
+    {
+      "questionText": "Hvilket stof dannes i erytrocytterne når CO2 reagerer med H2O? ",
+      "answers":["H2CO3, kulsyre", "HCO3-, hydrogenkarbonation", "CO3--, karbonation", "C6H12O6, glukose"]
+    }
+    {
+      "questionText": "Respirationscentret måler CO2, O2, pH, men på hvilken væske måles der?",
+      "answers":["nervesystemets cerebrospinalvæske", "arterielt blod", "venøst blod ", "lymfevæske"]
+    }
+    {
+      "questionText": "Hvilken effekt har en ophobning af CO2 i blodet?",
+      "answers":["respirationsmusklernes arbejde øges", "respirationsmusklernes arbejde mindskes", "respirationsmusklerne afslappes", "respirationscentrest aktivitet mindskes"]
+    }
+    {
+      "questionText": "Respiraionscentret modtager signaler fra lungerne, men fra hvilke celler?",
+      "answers":["strækreceptorer i lungevævet", "kemoreceptorer i lungevævet", "barroreceptorer i lungerne", "pH receptorer i lungevævet"]
+    }
+    {
+      "questionText": "Hvis pH er for høj og CO2 for lav så reagerer respirationscentret ved at",
+      "answers":["sænke respirationsfrekvensen", "øge respirationsfrekvensen", "øge udskillelsen af CO2", "øge iltoptagelsen"]
+    }
+    {
+      "questionText": "Hvis CO2 er for høj eller pH for lav så reagerere respirationscentret ved at",
+      "answers":["øge respirationsfrekvensen og resp. dybden", "sænke respirationsfrekvensen og resp. dybden", "mindske udskillelsen af CO2", " mindske iltoptagelsen"]
+    }
+    {
+      "questionText": "Hikke opstår ved spontane, korte muskelkontraktioner, men hvilken muskel(muskler) er der tale om?",
+      "answers":["diaphragma", "intercostal musklerne", "bugmuskulaturen", "spiserørsmuskler"]
+    }
+    {
+      "questionText": "Trykket i aorta er 120 mmHg, hvor meget er trykket i lungearterierne?",
+      "answers":["15mmHg", "50 mmHg", "100mmHg", "120mmHg"]
+    }
+    {
+      "questionText": "Hvorfor nedsætter en punkteret lunge gasudvekslingen?",
+      "answers":["fordi diffusionsarealet nedsættes", "fordi diffusionafstanden nedsættes", "fordi diffusionsarealet øges", "fordi respirationsmusklerne standser"]
+    }
+    {
+      "questionText": "Hvor i  luftvejene findes mandlerne, tonsillae palatinae?",
+      "answers":["i mundsvælget", "i næsesvælget", "i strubesvælget", "i næsen"]
+    }
+    {
+      "questionText": "Hvorfor nedsætter en lungeødem gasudvekslingen?",
+      "answers":["fordi diffusionsafstanden øges", "fordi diffusionafstanden nedsættes", "fordi diffusionsarealet øges", "fordi respirationsmusklerne standser"]
+    }
+    {
+      "questionText": "Nævn navnet på det enzym der medvirker, når CO2 reagerer med H2O og danner H2CO3",
+      "answers":["kulsyreanhydrase", "peptidase", "enteropeptidase", "ptyalin"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for den hårde gane",
+      "answers":["palatum durum", "palatum molle", "conchae nasales", "septum nasi"]
+    }
+    {
+      "questionText": "Nævn navnet på det stof der dannes når kulsyre fraspalter en brintion",
+      "answers":["HCO3-,hydrogenkarbonation", "H2CO3", "H2O", " CO2"]
+    }
+    {
+      "questionText": "Hvorfor er lugtesansen nedsat ved forkølelse?",
+      "answers":["lugtesansecellerne er dækket af slim", "lugtesansecellerne er døde", "lugtesansecellernes antal er stærkt reduceret", "der kommer ingen duftmolekyler ind i næsen"]
+    }
+    {
+      "questionText": "Nævn navnet for den 1. hjernenerve, lugtenerven, på latin",
+      "answers":["n. olfactorius", "n. opticus", "n. occulomotorius", "n. facialis"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på bruskstykket i strubehovedet der kaldes adamsæblet ",
+      "answers":["cartilago thyroidea", "cartilago crecoidea", "cartilago cartilagines", "cartilago arytenoidea"]
+    }
+    {
+      "questionText": " Nævn det latinske for navnlungeporten",
+      "answers":["hilus pulmonis", "apex pulmonis", "basis pulmonis", "pulmo"]
+    }
+    {
+      "questionText": "Hvorledes er væggen i lungekapillærerne opbygget?",
+      "answers":["af et lag pladeepitel", "af flerlaget pladeepitel", "af cylinderepitel", "af overgangsepitel"]
+    }
+    {
+      "questionText": "Hvad hedder de falske stemmelæber på latin?",
+      "answers":["plicae vestibulares", "plicae vocales", "plica sublingualis", "plicae circulares"]
+    }
+    {
+      "questionText": "Hvad hedder de falske stemmelæber?",
+      "answers":["plicae vestibulares", "plicae vocales", "plicae circulares", "plica sublingualis"]
+    }
+    {
+      "questionText": "Hvad hedder den knogle hvorigennem n. olfactorius passerer fra næsehulen til lugtecentrene i hjernen?",
+      "answers":["os etmoidale", "os frontale", "os nasale", "os sphenoidale"]
+    }
+    {
+      "questionText": "Hvad hedder musklerne mellem ribbenene?",
+      "answers":["mm.intercostales", "mm. intercosta", "mm. intersterni", "musculus. costalis"]
+    }
+    {
+      "questionText": "Hvilken del af luftvejene kaldes dead space?",
+      "answers":[" de konduktive luftveje", "cavitas nasi", "de respiratoriske luftveje", "alveolerne."]
+    }
+    {
+      "questionText": "Hvilken vej løber blodet i lungearterierne?",
+      "answers":["fra hjertets højre halvdel til lungerne ", "fra hjertets venstre halvdel til lungerne", "fra lungerne til hjertets højre halvdel", "fra lungerne til hjertets venstre halvdel"]
+    }
+    {
+      "questionText": "Hvilket stof danner overfladespændingen på alveolernes inderside?",
+      "answers":["vand", "surfaktant", "lipoprotein", "glukoprotein"]
+    }
+    {
+      "questionText": "Hvor meget er blodtrykket i lungearterierne?",
+      "answers":["15mmHg", "50mmHg", "100mmHg", "120mmHG"]
+    }
+    {
+      "questionText": "Hvor stor er en alveoles indre diameter?",
+      "answers":["0,3 mm", "0,03mm", "0,003mm", "1,5 mm"]
+    }
+    {
+      "questionText": "Hvordan er koncentrationen af O2 og CO2 i lungearterierne?",
+      "answers":["lav O2 koncentration og høj CO koncentration", "høj O2 koncentration og lav CO koncentration", "lav O2 koncentration og lav CO koncentration", "høj O2 koncentration og høj CO koncentration"]
+    }
+    {
+      "questionText": "Hvordan er koncentrationen af O2 og CO2 i lungevenerne?",
+      "answers":["høj O2 koncentration og lav CO2 koncentration", "lav O2 koncentration og høj CO2 koncentration", "lav O2 koncentration og lav CO2 koncentration", "høj O2 koncentration og høj CO2 koncentration"]
+    }

@@ -1,0 +1,256 @@
+{
+      "questionText": "Hvilket af nedenstående stoffer findes ikke i galde?",
+      "answers":["enzym", "galdesure salte", "vand", "mucin"]
+    }
+    {
+      "questionText": "Hvad betyder det enterohepatiske kredsløb?",
+      "answers":["at de galdesure salte føres tilbage til hepar fra tarmen", "at de galdesure salte nedbrydes i tarmen", "at de galdesure salte føres fra leveren til galdeblæren", "at galden løber fra leveren til tyndtarmen"]
+    }
+    {
+      "questionText": "Hvad hedder galdegangen der fører galdesure salte til duodenum?",
+      "answers":["ductus choledochus", "ductus hepaticus", "ductuscysticus", "ductus pancreatis"]
+    }
+    {
+      "questionText": "Hvor findes papilla Vateri også kaldet papilla duodeni major?",
+      "answers":["i duodenum", "i ventriculs", "i jejunum", "i ileum"]
+    }
+    {
+      "questionText": "Hvilken epitel celletype findes på tungen og i mundhulen?",
+      "answers":["flerlaget pladeepitel", "flerlaget forhornet pladeepitel", "pladeepitel", "cylinderepitel"]
+    }
+    {
+      "questionText": "Tungen sidder fast på:",
+      "answers":["os hyoideum", "epiglottis", "mandibula", "tværstribet muskulatur"]
+    }
+    {
+      "questionText": "Hvor mange store muskellag findes der i mavesækken?",
+      "answers":["tre lag", "et lag", "to lag", "fire lag"]
+    }
+    {
+      "questionText": "Nævn hvilket produkt der dannes af hovedceller i mavesækken",
+      "answers":["pepsinogen", "trypsinogen", "intrinsic faktor", "saltsyre"]
+    }
+    {
+      "questionText": "Hvilket af nedenstående produkter dannes ikke i mavesæken?",
+      "answers":["trypsin", "pepsin", "gastrin", "intrinsic faktor"]
+    }
+    {
+      "questionText": "Hvilket stof dannes af celler i mavesækken til beskyttelse mod saltsyren?",
+      "answers":["HCO3-", "CO2", "HCl", "H2CO3"]
+    }
+    {
+      "questionText": "Hvilken størrelse har pH i tyndtarmen?",
+      "answers":["7", "2-3", "5-6", "8-9"]
+    }
+    {
+      "questionText": "Appendix vermiformis er placeret med relation til",
+      "answers":["caecum", "jejunum", "duodenum", "rectum"]
+    }
+    {
+      "questionText": "Tolvfingertarmen(duodenum) har direkte forbindelse til",
+      "answers":["mavesæk, jejunum, bugspytkirtel og galdeveje", "spiserør og tyktarm", "lever, tyktarm og ileum", "bugspytkirtel, mavesæk og caecum"]
+    }
+    {
+      "questionText": "Den største del af spiserøret er placeret ",
+      "answers":["i brystskillevæggen(mediastinum)", "i halsen", "i columna vertebralis", "i abdomen"]
+    }
+    {
+      "questionText": "Når føden er tygget og sunket",
+      "answers":["er den stadigvæk uden for kroppen", "er den optaget i blodbanen", "er den færdigbehandlet", "er størstedelen af fordøjelsen færdig"]
+    }
+    {
+      "questionText": "Produktionen af fordøjelsesenzymer sættes i vejret ",
+      "answers":["via parasympaticus, ved syn, smag og lugt af mad ", "via sympatiske impulser fra appetitcentret", "via sensoriske impulser fra smagsløgene", "via fordøjelseshormoner fra hjernestammen"]
+    }
+    {
+      "questionText": "Tænderne er opbygget af ",
+      "answers":["dentin og emalje", "gingiva ", "kalk", "brusk og kalk"]
+    }
+    {
+      "questionText": "De tre par spytkirtler er placeret",
+      "answers":["foran øret, under kæben og under tungen", "foran øret, over tungen og bag overkæben", "bagved øret, under tungen og over kæben", "i overkæben, i underkæben og bagved øret"]
+    }
+    {
+      "questionText": "Gl. parotidea(ørespytkirtlen) tømmer sig ",
+      "answers":["ud for de bageste kindtænder i overmunden", "under tungen", "ud for de forreste kindtænder i undermunden", "via udførselsgange i ganen"]
+    }
+    {
+      "questionText": "Under synkeprocessen lukker",
+      "answers":["lukker den bløde gane og strubelåget", "åbner maveporten", "åbner luftrøret", "ophører spiserørets peristaltik"]
+    }
+    {
+      "questionText": "Under synkeprocessen ",
+      "answers":["bevæges tungen opad og bagud", "tages en dyb indånding", "afslappes tungen", "ophører spytdannelsen"]
+    }
+    {
+      "questionText": "Oesophagus har til opgave at ",
+      "answers":["transportere føden fra svælget til mavesækken", "tilsætte føden enzymer", "bearbejde føden mekanisk", "tilsætte føden hormoner"]
+    }
+    {
+      "questionText": "Mavesækkens krumme sider benævnes",
+      "answers":["curvatura major og curvatura minor", "corpus og fundus", "saecum og soecum", "maximus og minimus"]
+    }
+    {
+      "questionText": "I maveslimhinden findes følgende celletyper",
+      "answers":["hovedceller, parietalceller, slim- og gastrinproducerende celler ", "hovedceller, parietalceller, alfa- og betaceller", "hovedceller, parietalceller og pladeepitelceller", "bægerceller, hovedceller og mikrogliaceller"]
+    }
+    {
+      "questionText": "I maveslimhindens parietalceller dannes",
+      "answers":["intrinsic faktor og HCl", "gastrin", "trypsinogen", "pepsinogen"]
+    }
+    {
+      "questionText": "Hvilket af nedenstående punkter beskriver ikke mavesækkens funktioner?",
+      "answers":["dannelse af sekretin og amylase", "dannelse af pepsinogen og intrinsic faktor", "fødereservoir, slimproduktion og saltsyre produktion", "enzymdannelse og dræbe mikroorganismer "]
+    }
+    {
+      "questionText": "Mavesækkens sekretion aktiveres og fremmes af",
+      "answers":["parasympatiske impulser via n. vagus og gastrinfrigørelse", "høj aktivitet i ædecellerne", "insulin samt høj sympaticus aktivitet", "nerveimpulser i nervus pylori"]
+    }
+    {
+      "questionText": "Den lukkemuskel, der regulerer mavetømningen, er placeret i ",
+      "answers":["pylorus", "fundus ventriculi", "cardia", "papilla duodeni major"]
+    }
+    {
+      "questionText": "Den største absorption af næringsstoffer finder sted i ",
+      "answers":["tyndtarmen", "mavesækken", "tyktarmen ", "tyktarmen og endetarmen"]
+    }
+    {
+      "questionText": "Tyndtarmsperistaltikken har følgende opgaver",
+      "answers":["at transportere føden, blande føden med enzymer samt tømning af tarmen", "transport af føden samt muskelkontraktion til gavn for kredsløbet", "transport af føden samt begrænsning af mikrofloraen", "transport af føden samt fastlåsning af tarmen"]
+    }
+    {
+      "questionText": "Enteropeptidase har til opgave at",
+      "answers":["aktivere trypsinogen til trypsin fra bugspytkirtlen", "nedbryde DNA", "styre galde dannelsen", "spalte proteiner til peptider"]
+    }
+    {
+      "questionText": "Hormonet sekretin dannes i",
+      "answers":["duodenum", "ventriculus", "hepar", "jejunum og ileum"]
+    }
+    {
+      "questionText": "Hormonet skretin har til opgave, at",
+      "answers":["hæmme mavesækkens sekretion og peristaltik", "stimulere til galdeudtømning", "øge aktiviteten i mavesækken", "stimulere til øget appetit"]
+    }
+    {
+      "questionText": "Cholecystokinin, CCK",
+      "answers":["stimulerer til produktion af galde og bugspyt", "lukker galdegangene", "frigøres især når chymus er fedtfattig", "øger aktiviteten i mavesækken"]
+    }
+    {
+      "questionText": "I den nederste del af tyndtarmen, ileum",
+      "answers":["optages galdesalte, cholesterol og B-12 vitamin", "tilsættes enteropeptidaser", "nedbrydes brugte røde blodceller", "produceres intrinsic factor af særlige tarmceller"]
+    }
+    {
+      "questionText": "Mennesker med laktoseintolerans får ved indtag af laktose ",
+      "answers":["mavesmerter, diare og flatulens", "for højt blodsukker", "får for højt mælkesukker i blodet", "ekstra tilskud af laktase enzymer"]
+    }
+    {
+      "questionText": "Personer med voldsom opkast kan blive truet af ",
+      "answers":["baseforgiftning, fordi der mistes H+ ioner", "syreforgiftning, fordi der mistes H+ ioner ", "syreforgiftning, fordi der mistesHCO3-", "baseforgiftning, fordi der mistes HCO3-"]
+    }
+    {
+      "questionText": "Hvad hedder den bakterie der kan leve i mavesækken og tolvfingertarmen og give mavesår?",
+      "answers":["helicobacter pylori", "staphylococcus aureus", "salmonella interitidis", "campylobacter jejuni"]
+    }
+    {
+      "questionText": "Under defækation ",
+      "answers":["spændes bugvæggens muskler", "ophører pristaltikken", "afslappes den glatte muskulatur i colon", "afslappes bugmuskulaturen samtidig med en dyb udånding"]
+    }
+    {
+      "questionText": "Den normale sammensætning af fæces er",
+      "answers":["vand,bakterier, fibre, galdefarvestoffer, afstødte slinhindeceller, ", "vand, bakterier, afstødte muskelceller og kolesterol", "vitaminer, mineraler, aminosyere og bakterier", "urinstof, urinsyre, kreatinin og døde celler"]
+    }
+    {
+      "questionText": "Bugspytkirtlens enzymer spalter",
+      "answers":["protein, fedt og kulhydrat", "kun protein og kulhydrat", "kun kulhydrat og fedt", "kun fedt og protein"]
+    }
+    {
+      "questionText": "Hepar er opbygget af ",
+      "answers":["en stor højre og en lille venstre leverlap", "5 store leverlapper", "3 store leverlapper", "2 store og 4 små leverlapper"]
+    }
+    {
+      "questionText": "Leveren indeholder ",
+      "answers":["leverlobulus ", "ductus cysticus", "medulla spinalis", "capsula fibrosa"]
+    }
+    {
+      "questionText": "Med hensyn til leverens iltforsyning",
+      "answers":["stammer 50% fra a. hepatica og 50% fra v. portae", "stammer 25% fra a. hepatica og 75% fra v. portae", "stammer 75% fra a. hepatica og 25% fra v. portae", "stammer 100%  fra a. hepatica "]
+    }
+    {
+      "questionText": "Portåresystemet samler det venøse blod fra ",
+      "answers":["spiserøret og alle organer i abdomen, undtagen urin og kønsorganer", "tyndtarm og tyktarm", "mavesækken og tyndtarmen", "tyktarmen og endetarmen"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for galdeblæren",
+      "answers":["vesica fellea", "vesica urinaria", "vesicula seminalis", "villi intestinalis"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "answers":["dannelse af glukagon", "oplagring af glykogen", "oplagring af jern ", "dannelse af plasmaproteiner"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "answers":["dannelse af K-vitamin", "dannelse af urinstof", "optagelse af næringsstoffer", "regulering af blodsukker niveau"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "answers":["dannelse af fordøjelsesenzymer", "nedbrydning af hormoner", "aktivering af D-vitamin", "nedbrydning af giftstoffer"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "answers":["dannelse af mineraler og sporstoffer", "dannelse af galde", "deltage i det Enterohepatiske kredsløb", "dannelse af glykogen"]
+    }
+    {
+      "questionText": "Følgende enzymer ingår i fordøjelsen af kulhydrater",
+      "answers":["spytamylase og bugspytamylase", "amylase og lipase", "spytamylase og trypsin", "spytamylase, bugspytamylase og enteropeptidase"]
+    }
+    {
+      "questionText": "Følgende enzymer ingår i fordøjelsen af proteiner",
+      "answers":["pepsin, trypsin og peptidaser", "pepsin, trypsin, peptidaser og lipase", "pepsin, sukrase og  peptidaser", "maltase, sukrase og laktase"]
+    }
+    {
+      "questionText": "I fordøjelsen af fedtstoffer ingår ",
+      "answers":["lipase og galde", "lipase, trypsin og galde", "lipase og pepsin ", "galde og trypsin"]
+    }
+    {
+      "questionText": "Sukrose består af ",
+      "answers":["et glukose- og et fruktosemolekyle ", "et glukose- og et galaktosemolekyle ", "et fruktose- og et galaktosemolekyle ", "to maltose mlekyler"]
+    }
+    {
+      "questionText": "Maltose består af ",
+      "answers":["to molekyler glukose", "et glukose- og et fruktosemolekyle ", "et galaktose- og et fruktosemolekyle ", "to disakkarider"]
+    }
+    {
+      "questionText": "laktose består af ",
+      "answers":["et glukose- og et galaktoseemolekyle ", "to glukose molekyler", "et glukose- og et fruktosemolekyle ", "disakkarider"]
+    }
+    {
+      "questionText": "Triglycerider er opbygget af ",
+      "answers":["glycerol og tre fedtsyrer ", "glycerol og 2 fedtsyrer ", "tre glycerol og tre fedtsyrer ", "tre glycerol og en fedtsyrer "]
+    }
+    {
+      "questionText": "Hvor dannes enzymerne amylase, trypsin og lipse?",
+      "answers":["i bugspytkirtlens eksokrine del", "i bugspytkirtlens endokrine del", "i duodenum", "i tyndtarmen"]
+    }
+    {
+      "questionText": "Hvor dannes peptidase enzymerne?",
+      "answers":["i jejunum ", "i bugspytkirtlen", "i mavesækken ", "i leveren"]
+    }
+    {
+      "questionText": "Efter optagelse i tyndtarmens celler, føres aminosyrer og monosakkarider til",
+      "answers":["leveren via portåren", "leveren via lymfen", "leveren via galdegangene", "hjertets venstre forkammer via blodet"]
+    }
+    {
+      "questionText": "Efter nedbrydning af triglycerider i tyndtarmen til glycerol og fedtsyrer bliver",
+      "answers":["glcerol og fedtsyrer pakket i lipoproteiner og sendt til blodet via lymfen", "glcerol og fedtsyrer pakket i lipoproteiner og sendt direkte til blodet ", "glcerol og fedtsyrer pakket i lipoproteiner og sendt direkte til hepar"]
+    }
+    {
+      "questionText": "Nævn navnet på de udposninger der ses på tyktarmen",
+      "answers":["haustra", "taeniae", "plicae circulares", "appendix vermiformis"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på den glatte lukkemuskel ved anus",
+      "answers":["m. sphincter ani internus", "m. sphincter ani externus", "m. sphincter urthrae", "m. sphincter vesicae"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på den tværstribede lukkemuskel ved anus",
+      "answers":["m. sphincter ani externus", "m. sphincter ani internus", "m. sphincter urthrae", "m. sphincter vesicae"]
+    }

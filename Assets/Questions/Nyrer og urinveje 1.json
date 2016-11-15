@@ -1,0 +1,25 @@
+
+    {
+      "questionText": "Hvad hedder nyrer på latin",
+      "answers":["Renes", "Renalis", "Ureter", "Urethra"]
+    }
+    {
+      "questionText": "Hvad hedder urinrør på latin?",
+      "answers":["Urethra", "Ureter", "Uterus", "Tuba uterina"]
+    }
+    {
+      "questionText": "Hvilken af disse funktioner varetages IKKE af nyrene",
+      "answers":["Dannelse af antidiuretiske hormon (ADH)", "Fjerne affaldsstoffer, lægemidler mm", "Aktiverer D-vitamin", "Danne EPO"]
+    }
+    {
+      "questionText": "Hvilke af disse par er ikke korrekte",
+      "answers":["Medulla renalis - Nyremidte", "Pelvis renalis - Nyrebækken", "Ureter - Urinleder", "Splen - Milt"]
+    }
+    {
+      "questionText": "Hvilke af disse stoffer forekommer ikke i urin",
+      "answers":["Bilibilin", "Urobilin", "Kreatinin", "Natriumioner"]
+    }
+    {
+      "questionText": "Hvilken ion optræder typisk i højest koncentration i urin?",
+      "answers":["Natriumionen", "Klorionen", "Kaliumionen", "Calciumionen"]
+    }

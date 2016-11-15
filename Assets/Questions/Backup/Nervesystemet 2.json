@@ -1,0 +1,43 @@
+
+    {
+      "Spørgsmål": " Hvad hedder de firehjernenerver der også har en parasympatisk funktion?",
+      "Korrekt svar": "n. oculomotorius, n. facialis, n. glossopharyngeus og n. vagus",
+      "Ukorrekt svar 1": "n. oculomotorius, n.trigeminus, n. facialis og n. vagus",
+      "Ukorrekt svar 2": "n. trigeminus, n. facialis, n. glossopharyngeus og n. vagus",
+      "Ukorrekt svar 3": "n. opticus, n. olfactorius, n. trigeminus og n. vagus"
+    },
+    {
+      "Spørgsmål": "Dura mater danner tre folder, der ligger som skillevæg mellem forskellige hjerneafsnit. Hvad hedder disse tre folder?",
+      "Korrekt svar": "Falx cerebri, falx cerebelli og tentorium cerebelli",
+      "Ukorrekt svar 1": "Falx cerebri, falx cerebelli og falx cerebelli",
+      "Ukorrekt svar 2": "dura mater, cavum subdurale og cavum epidurale",
+      "Ukorrekt svar 3": "endost, periost og sinus sagittalis "
+    },
+    {
+      "Spørgsmål": "Hvorfra i CNS udspringer det sympatiske nervesystem",
+      "Korrekt svar": "Fra T1 til L 2 i medulla spinalis",
+      "Ukorrekt svar 1": "Fra C1 til L 2 i rygmarven",
+      "Ukorrekt svar 2": "Fra hjernen og sakralmarven",
+      "Ukorrekt svar 3": "Fra Gyrus præcentralis"
+    },
+    {
+      "Spørgsmål": "Hvilke hjerne- og spinalnerver indeholder de parasympatiske neuroner",
+      "Korrekt svar": "Hjernenerve nr. 3, 7, 9 og 10 og spinalnerve nr. S2-S4",
+      "Ukorrekt svar 1": "Hjernenerve nr. 3, 7, 9 og 10 og spinalnerve L3-L6",
+      "Ukorrekt svar 2": "Hjernenerve nr. 3, 5, 9 og 12 og spinalnerve C1-C4",
+      "Ukorrekt svar 3": "Hjernenerve nr. 1, 3, 5 og 7 og spinalnerve T1-L2"
+    },
+    {
+      "Spørgsmål": "Hvilken rolle spiller Ca2+ ioner i den synaptiske impulsoverførsel?",
+      "Korrekt svar": "Fremmer eksocytose af neurotransmitter i synapse",
+      "Ukorrekt svar 1": "Ca2+ hæmmer synaptisk impulsoverførsel",
+      "Ukorrekt svar 2": "Ca2+ virker som neurotransmitter, som fremmer inpulsoverførslen",
+      "Ukorrekt svar 3": "Ca2+ hæmmer impulsoverførsel vha. negativ feedback"
+    },
+    {
+      "Spørgsmål": "Dura mater danner tre folder, der ligger som skillevæg mellem forskellige hjerneafsnit. Hvad hedder disse tre folder?",
+      "Korrekt svar": "Falx cerebri, falx cerebelli og tentorium cerebelli",
+      "Ukorrekt svar 1": "Falx cerebri, falx cerebelli og falx cerebelli",
+      "Ukorrekt svar 2": "Dura mater, cavum subdurale og cavum epidurale",
+      "Ukorrekt svar 3": "Endost, periost og sinus sagittalis "
+    }

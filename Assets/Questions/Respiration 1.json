@@ -1,0 +1,193 @@
+
+    {
+      "questionText": "Hvad hedder næsehulen på latin?",
+      "answers":["cavitas nasi", "vestibulum nasi", "septum nasi", "os nasle"]
+    }
+    {
+      "questionText": "Hvad hedder strubehovedet på latin?",
+      "answers":["larynz", "pharynx", "trachea", "oesophagus"]
+    }
+    {
+      "questionText": "Hvor ligger respirationscentret?",
+      "answers":["i medulla oblongata", "i pons", "i hypothalamus", "i medulla spinalis"]
+    }
+    {
+      "questionText": "Hvilken muskel anvendes ved abdominal respiration i hvile?",
+      "answers":["diaphragma", "m. intercostalis internus", "m. intercostalis externus", "bugmuskulaturen"]
+    }
+    {
+      "questionText": "Hvilke gasser udveksles i lungerne?",
+      "answers":["O2 og CO2", "N2 og O2", "CO2 og N2", "CO og O2"]
+    }
+    {
+      "questionText": "Hvad hedder lunge på latin?",
+      "answers":["pulmo", "pulmonalis", "hilus pulmonis", "pulmonis"]
+    }
+    {
+      "questionText": "Hvad hedder den transportform der sørger for udveksling af CO2 og O2?",
+      "answers":["diffusion", "iontransport", "faciliteret diffusion", "aktiv transport"]
+    }
+    {
+      "questionText": "Find den rigtige rækkefølge",
+      "answers":["arterier-> lunge kapillærer->vener", "lungekapillærer->arterier->vener", "arterioler->lungekapillærer->arterier", "venoler->lungekapillærer->arterioler"]
+    }
+    {
+      "questionText": "Hvad kaldes en vejrtrækning?",
+      "answers":["respiration", "ekspiration", "inspiration", "konspiration"]
+    }
+    {
+      "questionText": "Hvad angiver respirationsfrekvensen?",
+      "answers":["antal inspirationer pr. minut", "mængde luft der trækkes ned i lungerne pr. minut", "antal impulser der sendes til respirationscentret pr. min", "respiratinsdybden pr. minut"]
+    }
+    {
+      "questionText": "Hvor mange lapper er lungerne inddelt i?",
+      "answers":["højre lunge 3 lapper, venstre lunge 2 lapper", "højre lunge 2 lapper, venstre lunge 3 lapper", "højre lunge 2 lapper, venstre lunge 2 lapper", "højre lunge 3 lapper, venstre lunge 3 lapper"]
+    }
+    {
+      "questionText": "Hvad hedder lungehinden på latin?",
+      "answers":["pleura", "costa", "pluralis", "pulmonis"]
+    }
+    {
+      "questionText": "Hvilken er ikke en af luftvejenes funktioner",
+      "answers":["deltage i blodtryksregulering", "opvarme og befugte luften", "at rense luften ", "at dannel lyd "]
+    }
+    {
+      "questionText": "Hvor i luftvejene finder gasudvekslingen sted?",
+      "answers":["i alveolerne", "i bronkierne", "i lutfrøret ", "i lungehinden"]
+    }
+    {
+      "questionText": "Hvad sker der hvis en af  lungehinderne punkteres? ",
+      "answers":["lungen klapper sammen, pneumothorax", "lungerhinden gendannes straks", "lungehinden repareres af surfaktant", "patienten dør"]
+    }
+    {
+      "questionText": "Hvor mange lapper er der i lungerne?",
+      "answers":["tre lapper i højre side og to lapper i venstre side", "to lapper i højre side og tre lapper i venstre side", "tre lapper i højre side og tre lapper i venstre side", "to lapper i højre side og to lapper i venstre side"]
+    }
+    {
+      "questionText": "Hvilke muskler benyttes ikke som respirationsmusker?",
+      "answers":["m. gastrocnemius og m. brachialis", "diphragma og m. intercostalis externus", "halsmuskler, ryg- og brystmuskler, samt bugmuskler", "m. intercostalis internus"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for mellemgulvsmusklen",
+      "answers":["diaphragma", "intercostalis", "costa", "plexus coeliacus"]
+    }
+    {
+      "questionText": "Nævn det latinske navn et ribben",
+      "answers":["costa", "costalis", "costae", "intercostalis"]
+    }
+    {
+      "questionText": "Hvad hedder det system i luftvejene der renser luften for mikroorganismer og andre urenheder?",
+      "answers":["ciliebærende celler og bægerceller", "surfaktant", "peristaltik", "vores bakterieflora"]
+    }
+    {
+      "questionText": "Hvor findes sinus frontalis",
+      "answers":["i pandebenet", "i overkæben", "i tindingebenet", "i underkæben"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for skjoldbrusken",
+      "answers":["cartilago thyroidea", "glandula thyroidea", "cartilago crecoidea", "os hyoideum"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for strubelåget",
+      "answers":["epiglottis", "os hyoideum", "trachea", "cartilagines arytenoidea"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for stemmebånd",
+      "answers":["plica vocales", "plica circulares", "cartilagines arytenoidea", "plicae vestibulares"]
+    }
+    {
+      "questionText": "Hvor langt er luftrøret ca.?",
+      "answers":["10 cm ", "20 cm ", "25 cm ", "30 cm "]
+    }
+    {
+      "questionText": "Nævn navnet på det bruskstykke der afslutter trachea",
+      "answers":["carina", "calcaneus", "caecum", "cardia"]
+    }
+    {
+      "questionText": "Nævn navnet på det stof der binder ilten i erytrocytter",
+      "answers":["hæmoglobin", "myoglobin", "bilirubin", "urobilin"]
+    }
+    {
+      "questionText": "Navn ord betyder iltmætning?",
+      "answers":["saturation", "hæmostase", "homøstase", "sarkomer"]
+    }
+    {
+      "questionText": "Hvad betyder: Pars nasalis pharyngis?",
+      "answers":["næsesvælget", "mundsvælget", "strubesvælget", "strubehovedet"]
+    }
+    {
+      "questionText": "Hvad betyder: Pars oralis pharyngis?",
+      "answers":["mundsvælget", "næsesvælget", "strubesvælget", "strubehovedet"]
+    }
+    {
+      "questionText": "Hvad betyder: Pars laryngea pharyngis?",
+      "answers":["strubesvælget", "strubehovedet", "næsesvælget", "mundsvælget"]
+    }
+    {
+      "questionText": "Luften i luftvejene opvarmes ved at",
+      "answers":["der findes mange blodkar i luftvejenes slimhinde", "ved at luften ledes over i bihulerne", "at luften ledes over i pleurahulen", "ved at luften står stille i alveolerne"]
+    }
+    {
+      "questionText": "Hæmoglobin der har bundet ilt, kaldes",
+      "answers":["oxyhæmoglobin", "deoxyhæmoglobin", "methæmoglobin", "reduceret hæmoglobin"]
+    }
+    {
+      "questionText": "Hvor i luftvejene findes lugtsansecellerne?",
+      "answers":["øverst i næsehulen", "nederst i næsehule ", "i næsesvælget", "i mundhulen"]
+    }
+    {
+      "questionText": "Nævn hvad conchae nasales består af",
+      "answers":["knogle", "brusk", "muskler", "fedt"]
+    }
+    {
+      "questionText": "Nævn hvad der ikke er en del af luftvejenes funktioner?",
+      "answers":["deltage i blodtryksregulering", "evnen til at tale", "lugtesansen", "gasudveksling"]
+    }
+    {
+      "questionText": "Nævn hvad der ikke er en del af luftvejenes funktioner?",
+      "answers":["aktivering af D-vitamin", "syre-base-regulering", "ilt optagelse", "CO2 transport"]
+    }
+    {
+      "questionText": "Hvorfra og hvortil findes de konduktive luftveje?",
+      "answers":["fra cavitas nasi til bronkioler", "fra cavitas nasi til pulmones", "fra cavitas nasi til alveolerne", "fra trachea til alveolerne"]
+    }
+    {
+      "questionText": "Hvorfra og hvortil forløber Lungekredsløbet?",
+      "answers":["fra lungearterierne til lungekapillærerne videre til lungevenerne", "fra  lungevenerne til lungekapillærerne videre til lungearterierne", "fra aorta til kaplærer til vena cava", "fra venstre forkammer til højre hjertekammer"]
+    }
+    {
+      "questionText": "I luftvejene findes bægerceller, hvilken funktion har disse bægerceller?",
+      "answers":["at danne slim som fanger støv og mikroorganismer", "at øge diffusionsarealet", "at danne bølgebevægelser", "at føre partikler ned mod alveolerne"]
+    }
+    {
+      "questionText": "Hvormeget er en normal respirationsfrekvens i hvile pr. minut?",
+      "answers":["12-16", "16-20", "20-25", "25-30"]
+    }
+    {
+      "questionText": "Hvad kaldes cellerne der måler CO2, O2 og pH?",
+      "answers":["kemoreceptorer", "baroreceptorer", "motoriske celler", "sympatiske celler"]
+    }
+    {
+      "questionText": "Ved inspiration skabes der ",
+      "answers":["undertryk i lungerne", "overtryk i lungerne", "undertryk i luftrøret men overtryk i alveolerne", " overtryk i luftrøret men i undertryk alveolerne"]
+    }
+    {
+      "questionText": "I luftvejene findes ciliebærende celler, hvilken funktion har disse ciliebærendeceller?",
+      "answers":["at transportere slimlaget hen mod svælget", "at transportere slimlaget ned mod alveolerne", "at transportere slimlaget op i cavitas nasi", "at mindske diffusions afstanden"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for næseskillevæggen",
+      "answers":["septum nasi", "septum cordis", "concha nasalis", "os nasale"]
+    }
+    {
+      "questionText": "Ved observation af patientens vejrtrækning tælles",
+      "answers":["hvor mange vejrtrækninger der er pr. minut", "hvor mange hjerteslag der er pr. minut", "hvor stor vitalkapaciteten er ", "hvor stor lungvolumen er "]
+    }
+    {
+      "questionText": "Hvad kaldes en udånding?",
+      "answers":["eksspiration", "inspiration", "respiration", "vejrtrækning"]
+    }
+    {
+      "questionText": "Hvad kaldes en indånding?",
+      "answers":["inspiration ", "eksspiration", "respiration", "vejrtrækning"]
+    }

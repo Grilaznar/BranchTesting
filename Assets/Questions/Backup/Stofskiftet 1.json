@@ -1,0 +1,218 @@
+
+    {
+      "Spørgsmål": "Stofskiftet er",
+      "Korrekt svar": "En samle-betegnelse for kroppens opbyggende og nedbrydende processer",
+      "Ukorrekt svar 1": "En betegnelse for celler der afstødes for at erstattes af nye",
+      "Ukorrekt svar 2": "Det samme som anabolisme",
+      "Ukorrekt svar 3": "Det samme som katabolisme"
+    },
+    {
+      "Spørgsmål": "Anabolisme er",
+      "Korrekt svar": "En samlebetegnelse for kroppens opbyggende processer",
+      "Ukorrekt svar 1": "En samlebetegnelse for kroppens nedbrydende processer",
+      "Ukorrekt svar 2": "Nedrydningen af anabole steroider",
+      "Ukorrekt svar 3": "En fællesbetegnelse for metabolisme og katabolisme"
+    },
+    {
+      "Spørgsmål": "Katabolisme er",
+      "Korrekt svar": "En samlebetegnelse for kroppens nedbrydende processer",
+      "Ukorrekt svar 1": "En samlebetegnelse for kroppens opbyggende processer",
+      "Ukorrekt svar 2": "Opbygning af katekolaminer",
+      "Ukorrekt svar 3": "En fællesbetegnelse for metabolisme og anabolisme"
+    },
+    {
+      "Spørgsmål": "Ved katabolismen",
+      "Korrekt svar": "Nedbrydes kulhydrat, fedt og protein til energi",
+      "Ukorrekt svar 1": "Anvendes energi til at bygge kulhydrat, fedt og proteiner",
+      "Ukorrekt svar 2": "Forbruges ATP",
+      "Ukorrekt svar 3": "Kopieres DNA"
+    },
+    {
+      "Spørgsmål": "Proces, hvor næringsstoffer omdannes til kuldioxid, vand og energi under forbrug af ilt",
+      "Korrekt svar": "Aerob forbrænding",
+      "Ukorrekt svar 1": "Oxidativ decarboxylering",
+      "Ukorrekt svar 2": "Anaerob forbrænding",
+      "Ukorrekt svar 3": "Anabolisme"
+    },
+    {
+      "Spørgsmål": "Proces, hvor glukose nedbrydes til mælkesyre og en begrænset mængde energi",
+      "Korrekt svar": "Anaerob forbrænding",
+      "Ukorrekt svar 1": "Glykogenolyse",
+      "Ukorrekt svar 2": "Glykoneogenese",
+      "Ukorrekt svar 3": "Aerob forbrænding"
+    },
+    {
+      "Spørgsmål": "Celleorganel nødvendig for den aerobe forbrænding",
+      "Korrekt svar": "Mitokondrie",
+      "Ukorrekt svar 1": "Golgiapparat",
+      "Ukorrekt svar 2": "Lysosom",
+      "Ukorrekt svar 3": "Endoplasmatisk retikulum"
+    },
+    {
+      "Spørgsmål": "Carbamid er et affaldsstof ved forbrændingen af ",
+      "Korrekt svar": "Aminosyrer",
+      "Ukorrekt svar 1": "Glukose",
+      "Ukorrekt svar 2": "Fedtsyrer",
+      "Ukorrekt svar 3": "Kolesterol"
+    },
+    {
+      "Spørgsmål": "I tarmepitelet optages monoglyceriderne",
+      "Korrekt svar": "fruktose, galaktose og glukose",
+      "Ukorrekt svar 1": "laktose, glukose og fruktose",
+      "Ukorrekt svar 2": "sukrose, galaktose og glukose",
+      "Ukorrekt svar 3": "galaktose, sukrose og fruktose"
+    },
+    {
+      "Spørgsmål": "Absorberede monosakkarider transporteres med vena portae til",
+      "Korrekt svar": "Leveren",
+      "Ukorrekt svar 1": "Vena subclavia sinister",
+      "Ukorrekt svar 2": "Glandula portae",
+      "Ukorrekt svar 3": "Glandula parathyroidea"
+    },
+    {
+      "Spørgsmål": "Lever- og rmuskelcellerne deponerer glukose som ",
+      "Korrekt svar": "Glykogen",
+      "Ukorrekt svar 1": "Stivelse",
+      "Ukorrekt svar 2": "Glykoneogenese",
+      "Ukorrekt svar 3": "Glycerol"
+    },
+    {
+      "Spørgsmål": "Når leveren modtager monosakkariderne fruktose og galaktose fra tarmen, omdannes de til",
+      "Korrekt svar": "Glukose",
+      "Ukorrekt svar 1": "Aminosyrer",
+      "Ukorrekt svar 2": "Glycerol",
+      "Ukorrekt svar 3": "DNA"
+    },
+    {
+      "Spørgsmål": "Energiudbyttet ved aerob i forhld til anaerob glukoseforbrænding er ca X gange større",
+      "Korrekt svar": "X = 19",
+      "Ukorrekt svar 1": "X = 2",
+      "Ukorrekt svar 2": "X = 32",
+      "Ukorrekt svar 3": "X = 12"
+    },
+    {
+      "Spørgsmål": "Kroppens glykogendepoter findes i ",
+      "Korrekt svar": "Lever og muskler",
+      "Ukorrekt svar 1": "Muskler og fedtvæv",
+      "Ukorrekt svar 2": "Blodet",
+      "Ukorrekt svar 3": "Lever og nyrer"
+    },
+    {
+      "Spørgsmål": "Kan leveren bruge kvælstoffet fra deaminerede aminosyrer til at lave kreatin",
+      "Korrekt svar": "Ja da",
+      "Ukorrekt svar 1": "Hell no",
+      "Ukorrekt svar 2": "Nå",
+      "Ukorrekt svar 3": "Næppe"
+    },
+    {
+      "Spørgsmål": "Hvilke lipoproteiner findes IKKE i blodet",
+      "Korrekt svar": "Miceller",
+      "Ukorrekt svar 1": "HDL",
+      "Ukorrekt svar 2": "LDL",
+      "Ukorrekt svar 3": "VLDL"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion tjener lipoproteinerne",
+      "Korrekt svar": "Gør lipiderne vandopløselige",
+      "Ukorrekt svar 1": "Sikrer en effektiv membranpassage",
+      "Ukorrekt svar 2": "Indgår i proteinsyntesen",
+      "Ukorrekt svar 3": "Bistår i lipasenes nedbrydning af fedtstoffer"
+    },
+    {
+      "Spørgsmål": "Fra hvilket stof kan leveren lave galdesure salte",
+      "Korrekt svar": "Kolesterol",
+      "Ukorrekt svar 1": "Glukose",
+      "Ukorrekt svar 2": "Aminosyrer",
+      "Ukorrekt svar 3": "Triglycerider"
+    },
+    {
+      "Spørgsmål": "Hvor findes vores primære fedtdepoter",
+      "Korrekt svar": "I subcutis og peritoneum",
+      "Ukorrekt svar 1": "I leveren og nyrene",
+      "Ukorrekt svar 2": "I Statum basale og statum lucidum",
+      "Ukorrekt svar 3": "I knoglemarvshulen"
+    },
+    {
+      "Spørgsmål": "Nyrernes tærskelværdi for glukose er. ",
+      "Korrekt svar": "10 mmol/L",
+      "Ukorrekt svar 1": "8 mmol/L",
+      "Ukorrekt svar 2": "12 mmol/L",
+      "Ukorrekt svar 3": "22 mmol/L"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse hormoner har ikke betydning for blodsukkeret?",
+      "Korrekt svar": "Aldosteron",
+      "Ukorrekt svar 1": "Kortisol ",
+      "Ukorrekt svar 2": "Glukagon",
+      "Ukorrekt svar 3": "Adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse hormoner har ikke betydning for blodsukkeret?",
+      "Korrekt svar": "Aldosteron",
+      "Ukorrekt svar 1": "Insulin ",
+      "Ukorrekt svar 2": "Glukagon",
+      "Ukorrekt svar 3": "Adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilken påstand om insulin er IKKE korrekt",
+      "Korrekt svar": "Insulin hæver blodsukkeret",
+      "Ukorrekt svar 1": "Insulin dannes i betaceller i pancreas",
+      "Ukorrekt svar 2": "Insulin fremmer fedtcellers optag af fedtsyrer",
+      "Ukorrekt svar 3": "Insulin fremmer cellers optag af aminosyrer"
+    },
+    {
+      "Spørgsmål": "Glukagon",
+      "Korrekt svar": "Hæver blodsukkeret",
+      "Ukorrekt svar 1": "Hæmmer glukoneogenesen",
+      "Ukorrekt svar 2": "Dannes i betaceller i pancreas",
+      "Ukorrekt svar 3": "Fremmer dannelsen af glykogen"
+    },
+    {
+      "Spørgsmål": "Ved aerob forbrænding af kulhydrat dannes der energimængden:",
+      "Korrekt svar": "17 kJ/g",
+      "Ukorrekt svar 1": "38 kJ/g",
+      "Ukorrekt svar 2": "2 kJ/g",
+      "Ukorrekt svar 3": "36 kJ/g"
+    },
+    {
+      "Spørgsmål": "Ved aerob forbrænding af fedt dannes der energimængden:",
+      "Korrekt svar": "38 kJ/g",
+      "Ukorrekt svar 1": "17 kJ/g",
+      "Ukorrekt svar 2": "2 kJ/g",
+      "Ukorrekt svar 3": "36 kJ/g"
+    },
+    {
+      "Spørgsmål": "Ved aerob forbrænding af protein dannes der energimængden:",
+      "Korrekt svar": "17 kJ/g",
+      "Ukorrekt svar 1": "38 kJ/g",
+      "Ukorrekt svar 2": "36 kJ/g",
+      "Ukorrekt svar 3": "34 kJ/g"
+    },
+    {
+      "Spørgsmål": "Hvad er ATP?",
+      "Korrekt svar": "Et molekyle der holder på forbrændingsenergi indtil den skal bruges",
+      "Ukorrekt svar 1": "En central byggesten i DNA",
+      "Ukorrekt svar 2": "Et vigtigt molekyle i Renin-Angiotensin-Aldosteron systemet",
+      "Ukorrekt svar 3": "Et nedbrydningsprodukt fra proteinfordøjelsen"
+    },
+    {
+      "Spørgsmål": "Hvor findes det appetitregulerende center",
+      "Korrekt svar": "Hypothalamus",
+      "Ukorrekt svar 1": "Medulla oblongata",
+      "Ukorrekt svar 2": "Hypofysen",
+      "Ukorrekt svar 3": "Substantia nigra"
+    },
+    {
+      "Spørgsmål": "Hvad er varmeledning",
+      "Korrekt svar": "Temperaturændring af huden ved berøring af et koldere eller varmere emne",
+      "Ukorrekt svar 1": "Temperatur ændring af huden som følge af varmestråling",
+      "Ukorrekt svar 2": "Temperaturændring af huden som følge af udskiftning af den omkringliggende luft eller vand",
+      "Ukorrekt svar 3": "Temperaturændring af huden som følge af svedsekretion"
+    },
+    {
+      "Spørgsmål": "Hvor findes det temperaturregulerende center?",
+      "Korrekt svar": "Hypothalamus",
+      "Ukorrekt svar 1": "Medulla oblongata",
+      "Ukorrekt svar 2": "Hypofysen",
+      "Ukorrekt svar 3": "Substantia nigra"
+    }

@@ -1,0 +1,257 @@
+
+    {
+      "questionText": "Nævn det danske navn på det yderste lag i øjet",
+      "answers":["senehinden", "årehinden", "nethinden", "benhinden"]
+    }
+    {
+      "questionText": "Nævn det danske navn på det midterste lag i øjet",
+      "answers":["årehinden", "senehinden", "nethinden", "benhinden"]
+    }
+    {
+      "questionText": "Nævn det danske navn på det inderste lag i øjet",
+      "answers":["nethinden", "senehinden", "årehinden", "benhinden"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det yderste lag i øjet",
+      "answers":["sclera", "choroidea", "retina", "ciliare"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det midterste lag i øjet",
+      "answers":["choroidea", "senehinden", "retina", "corpus luteum"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det inderste lag i øjet",
+      "answers":["retina", "choroidea", "sclera", "corpus luteum"]
+    }
+    {
+      "questionText": "Nævn det danske navn for cornea",
+      "answers":["hornhinden", "nethinden", "senehinden", "årehinden"]
+    }
+    {
+      "questionText": "Nævn det danske navn for iris",
+      "answers":["regnbuehinden", "senehinden", "hornhinden", "årehinden"]
+    }
+    {
+      "questionText": "Nævn det danske navn for corpus vitreum",
+      "answers":["glaslegemet", "linsen", "strålelegemet", "øjeæblet"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for regnbuehinden",
+      "answers":["iris", "cornea", "corpus ciliare", "sclera"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for hornhinden",
+      "answers":["cornea", "sclera", "iris", "retina"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for linsen",
+      "answers":["lens", "corpus ciliare", "lien", "splen"]
+    }
+    {
+      "questionText": "Hvilken farve har sclera?",
+      "answers":["hvid", "rød", "sort", "brun eller blå"]
+    }
+    {
+      "questionText": "Hvad findes mellem hornhinden og linsen?",
+      "answers":["kammervæske", "glaslegmet", "nethinden", "årehinden"]
+    }
+    {
+      "questionText": "Hvad er pupillen?",
+      "answers":["et hul i midten af iris", "et hul i midten af hornhinden", "et hul i midten af nethinden", "et hul i midten af glaslegeme"]
+    }
+    {
+      "questionText": "Hvor mange lag muskulatur findes i regnbuehinden?",
+      "answers":["to lag glat muskulatur", "to lag tværstribet muskulatur", "et lag glat muskulatur", "et lag tværstribet muskulatur"]
+    }
+    {
+      "questionText": "Muskelcellerne i regnbuehinden aktiveres af ",
+      "answers":["det autonome nervesystem", "det somatiske nervesystem", "det sensoriske nervesystem", "kun af det parasympatiske nervesystem"]
+    }
+    {
+      "questionText": "Hvor i øjet findes de lysopfattende celler?",
+      "answers":["i retina", "i sclera", "i choroidea", "i corpus vitreum"]
+    }
+    {
+      "questionText": "Hvad er stave og tappe?",
+      "answers":["lysopfattende celler i retina", "lysopfattende celler i choroidea", "lysopfattende celler i sclera", "lysopfattende celler i cornea"]
+    }
+    {
+      "questionText": "Nævn det latinske  navn på synsnerven",
+      "answers":["nervus opticus ", "nervus synicus", "nervus occulomotorius", "nervus olfactorius"]
+    }
+    {
+      "questionText": "Hvad dannes når lys rammer stave og tappe i nethinden",
+      "answers":["nerveimpulser ", "hormoner ", "signalstoffer", "cytokiner"]
+    }
+    {
+      "questionText": "Mængden af lys der trænger ind i øjet reguleres ved hjælp af ",
+      "answers":["pupillen", "hornhinden", "linsen", "nethinden"]
+    }
+    {
+      "questionText": "Øjeæblets tre lag benævnes udefra og ind",
+      "answers":["senehinden, årehinden og nethinden", "senehinden, muskelhinden og blodhinden", "strålehinden, senehinden og bindevævshinden", "senehinden, nethinden og nervehinden"]
+    }
+    {
+      "questionText": "Pupillen(øjeæblets åbning) er yderst beskyttet af ",
+      "answers":["hornhinden", "senehinden", "regnbuehinden", "nethinden"]
+    }
+    {
+      "questionText": "Mellem linsen og hornhinden ligger",
+      "answers":["iris, regnbuehinden", "glaslegemet", "sclera", "nethinden"]
+    }
+    {
+      "questionText": "Hvilket er ikke en af pupillens funktioner?",
+      "answers":["at afbøje lysstrålerne, så der dannes et billede i retina", "at lukke lys ind", "at tilpasse lysmængden der lukkes ind til retina", "at kunne regulere den indkomne lysmængde til retina"]
+    }
+    {
+      "questionText": "Hvilken funktion har glaslegemet?",
+      "answers":["at holde øjet og nethinden udspilet", "at danne tårevæske", "at danne kammervæske", "at forsyne nethinden med ilt og næringsstoffer"]
+    }
+    {
+      "questionText": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "answers":["retina- senehinde", "iris-regnbuehinde", "n. opticus - synsnerve", "cornea- hornhinde"]
+    }
+    {
+      "questionText": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "answers":["corpus vitreum- linsen", "gl. lacrimalis- tårekirtel", "sclera-senehinde", "chiasma opticum- synsnervekrydsning"]
+    }
+    {
+      "questionText": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "answers":["bulbus oculi-glaslegemet", "iris-regnbuehinde", "conjunctiva- bindehinde", "orbita-øjenhule"]
+    }
+    {
+      "questionText": "Hvilken funktion har øjenhulens fedtvæv",
+      "answers":["at beskytte mod slag og stød", "at fungere som energidepot for øjets celler", "at fungere som depot for lymfocytter", "at beskytte mod stærkt lys"]
+    }
+    {
+      "questionText": "Hvad kaldes evnen til at regulere linsens form, så der stilles skarpt?",
+      "answers":["akkomodation", "anatgonistisk", "adaption", "homøostase"]
+    }
+    {
+      "questionText": "Nævn navnet på hullet i iris ",
+      "answers":["pupillen", "irishullet", "cavum iris ", "poplitea"]
+    }
+    {
+      "questionText": "Personer med kun et øje har svært ved at ",
+      "answers":["bedømme afstand", "se dobbelt", "se farver ", "se skarpt "]
+    }
+    {
+      "questionText": "En person der er i underskud med  A-vitamin, risikere at blive ",
+      "answers":["natteblind", "nærsynet", "langsynet ", "blind"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det ydre øre",
+      "answers":["auris externa", "auris media", "auris interna", "auris auricula"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på mellemøret",
+      "answers":["auris media ", "auris externa", "auris interna", "auris thympani"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det indre øre",
+      "answers":["auris interna", "auris externa", "auris thympani", "auris media"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på øremuslingen",
+      "answers":["auricula", "clavicula", "auris ", "auris externa"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på den ydre øregang- der hvor ørevoksen sidder :-)",
+      "answers":["meatus acusticus externus", " metacarpus ", "metatarsus", "obliquus externus"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på den knogle hvori den ydre øregang findes",
+      "answers":["os temporale", "os parietale", "os frontale", "os occipitalis"]
+    }
+    {
+      "questionText": "Hvad sidder inde for enden af den ydre øregang?",
+      "answers":["trommehinden", "stigbøjlen", "øreflippen", "øretragten"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for trommehinden",
+      "answers":["membrana tympani", "membrana tectoria", "membrana synovialis", "membrana interossea"]
+    }
+    {
+      "questionText": "Hvad består trommehinden af?",
+      "answers":["en tynd bindevævsplade", "en tynd muskel", "en tynd fedthinde", "enlaget pladeepitel"]
+    }
+    {
+      "questionText": "Nævn navnet på de tre høreknogler",
+      "answers":["hammeren, ambolten og stigbøjlen", "hammeren, ambolten og sadlen", "ambolten, skamlen og sadlen", "hammeren, stigbøjlen og bjælken"]
+    }
+    {
+      "questionText": "Find den rigtige rækkefølge for høreknoglerne ",
+      "answers":["hammeren, ambolten og stigbøjlen", "hammeren, stigbøjlen og ambolten", "stigbøjlen, hammeren og ambolten", "ambolten, stigbøjlen og hammeren"]
+    }
+    {
+      "questionText": "Hvilken funktion har trommehinden?",
+      "answers":["trommehinden overføre lydens svingninger til høreknoglerne", "trommehinden forhindre høje lyde i at ødelægge hørecentret", "trommehinden forhindre bakterier i at trænge ind i øret", "trommehinden danner ørevoks"]
+    }
+    {
+      "questionText": "Hvilken funktion har det eustakiske rør?",
+      "answers":["at sikre det sammme tryk på begge sider af trommehinden", "at sikre undertryk i trommehulen", "at sikre overtryk i trommehulen", "at fungere som afløbskanal ned til svælget"]
+    }
+    {
+      "questionText": "I det indre øre findes sanseceller. Hvad opfatter disse sanseceller?",
+      "answers":["lyd og ligevægt", "lugt og ligevægt", "lyd og lugt", "syn og lugt"]
+    }
+    {
+      "questionText": "I hvilken knogle finder vi det indre øre?",
+      "answers":["tindingeknoiglen", "pandeknoglen", "isseknoglen", "nalkkeknoglen"]
+    }
+    {
+      "questionText": "Nævn det latinske ord for snaglen",
+      "answers":["cochlea", "coccygis", "stapes", "sacral"]
+    }
+    {
+      "questionText": "Hvor i øret findes det cortiske organ?",
+      "answers":["i sneglen", "i vestibulum", "i canales semicirculares", "i auris media"]
+    }
+    {
+      "questionText": "Hvilken funktiuon har det cortiske organ?",
+      "answers":["danne \"lyd\" impulser der sendes til hjernen", "danne \"tryk\" impulser der sendes til hjernen", "opfatte ligevægt og acceleration", "at forbygge søsyge og køresyge"]
+    }
+    {
+      "questionText": "Hvor i det indre øre findes ligevægtsansen?",
+      "answers":["i canales semicirculares og vestibulum", "i cochlea", "i det cortiske organ", "i scala tympani"]
+    }
+    {
+      "questionText": "Her findes hammeren, ambolten og stigbøjlen",
+      "answers":["i mellemøret", "i sneglen", "i det ydre øre", "i det indre øre"]
+    }
+    {
+      "questionText": "Hvilken del af øret er fyldt med væske?",
+      "answers":["det indre øre", "mellemøret", "det ydre øre", "øregangen "]
+    }
+    {
+      "questionText": "Hvilken del af øret har forbindelse til svælget?",
+      "answers":["mellemøret", "øregangen", "det ydre øre", "det indre øre"]
+    }
+    {
+      "questionText": "Hvor kommer lydbølgerne til trommehinden fra ",
+      "answers":["fra det ydre øre", "fra mellemøret", "fra det indre øre", "fra sneglen og vestibulum"]
+    }
+    {
+      "questionText": "Hvor findes vestibulum?",
+      "answers":["i det indre øre", "i mellemøret", "i det ydre øre ", "i øregangen"]
+    }
+    {
+      "questionText": "I hvilken del af øret kan der opstå overtryk og undertryk, som kan nedsætte hørelsen?",
+      "answers":["i mellemøret", "i det ydre øre", "i det indre øre", "i sneglen"]
+    }
+    {
+      "questionText": "Hvor i øret findes det cortiske organ?",
+      "answers":["i sneglen", "i vestibulum", "i canales semicircularis", "i mellemøret"]
+    }
+    {
+      "questionText": "Oversæt membrana tympani til dansk",
+      "answers":["trommehinden", "øremuslingen", "hammeren", "basal membranen"]
+    }
+    {
+      "questionText": "Oversæt auricula til dansk",
+      "answers":["øremusling/øretragt", "ydre øre", "sneglen", "kalkkrystaller"]
+    }
+    {
+      "questionText": "Oversæt meatus acusticus  til dansk",
+      "answers":["ydre øregang", "mellemøret", "det eustakiske rør", "den akustiske kanal "]
+    }

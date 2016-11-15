@@ -1,0 +1,132 @@
+{
+      "questionText": "Hvilket gælder ikke for kortisol regulering?",
+      "answers":["kortisol udskilles om eftermiddagen", "kortisol udskilles om morgenen", "hypothalamus udskiller CRH", "hypofysen udskiller ACTH"]
+    }
+    {
+      "questionText": "Calcium er ikke nødvendig for ",
+      "answers":["blodsukker regulering", "muskelkontraktion", "impulsoverførsel", "koagulation"]
+    }
+    {
+      "questionText": "Hvilket af disse er et peptidhormon/proteinhormon",
+      "answers":["Glukagon", "Østrogen", "T3", "Adrenalin"]
+    }
+    {
+      "questionText": "Hvilket af disse er et steroidhormonhormon",
+      "answers":["Testosteron", "Noradrenalin", "Insulin", "Glukagon"]
+    }
+    {
+      "questionText": "Hvilke af disse er et katekolamin",
+      "answers":["Adrenalin", "T4", "Østradiol", "Insulin"]
+    }
+    {
+      "questionText": "Disse hormoner er vandopløselige",
+      "answers":["Katekolaminer", "Steriodhormoner", "Stofskiftehormoner", "Kønshormoner"]
+    }
+    {
+      "questionText": "Disse hormoner er fedtopløselige",
+      "answers":["Steroidhormoner", "Katekolaminer", "Peptidhormoner", "Glukagonog insulin"]
+    }
+    {
+      "questionText": "Hvilken virkning har adrenalin og noradrenalin ikke?",
+      "answers":["hæmmer immunsystemet", "øger respirationsfrekvensen", "kontraherer blodkar i hud og mave-tarm kanal", "øger tømning af fedt- og glykogendepoter"]
+    }
+    {
+      "questionText": "Hvilken virkning har kortisol ikke?",
+      "answers":["øger cellernes optag af glukose", "sænker cellernes optag af glukose", "nedbryder fedtdepoter", "øger omdannelsen af glycerol til glukose"]
+    }
+    {
+      "questionText": "Hvilken påstand er gælder ikke for vandopløselige hormonerhormoner",
+      "answers":["Hormon-receptor-komplekset stimulerer til proteinsyntese", "Hormon-receptor-kompleks aktiverer allerede eksistende inaktive intracellulære enzymer", "Hormonerne binder til receptor på cellemembranen", "Hormonerne findes frit opløst i blodplasma"]
+    }
+    {
+      "questionText": "Hvilket hormon danner koglekirtlen?",
+      "answers":["melatonin", "serotonin", "insulin", "aldosteron"]
+    }
+    {
+      "questionText": "Hvor dannes hormonet TRH?",
+      "answers":["i hypothalamus ", "i hypofysen ", "i skjoldbruskkirtlen ", "i binyrebarken"]
+    }
+    {
+      "questionText": "Hvor dannes hormonet GnRH?",
+      "answers":["i hypothalamus ", "i hypofysen ", "i skjoldbruskkirtlen ", "i binyrebarken"]
+    }
+    {
+      "questionText": "Hvor dannes hormonet ADH?",
+      "answers":["i hypothalamus ", "i hypofysebaglappen", "i hypofyseforlappen", "i binyrebarken"]
+    }
+    {
+      "questionText": "Hvor dannes hormonet oxytocin?",
+      "answers":["i hypothalamus ", "i hypofysebaglappen", "i hypofyseforlappen", "i binyrebarken"]
+    }
+    {
+      "questionText": "Hvilket hormon danner pancreas betaceller?",
+      "answers":["insulin", "glukagon", "glykogen", "lipase"]
+    }
+    {
+      "questionText": "Hvilket hormon danner pancreas alfaceller?",
+      "answers":["glukagon", "insulin", "glykogen ", "peptidase"]
+    }
+    {
+      "questionText": "Hvilket hormon danner glandulae parathyroideae?",
+      "answers":["PTH", "ACTH", "MSH", "ADH"]
+    }
+    {
+      "questionText": "Hvor dannes hormonet calcitonin?",
+      "answers":["glandula thyroidea", "glandulae parathyroideae", "pancreas", "glandula suprarenalis"]
+    }
+    {
+      "questionText": "Hvilken virkning har kortisol ikke?",
+      "answers":["sænke blodsukker niveauet", "hæmme immunsystemet", "hæmme insulins virkning", "omdanne proteiner til glukose"]
+    }
+    {
+      "questionText": "Hvilken virkning har kortisol ikke?",
+      "answers":["sænke fedtforbrændingen ", "øge blodets indhold af glukose", "øge tømning af fedtdepoter", "omdanne glycerol til glukose"]
+    }
+    {
+      "questionText": "Hvilken virkning har aldosteron?",
+      "answers":["øger reasorptionen af Na+og sekretion af K+ i renes", "omdanner proteiner til glukose", "øger tømning af glykogen depoter ", "aktiverer D-vitamin"]
+    }
+    {
+      "questionText": "Følgende hormoner dannes i binyrerne",
+      "answers":["Kortisol, aldosteron og testosteron", "Adrenalin ogoradrenalin", "Kortisol, calcitonin og PTH", "EPO og Angiotensin II"]
+    }
+    {
+      "questionText": "Kortisoll fremmer IKKE:",
+      "answers":["Nedbrydning af glykogen til glukose", "Nedbrydning af vævsproteiner", "Hæmning af insulins virkning", "Nedbrydning af fedtdepoter"]
+    }
+    {
+      "questionText": "Hvilken virkning har adrenalin ikke?",
+      "answers":["hæmmer  infektionsforsvaret", "øger blodtrykket", "hæmmer fordøjelsen", "dilaterer bronkier"]
+    }
+    {
+      "questionText": "Kortisoll fremmer IKKE:",
+      "answers":["Glykogenolysen", "Glykoneogenesen", "Hæmmer virkningen af histamin", "Fremmer omdannelse ag glycerol til glukose"]
+    }
+    {
+      "questionText": "Adrenalin fremmer IKKE",
+      "answers":["Øget fordøjelse", "Øget hjerteaktivitet ", "Kontraktion af perifere blodkar", "Nedbrydinng af fedt- og glykogendepoter"]
+    }
+    {
+      "questionText": "Adrenalin fremmer IKKE",
+      "answers":["Fordøjelsen", "Øget respirationsfrekvens og -dybde", "Dilation af koronararterier", "Øget bronkiediameter"]
+    }
+    {
+      "questionText": "Hvilken virkning har glukagon ikke?",
+      "answers":["sænker blodets glukose indhold", "tømmer glykogendepoter", "tømmer fedtdepoter", "omdanner aminosyrer til glukose"]
+    }
+    {
+      "questionText": "Hvilken feedback regulering er usand",
+      "answers":["Atrialt natriuretisk peptid udskilles fra hjertemuskulaturen ved ringe blodvolumen i hjertets forkamre", "Sekretin udskillelsen fra duodenum ved lave pH-værdier", "Blodets iltindhold regulere nyrenes EPO-udskillelse", "CCK udskilles fra duodenum, når fedtindholdet i dette tarmafsnit er højt"]
+    }
+    {
+      "questionText": "Hvilken virkning har calcitonin?",
+      "answers":["sænker Ca++ koncentrationen i blodet", "hæver Ca++ koncentrationen i blodet", "øger optagelsen af Ca++ fra tarm til blod", "øger appetitten"]
+    }
+    {
+      "questionText": "Udskillelsen af dette hormon fremmes IKKE af nervesystemet",
+      "answers":["MSH", "Gastrin", "Adrenalin", "Insulin"]
+    }
+    {
+      "questionText": "Melatonin",
+      "answers":["Udskilles af epifysen", "Udskilles af hypofysen", "Udskilles af hypothalamus", "Udskilles af melanocytter"]
+    }

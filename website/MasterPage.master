@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="global.css"/>
+    <asp:ContentPlaceHolder id="head" runat="server"/>
+</head>
+<body>
+    <form id="contentForm" runat="server">
+     <header>
+        <nav>
+			<ul>
+				<li><a href="Default.aspx">Home</a></li>
+				<li><a href="#">How to Play</a></li>
+				<li><a href="#">Leaderboard</a></li>
+				<li><a href="#">Terms of Service</a></li>
+				<li><a href="#">About</a></li>
+			</ul>
+		</nav>
+    </header>
+    <main>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"/>
+    </main>
+    <footer>Admin login: <a href="Admin.aspx">Here</a></footer>
+    </form>
+</body>
+</html>

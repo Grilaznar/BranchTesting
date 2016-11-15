@@ -1,0 +1,76 @@
+  {
+      "questionText": "Nævn hjertets latinske navn",
+      "answers":["cor", "corium", "cerumen", "cortis"]
+    }
+    {
+      "questionText": "Nævn hjertets hovedfunktion",
+      "answers":["at pumpe blodet rundet i kroppen", "at danne hormoner ", "at danne hjertelyde", "at \" banke voldsomt\" når man er forelsket"]
+    }
+    {
+      "questionText": "Nævn kroppen største pulsåre",
+      "answers":["aorta", "arteriole", "valva aorta", "coronar "]
+    }
+    {
+      "questionText": "Nævn navnet på de to kredsløb",
+      "answers":["det lille kredsløb og det store kredsløb", "det røde kredsløb og det blå kredsløb", "det smalle kredsløb og det bredde kredsløb", "det højre kredsløb og det venstre kredsløb"]
+    }
+    {
+      "questionText": "Nævn navnet på de to kredsløb",
+      "answers":["legemskredsløbet og lungekredsløbet", "kropskredsløbet og organkredsløbet", "thorax kredsløbet og abdomen kredsløbet", "venepumpen og thoraxpumpen"]
+    }
+    {
+      "questionText": "Hvor er hjertet placeret?",
+      "answers":["i thorax bag sternum, hvilende på diaphragma", "i abdomen bag sternum, hvilende på diaphragma", "bag ved lungerne, hvilende på diaphragma", "foran ribbene bag lungerne i abdomen"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det store blodkar der afgår fra højre hjertekammer",
+      "answers":["truncus pulmonalis", "v. pulmonalis ", "aorta", "vena cava superior"]
+    }
+    {
+      "questionText": "Nævn det latinske navn på det store blodkar der afgår fra venstre hjertekammer",
+      "answers":["aorta", "truncus pulmonalis", "v. pulmonalis", "a. subclavia sinister"]
+    }
+    {
+      "questionText": "Nævn det latinske for nedre hulvene",
+      "answers":["vena cava inferior", "vena cava superior", "aorta", "truncus pulmonalis"]
+    }
+    {
+      "questionText": "Nævn det danske navn for vena cava superior",
+      "answers":["øvre hulvene ", "nedre hulvene", "lungevene", "lungearterie"]
+    }
+    {
+      "questionText": "Hjertet er opbygget som ",
+      "answers":["en hørje- og en venstre pumper", "en stor pumpe", "fire små pumper", "en øvre pumpe og en nedre pumpe, adskilt af septum"]
+    }
+    {
+      "questionText": "Hjertet ligger lidt skævt i thorax med ",
+      "answers":["2/3 i venstre side og 1/3 i højre side ", "1/4 i venstre side og 3/4 i højre side", "3/5 i venstre side og 2/5 i højre side", "2/3 mod diaphragma og 1/3 mod lungerne"]
+    }
+    {
+      "questionText": "Nævn navnet på de tre lag i hjertevæggen",
+      "answers":["perikardiets to lag, myocardium og endocardium", "epicardiet, endometriet og myometriet", "perineum, periost og endost", "peritoneum, perineum og endometriet"]
+    }
+    {
+      "questionText": "Hvilken funktion har væsken melem perikardiets to lag?",
+      "answers":["nedsætter gnidningsmodstanden", "øger gnidningsmodstanden", "ernærer hjertet", "nedbryder mikroorganismer"]
+    }
+    {
+      "questionText": "Hjertet er inddelt i ",
+      "answers":["to forkamre og to hjertekamre", "et bagkammer og et forkammer", "to forkamre og et hjertekammer", "fire hjertekamre"]
+    }
+    {
+      "questionText": "Hjertet har ialt ",
+      "answers":["fire klapper", "to klapper ", "et sæt klapper", "to sæt klapper"]
+    }
+    {
+      "questionText": "Nævn navnet på den epiteltype der beklæder hjertekammernes indre overflade",
+      "answers":["endotel, enlaget pladeepitel", "pseudolaget cylnderepitel", "forhornet flerlaget pladeepitel", "kubisk overgangsepitel"]
+    }
+    {
+      "questionText": "Hvilke blodkar forsyner hjertet med ilt og nærinsstoffer?",
+      "answers":["koronararterierne", "aorta", "truncus pulmonalis ", "kapillærermusklerne"]
+    }
+    {
+      "questionText": "Myocardiet er mest kraftig i ",
+      "answers":["venstre side ", "højre side ", "i højre atrium ", "ventriculus dextra"]
+    }

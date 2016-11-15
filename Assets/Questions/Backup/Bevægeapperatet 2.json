@@ -1,0 +1,112 @@
+{
+      "Spørgsmål": "Armens rørknogler hedder",
+      "Korrekt svar": "Humerus, radius og ulna",
+      "Ukorrekt svar 1": "Humerus tibia og fibula",
+      "Ukorrekt svar 2": "Scapula, humerus og ulna",
+      "Ukorrekt svar 3": "Ulna, tibia og fibula"
+    },
+    {
+      "Spørgsmål": "Benets rørknogler er",
+      "Korrekt svar": "Femur, tibia og fibula ",
+      "Ukorrekt svar 1": "Humerus, Femur og Patella",
+      "Ukorrekt svar 2": "Radius, ulna og fibula",
+      "Ukorrekt svar 3": "Femur, ulna og fibula"
+    },
+    {
+      "Spørgsmål": "Disse 2 muskler er antagonister",
+      "Korrekt svar": "M. biceps brachii og m triceps brachii",
+      "Ukorrekt svar 1": "M. sartorius og m. frontalis",
+      "Ukorrekt svar 2": "M. deltoideus og m rectus abdominis",
+      "Ukorrekt svar 3": "M. gastrocnemius og m. semitendinosus"
+    },
+    {
+      "Spørgsmål": "Epifyseskiver er ",
+      "Korrekt svar": "Bruskskive, hvor rørknoglers længdevæksk sker",
+      "Ukorrekt svar 1": "Bruskskive mellem ryghvirvlerne",
+      "Ukorrekt svar 2": "Knæskaller",
+      "Ukorrekt svar 3": "Bindevævskive mellem kranieknogler"
+    },
+    {
+      "Spørgsmål": "Er IKKE opbygget af hyalin brusk",
+      "Korrekt svar": "Næsespidsens brusk",
+      "Ukorrekt svar 1": "Ledbrusk i ægte led",
+      "Ukorrekt svar 2": "Luftrør og bronkiers brusk",
+      "Ukorrekt svar 3": "Ribbensbrusk"
+    },
+    {
+      "Spørgsmål": "Er opbygget af fibrøsbrusk",
+      "Korrekt svar": "Disci intervertebrale",
+      "Ukorrekt svar 1": "Ledbrusk i ægte led",
+      "Ukorrekt svar 2": "Brusk i øremusling",
+      "Ukorrekt svar 3": "Epifyseskiver"
+    },
+    {
+      "Spørgsmål": "Hvad er IKKE fremmende for afkalkning af knogler",
+      "Korrekt svar": "Kønshormoner",
+      "Ukorrekt svar 1": "Immobilitet",
+      "Ukorrekt svar 2": "Binyrebarkhormoner",
+      "Ukorrekt svar 3": "Alderdom"
+    },
+    {
+      "Spørgsmål": "Calcitonins funktion",
+      "Korrekt svar": "Sænker blodets Ca2+ indhold",
+      "Ukorrekt svar 1": "Hæver blodets Ca2+ indhold",
+      "Ukorrekt svar 2": "Fremmer osteoklastaktivitet",
+      "Ukorrekt svar 3": "Fremmer osteocytaktivitet"
+    },
+    {
+      "Spørgsmål": "Er ikke fremmende for ledbevægelse",
+      "Korrekt svar": "Endost",
+      "Ukorrekt svar 1": "Ledbrusk",
+      "Ukorrekt svar 2": "Liquor synovialis",
+      "Ukorrekt svar 3": "Omslagsfold"
+    },
+    {
+      "Spørgsmål": "Er IKKE led-stabiliserende",
+      "Korrekt svar": "ledvæske",
+      "Ukorrekt svar 1": "ledbånd",
+      "Ukorrekt svar 2": "ledkapsel",
+      "Ukorrekt svar 3": "muskeltonus"
+    },
+    {
+      "Spørgsmål": "En ryghvirvel består IKKE af ",
+      "Korrekt svar": "Arcus zygomaticus",
+      "Ukorrekt svar 1": "Processus articularis",
+      "Ukorrekt svar 2": "Processus spinosus",
+      "Ukorrekt svar 3": "Corpus vertebrae"
+    },
+    {
+      "Spørgsmål": "Dette er en af de 8 håndrodsknogler",
+      "Korrekt svar": "Os scaphoideum",
+      "Ukorrekt svar 1": "Os frontale",
+      "Ukorrekt svar 2": "Phalanx proximalis",
+      "Ukorrekt svar 3": "Os naviculare"
+    },
+    {
+      "Spørgsmål": "Dette stof indgår IKKE i muskelcellers energistofskifte",
+      "Korrekt svar": "Aldosteron",
+      "Ukorrekt svar 1": "Myoglobin",
+      "Ukorrekt svar 2": "Kreatinfosfat",
+      "Ukorrekt svar 3": "Glykogen"
+    },
+    {
+      "Spørgsmål": "GLUT4 har til formål",
+      "Korrekt svar": "At sænke blodsukkeret",
+      "Ukorrekt svar 1": "At æge blodsukkeret",
+      "Ukorrekt svar 2": "At fragte glutamat",
+      "Ukorrekt svar 3": "At optage glutamat i cellerne"
+    },
+    {
+      "Spørgsmål": "Lillehjernes ligevægtscenter modtager IKKE impulser fra",
+      "Korrekt svar": "Det ydre øre",
+      "Ukorrekt svar 1": "Det indre øre",
+      "Ukorrekt svar 2": "Dybdesensibiliteten ",
+      "Ukorrekt svar 3": "Synssansen"
+    },
+    {
+      "Spørgsmål": "Colles´ fraktur er?",
+      "Korrekt svar": "Fraktrur i Spolebenet ",
+      "Ukorrekt svar 1": "Faktur i hoften",
+      "Ukorrekt svar 2": "Fraktur i lårbenshalsen",
+      "Ukorrekt svar 3": "Fraktur i Håndroden"
+    }

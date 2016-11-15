@@ -1,0 +1,92 @@
+    {
+      "questionText": "Hudens gennemsnitlige tykkelse er ",
+      "answers":["0,1 mm", "1 mm", "5 mm", "3 mm"]
+    }
+    {
+      "questionText": "Hvilket epitel opbygger huden?",
+      "answers":["flerlaget pladeepitel, som er forhornet", "enlaget cylinder epitel", "flerlaget cylinder epitel", "enlaget pladeepitel"]
+    }
+    {
+      "questionText": "Nævn navnet på de proteiner der holder hudcellerne sammen i epidermis",
+      "answers":["desmosomer", "centromerer", "fagolysosomer", "gap-junctions"]
+    }
+    {
+      "questionText": "Nævn navnet på det yderste lag i epidermis",
+      "answers":["stratum corneum", "stratum basale", "corpús callosom", "capsula firbrosa"]
+    }
+    {
+      "questionText": "Nævn navnet på det protein der findes i de døde yderste hudceller",
+      "answers":["kreatin", "kreatinin", "kreatininfosfat", "calcitonin"]
+    }
+    {
+      "questionText": "Hvilken celletype findes ikke i overhuden/epidermis?",
+      "answers":["fibroblaster", "keratinholdige celler", "melanocytter", "langerhanske celler"]
+    }
+    {
+      "questionText": "Hvor i epidermis dannes der nye celler ved mitosecelledeling?",
+      "answers":["epidermis nederste lag, stratum basale", "epidermis øvertse lag, stratum corneum", "i melanocytterne i epidermis", "i de Langerhanske celler"]
+    }
+    {
+      "questionText": "Hvilken funktion har Langerhanske celler i epidermis?",
+      "answers":["de fagocytere mikroorganismer", "de danner farvestoffet melatonin", "de danner hudens fedtsyrer", "de danner hudens desmosomer"]
+    }
+    {
+      "questionText": "Hvilken struktur er ikke udviklet fra epidermis?",
+      "answers":["trykreceptorer", "hår", "negle", "svedkirtel"]
+    }
+    {
+      "questionText": "Nævn navnet på den glatte muskel der får håret til at rejse sig, gåsehud",
+      "answers":["m. arrector pili", "m. adductor brevis", "m. cilliaris", "m. cremaster"]
+    }
+    {
+      "questionText": "Hvilke bestanddele indgår i læderhuden?",
+      "answers":["fibroblaster, grundsubstans og fibre", "lymfocytter, grundsubstans og fibre", "kondrocytter og erytrocytter", "følereceptorer og melanocytter"]
+    }
+    {
+      "questionText": "Hvilke bestanddele indgår i læderhudens grundsubstans?",
+      "answers":["hyaluronsyre med vand og salte", "melanocytter og melanin", "saltsyre og hydrogenkarbonationer", "lymfevæske og plasma"]
+    }
+    {
+      "questionText": "I hvilket interval måler temperatursanse celler i huden?",
+      "answers":["10-45 grader", "36,5-37,5 grader", "0-10 grader", "45-100 grader"]
+    }
+    {
+      "questionText": "Hvor meget af organismens blod findes normalt i huden?",
+      "answers":["10 %", "25%", "40%", "50%"]
+    }
+    {
+      "questionText": "Hvilken tilstand i organismen kan gremkalde nedsat hudturgor?",
+      "answers":["væskemangel, dehydrering", "væskeoverskud", "normal diurese", "høj blodglukose"]
+    }
+    {
+      "questionText": "Hvorfor opstår der tryksår når blodkarrene klemmes sammen?",
+      "answers":["der opstår iltmangel og cellerne dør", "der opstår underskud af CO2 i huden", "der opstår underskud af H + ioner", "der opstår mangel på hvide blodceller"]
+    }
+    {
+      "questionText": "Hvor er der normalt ikke risiko for tryksår?",
+      "answers":["på låret", "på hælen", "ved knæet", "ved skulderbladene"]
+    }
+    {
+      "questionText": "Hvilken ion er der risiko for at miste i større mængde ved kraftig svedproduktion?",
+      "answers":["Na+ ionen", "K+ ionen", "Ca++ ionen", "Cl- ionen"]
+    }
+    {
+      "questionText": "Hvilken bakterie er en normal del af hudens normalflora?",
+      "answers":["Staphylococcus epidermidis", "Streptococcus pyrogenes", "Helicobacter pylori", "Eschericia coli"]
+    }
+    {
+      "questionText": "Ud over at deltage i temperaturregulering har sveden også denne funktion",
+      "answers":["medvirker til at bekæmpe bakterier vha. lav pH", "giver huden styrke", "gør huden varm", "opløser fedt og snavs i huden"]
+    }
+    {
+      "questionText": "Unge mennesker kan rammes af bumser, acne vulgaris. Hvor i huden opstår bumser?",
+      "answers":["i talgkirtler", "i svedkirtler", "i hårsækken", "i underhuden"]
+    }
+    {
+      "questionText": "Hvilken funktion har farvestoffet melanin i huden?",
+      "answers":["beskytte cellerns DNA", "beskyte mod vandtab", "beskytte mod tab af Na+ ioner", "gøre huden elastisk og spænstig"]
+    }
+    {
+      "questionText": "Hvad gælder for tykkelsen af epidermis?",
+      "answers":["0,1 mm tyk i gennemsnit", "0,00´1mm tyk i gennemsnit", "1,0 mm tyk i gennemsnit", "5 mm tyk i gennemsnit"]
+    }

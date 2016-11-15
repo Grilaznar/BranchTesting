@@ -1,0 +1,210 @@
+{
+      "Spørgsmål": "Hvilket lag ligger yderst i huden?",
+      "Korrekt svar": "epidermis",
+      "Ukorrekt svar 1": "dermis",
+      "Ukorrekt svar 2": "corium",
+      "Ukorrekt svar 3": "subcutis"
+    },
+    {
+      "Spørgsmål": "Hvad hedder epidermis på dansk?",
+      "Korrekt svar": "overhuden",
+      "Ukorrekt svar 1": "læderhuden",
+      "Ukorrekt svar 2": "underhuden",
+      "Ukorrekt svar 3": "fedtlaget"
+    },
+    {
+      "Spørgsmål": "Hvad hedder overhuden på latin?",
+      "Korrekt svar": "epidermis",
+      "Ukorrekt svar 1": "corium",
+      "Ukorrekt svar 2": "dermis",
+      "Ukorrekt svar 3": "subcutis"
+    },
+    {
+      "Spørgsmål": "Hvor stort et areal dækker huden?",
+      "Korrekt svar": "1,5 - 2 m2",
+      "Ukorrekt svar 1": "3,5 - 4 m2",
+      "Ukorrekt svar 2": "4,5 - 5 m2 ",
+      "Ukorrekt svar 3": "5,5 - 6 m2"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af hudens funktion?",
+      "Korrekt svar": "regulering af syre/base balancen",
+      "Ukorrekt svar 1": "regulering af temperatur",
+      "Ukorrekt svar 2": "deltage i D-vitamin aktivering",
+      "Ukorrekt svar 3": "depot for vand og fedt"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af hudens funktion?",
+      "Korrekt svar": "deltage i blodtryksregulering",
+      "Ukorrekt svar 1": "deltage i d-vitamin aktivering",
+      "Ukorrekt svar 2": "deltage i temperatur regulering",
+      "Ukorrekt svar 3": "fungere som sanseorgan"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det mellemste hudlag",
+      "Korrekt svar": "dermis",
+      "Ukorrekt svar 1": "epidermis",
+      "Ukorrekt svar 2": "subcutis",
+      "Ukorrekt svar 3": "peritoneum"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn på det mellemste hudlag",
+      "Korrekt svar": "læderhuden",
+      "Ukorrekt svar 1": "overhuden",
+      "Ukorrekt svar 2": "undehuden",
+      "Ukorrekt svar 3": "forhuden"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for læderhuden",
+      "Korrekt svar": "dermis",
+      "Ukorrekt svar 1": "epidermis",
+      "Ukorrekt svar 2": "subcutis",
+      "Ukorrekt svar 3": "perimetriet"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på farvestoffet i huden der giver den brune farve",
+      "Korrekt svar": "melanin",
+      "Ukorrekt svar 1": "melatonin",
+      "Ukorrekt svar 2": "melanocyt",
+      "Ukorrekt svar 3": "metacarpus"
+    },
+    {
+      "Spørgsmål": "Epitelceller i epidermis danner fedtstoffer og proteinet keratin, som bevirker ",
+      "Korrekt svar": "at huden næsten er ugennemtrængelig for vand og andre stoffer",
+      "Ukorrekt svar 1": "at huden kan tåle høj temperatur",
+      "Ukorrekt svar 2": "at huden bliver gennemtrængelig for vand og stoffer",
+      "Ukorrekt svar 3": "at hudens tre lag bindes sammen"
+    },
+    {
+      "Spørgsmål": "Hvilke stoffer trænger nemmest gennem huden?",
+      "Korrekt svar": "fedtopløselige stoffer",
+      "Ukorrekt svar 1": "hydrofile stoffer",
+      "Ukorrekt svar 2": "vandopløselige stoffer",
+      "Ukorrekt svar 3": "ioner"
+    },
+    {
+      "Spørgsmål": "Hvilken struktur findes i tilknytning til hårsækken?",
+      "Korrekt svar": "talgkirtel",
+      "Ukorrekt svar 1": "svedkirtel",
+      "Ukorrekt svar 2": "trykreceptor",
+      "Ukorrekt svar 3": "kuldereceptor"
+    },
+    {
+      "Spørgsmål": "Nævn neglens funktion",
+      "Korrekt svar": "at beskytte fingerspidsen mod slag og stød",
+      "Ukorrekt svar 1": "at forhindre vandindtrængning",
+      "Ukorrekt svar 2": "at anvende neglen til kløning/krasning af huden",
+      "Ukorrekt svar 3": "at beskytte mod bakterier"
+    },
+    {
+      "Spørgsmål": "Sved består af stoffer som kommer fra",
+      "Korrekt svar": "blodet",
+      "Ukorrekt svar 1": "hudens celler",
+      "Ukorrekt svar 2": "lymfevæsken",
+      "Ukorrekt svar 3": "vævsvæsken mellem cellerne"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har sved?",
+      "Korrekt svar": "at deltage i temperaturregulering",
+      "Ukorrekt svar 1": "at gøre huden smidig",
+      "Ukorrekt svar 2": "at gøre huden vandopløselig",
+      "Ukorrekt svar 3": "at skabe et fugtigt miljø for hudens bakterier"
+    },
+    {
+      "Spørgsmål": "Læderhuden består af ",
+      "Korrekt svar": "bindevæv",
+      "Ukorrekt svar 1": "flerlaget pladeepitel",
+      "Ukorrekt svar 2": "flerlaget cylinder epitel",
+      "Ukorrekt svar 3": "enlaget pladeepitel"
+    },
+    {
+      "Spørgsmål": "Hvordan ernæres epidermis?",
+      "Korrekt svar": "via diffusion af næringsstoffer fra dermis",
+      "Ukorrekt svar 1": "via diffusion af næringsstoffer fra subcutis",
+      "Ukorrekt svar 2": "fra blodkar i epidermis",
+      "Ukorrekt svar 3": "fra næringsstoffer i lymfevæsken"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den bindevævsmembran der binder epidermis til dermis",
+      "Korrekt svar": "basalmembranen",
+      "Ukorrekt svar 1": "peritoneum",
+      "Ukorrekt svar 2": "pericardiet",
+      "Ukorrekt svar 3": "endometriet"
+    },
+    {
+      "Spørgsmål": "Hvilken type leucocyt findes normalt ikke i huden?",
+      "Korrekt svar": "lymfocyt",
+      "Ukorrekt svar 1": "dendritisk celle",
+      "Ukorrekt svar 2": "mastcelle",
+      "Ukorrekt svar 3": "langerhansk celle"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på det stof der udskilles af mastceller i huden ved infektion",
+      "Korrekt svar": "histamin",
+      "Ukorrekt svar 1": "antihistamin",
+      "Ukorrekt svar 2": "interferon",
+      "Ukorrekt svar 3": "antistof"
+    },
+    {
+      "Spørgsmål": "Hvilken påvirkning kan normalt ikke fremkalde smerte?",
+      "Korrekt svar": "berøring",
+      "Ukorrekt svar 1": "stærk varme",
+      "Ukorrekt svar 2": "stærk kulde",
+      "Ukorrekt svar 3": "syre-base "
+    },
+    {
+      "Spørgsmål": "Hvor i huden findes smertesansen?",
+      "Korrekt svar": "i dermis",
+      "Ukorrekt svar 1": "i epidermis",
+      "Ukorrekt svar 2": "i subcutis",
+      "Ukorrekt svar 3": "i stratum basale"
+    },
+    {
+      "Spørgsmål": "Hvor i huden findes følesansen?",
+      "Korrekt svar": "i dermis",
+      "Ukorrekt svar 1": "i epidermis",
+      "Ukorrekt svar 2": "i subcutis",
+      "Ukorrekt svar 3": "i stratum basale"
+    },
+    {
+      "Spørgsmål": "Hvor i huden findes temperatursansen?",
+      "Korrekt svar": "i dermis",
+      "Ukorrekt svar 1": "i epidermis",
+      "Ukorrekt svar 2": "i subcutis",
+      "Ukorrekt svar 3": "i basalmembranen"
+    },
+    {
+      "Spørgsmål": "Hvor i huden findes der nerveceller?",
+      "Korrekt svar": "i dermis",
+      "Ukorrekt svar 1": "i epidermis",
+      "Ukorrekt svar 2": "i subcutis",
+      "Ukorrekt svar 3": "i stratum basale"
+    },
+    {
+      "Spørgsmål": "Hvilke depoter findes i ",
+      "Korrekt svar": "fedt- og vanddepoter",
+      "Ukorrekt svar 1": "kulhydrat- og proteindepoter",
+      "Ukorrekt svar 2": "jern- og calciumdepoter",
+      "Ukorrekt svar 3": "vitamin B- og vitamin D-depoter"
+    },
+    {
+      "Spørgsmål": "Hvilken kulør får huden, når blod fra huden sendes til arbejdende muskler?",
+      "Korrekt svar": "den bliver bleg",
+      "Ukorrekt svar 1": "den bliver rød",
+      "Ukorrekt svar 2": "den bliver blå",
+      "Ukorrekt svar 3": "den bliver mørk"
+    },
+    {
+      "Spørgsmål": "Hvad betyder Decubitus?",
+      "Korrekt svar": "tryksår",
+      "Ukorrekt svar 1": "væskemangel",
+      "Ukorrekt svar 2": "gulsot i huden",
+      "Ukorrekt svar 3": "ødemer "
+    },
+    {
+      "Spørgsmål": "Hvilket hudlag har ikke blodforsyning?",
+      "Korrekt svar": "epidermis",
+      "Ukorrekt svar 1": "dermis",
+      "Ukorrekt svar 2": "subcutis",
+      "Ukorrekt svar 3": "corium"
+    }

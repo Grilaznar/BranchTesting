@@ -1,0 +1,238 @@
+{
+      "Spørgsmål": "Den ydre knoglehinde hedder",
+      "korrektSvar": "Periost",
+      "ukorrektSvar1": "Peritoneum",
+      "ukorrektSvar2": "Pleura visceralis",
+      "ukorrektSvar3": "Pleura parietalis"
+    }
+    {
+      "Spørgsmål": "Endost er",
+      "korrektSvar": "Den indre knoglehinde",
+      "ukorrektSvar1": "Den midterste hjernehinde",
+      "ukorrektSvar2": "Den ydre knoglehinde",
+      "ukorrektSvar3": "Det inderste hjernehinde"
+    }
+    {
+      "Spørgsmål": "Osteoblaster er",
+      "korrektSvar": "Knogleopbyggende celler",
+      "ukorrektSvar1": "Knoglenedbrydende celler",
+      "ukorrektSvar2": "Omdannede osteocytter",
+      "ukorrektSvar3": "Celller fanget i knoglevævet"
+    }
+    {
+      "Spørgsmål": "Osteoklaster er",
+      "korrektSvar": "Knoglenedbrydende celler",
+      "ukorrektSvar1": "Omdannede osteocytter",
+      "ukorrektSvar2": "Knogleopbyggende celler",
+      "ukorrektSvar3": "Celller fanget i knoglevævet"
+    }
+    {
+      "Spørgsmål": "Osteocytter er",
+      "korrektSvar": "Omdannede osteoblaster, der frigiver Ca2+",
+      "ukorrektSvar1": "Knogleopbyggende celler",
+      "ukorrektSvar2": "Knoglevævets makrofager",
+      "ukorrektSvar3": "Bindevævscceller"
+    }
+    {
+      "Spørgsmål": "Knoglevævet består af",
+      "korrektSvar": "Celler, Calciumsalte, fosfat og kollagene fibre",
+      "ukorrektSvar1": "Fibroblastrer, fibrocytter og grundsubstans",
+      "ukorrektSvar2": "Condrocytter, chondroblaster og kollagene fibre",
+      "ukorrektSvar3": "Kalk og Chondroitinsulfat"
+    }
+    {
+      "Spørgsmål": "Knoglemassen er størst ved en alder på ",
+      "korrektSvar": "25 år",
+      "ukorrektSvar1": "18 år",
+      "ukorrektSvar2": "45 år ",
+      "ukorrektSvar3": "12 år"
+    }
+    {
+      "Spørgsmål": "Navnet på rørknoglens dele er",
+      "korrektSvar": "Diafyse og epifyse",
+      "ukorrektSvar1": "Diafyse og hypofyse",
+      "ukorrektSvar2": "Osteofyse og epifyse ",
+      "ukorrektSvar3": "Blasteofyse og osteofyse"
+    }
+    {
+      "Spørgsmål": "Nøglebenet er",
+      "korrektSvar": "Clavicula",
+      "ukorrektSvar1": "Scapula",
+      "ukorrektSvar2": "Sternum",
+      "ukorrektSvar3": "Mandibula"
+    }
+    {
+      "Spørgsmål": "Trabekler er",
+      "korrektSvar": "Tynde knoglebjælker i det spongiøse knoglevæv",
+      "ukorrektSvar1": "Hulrum i knoglevævet m osteocytter",
+      "ukorrektSvar2": "Hulrum i et Haversk lamelsystem",
+      "ukorrektSvar3": "Senehæfte på knoglevæv"
+    }
+    {
+      "Spørgsmål": "Bruskceller hedder",
+      "korrektSvar": "Kondroblaster og kondrocytter ",
+      "ukorrektSvar1": "Osteocytter og osteoklaster",
+      "ukorrektSvar2": "Fibrocytter og fibroblaster",
+      "ukorrektSvar3": "neutrofile og basofile granulocytter"
+    }
+    {
+      "Spørgsmål": "Hvilket hormon er IKKE Ca2+ regulerende",
+      "korrektSvar": "Oxytocin",
+      "ukorrektSvar1": "PTH",
+      "ukorrektSvar2": "Calcitoninn",
+      "ukorrektSvar3": "Vitamin D"
+    }
+    {
+      "Spørgsmål": "Hvor dannes PTH",
+      "korrektSvar": "Bskjoldbruskkirtler",
+      "ukorrektSvar1": "Binyrerne",
+      "ukorrektSvar2": "Hypofysen",
+      "ukorrektSvar3": "Skjoldbruskkirtlen"
+    }
+    {
+      "Spørgsmål": "PTH har følgende virkning",
+      "korrektSvar": "Øger blodets Ca2+ indhold",
+      "ukorrektSvar1": "Sænker blodets Ca2+ indhold",
+      "ukorrektSvar2": "Fremmer knogleopbygning",
+      "ukorrektSvar3": "Hæmmer osteoklast-aktivitet"
+    }
+    {
+      "Spørgsmål": "Uægte led er kendetegnet ved",
+      "korrektSvar": "Ringe bevægelighed",
+      "ukorrektSvar1": "Stor bevægelighed",
+      "ukorrektSvar2": "Ledhule",
+      "ukorrektSvar3": "Synovialvæske"
+    }
+    {
+      "Spørgsmål": "Fleksion er det modsatte af",
+      "korrektSvar": "Ekstension",
+      "ukorrektSvar1": "Adduktion",
+      "ukorrektSvar2": "Supination",
+      "ukorrektSvar3": "Cirkumduktion"
+    }
+    {
+      "Spørgsmål": "Adduktion er det modsatte af",
+      "korrektSvar": "Abduktion ",
+      "ukorrektSvar1": "Rotation",
+      "ukorrektSvar2": "Pronation",
+      "ukorrektSvar3": "Supination"
+    }
+    {
+      "Spørgsmål": "Crista betyder",
+      "korrektSvar": "Kam",
+      "ukorrektSvar1": "Bue",
+      "ukorrektSvar2": "Spids",
+      "ukorrektSvar3": "Søjle"
+    }
+    {
+      "Spørgsmål": "Articulatio betyder",
+      "korrektSvar": "led ",
+      "ukorrektSvar1": "Hals",
+      "ukorrektSvar2": "Søjle",
+      "ukorrektSvar3": "Knude"
+    }
+    {
+      "Spørgsmål": "Columna betyder",
+      "korrektSvar": "Søjle",
+      "ukorrektSvar1": "Hals",
+      "ukorrektSvar2": "Bue",
+      "ukorrektSvar3": "Åbning"
+    }
+    {
+      "Spørgsmål": "Crista betyder",
+      "korrektSvar": "Kam",
+      "ukorrektSvar1": "Bue",
+      "ukorrektSvar2": "Skillevæg",
+      "ukorrektSvar3": "Ledbånd"
+    }
+    {
+      "Spørgsmål": "Lateral betyder",
+      "korrektSvar": "Væk fra kroppens midtlinje",
+      "ukorrektSvar1": "Tæt på kroppens midtlinie",
+      "ukorrektSvar2": "Tæt på udspringssted",
+      "ukorrektSvar3": "Langt fra udspringssted"
+    }
+    {
+      "Spørgsmål": "Distal betyder",
+      "korrektSvar": "Langt fra udspringssted",
+      "ukorrektSvar1": "Tæt på udspringssted",
+      "ukorrektSvar2": "Tæt på kroppens midtlinie",
+      "ukorrektSvar3": "Over eller øvre"
+    }
+    {
+      "Spørgsmål": "Os sacrum er",
+      "korrektSvar": "Korsbenet",
+      "ukorrektSvar1": "Halebenet",
+      "ukorrektSvar2": "Skulderbladet",
+      "ukorrektSvar3": "Underkæben"
+    }
+    {
+      "Spørgsmål": "Os coccygis",
+      "korrektSvar": "Halebenet",
+      "ukorrektSvar1": "Ribben",
+      "ukorrektSvar2": "Knogleopbyggende celle ",
+      "ukorrektSvar3": "Sædebenet"
+    }
+    {
+      "Spørgsmål": "Lordose er",
+      "korrektSvar": "Fremadbøjning af rygsøjlen",
+      "ukorrektSvar1": "Ledtap",
+      "ukorrektSvar2": "Bagudbøjning af rygsøjlen",
+      "ukorrektSvar3": "Lændehvirvel"
+    }
+    {
+      "Spørgsmål": "Denne knogle indgår IKKE i brystbenet",
+      "korrektSvar": "Clavicula",
+      "ukorrektSvar1": "Processus ziphoideus",
+      "ukorrektSvar2": "Manubrium sterni",
+      "ukorrektSvar3": "Corpus sterni"
+    }
+    {
+      "Spørgsmål": "Denne knogle indgår IKKE i bækkenet",
+      "korrektSvar": "Os ethmoidale",
+      "ukorrektSvar1": "Os ileum",
+      "ukorrektSvar2": "Os ischii",
+      "ukorrektSvar3": "Os pubis"
+    }
+    {
+      "Spørgsmål": "Denne muskel er IKKE en del af bugmuskulaturen",
+      "korrektSvar": "m. latissimus dorsi",
+      "ukorrektSvar1": "m. rectur abdominis",
+      "ukorrektSvar2": "m. obliquus internus abdominis",
+      "ukorrektSvar3": "m transversus abdominis"
+    }
+    {
+      "Spørgsmål": "Dette er IKKE en af armens knogler",
+      "korrektSvar": "Tibia",
+      "ukorrektSvar1": "Radius",
+      "ukorrektSvar2": "Humerus",
+      "ukorrektSvar3": "Ulna "
+    }
+    {
+      "Spørgsmål": "Dette er IKKE en af benets knogler",
+      "korrektSvar": "Scapula",
+      "ukorrektSvar1": "Femur",
+      "ukorrektSvar2": "Patella",
+      "ukorrektSvar3": "Fibula"
+    }
+    {
+      "Spørgsmål": "Os ethmoidale hedder på dansk",
+      "korrektSvar": "Sibenet",
+      "ukorrektSvar1": "Kilebenet",
+      "ukorrektSvar2": "Isseben",
+      "ukorrektSvar3": "Plovskærebenet"
+    }
+    {
+      "Spørgsmål": "Denne er størst",
+      "korrektSvar": "Muskelfiber",
+      "ukorrektSvar1": "Myofibril",
+      "ukorrektSvar2": "Myofilament",
+      "ukorrektSvar3": "Myosin"
+    }
+    {
+      "Spørgsmål": "Dette er IKKE en kranieknogle",
+      "korrektSvar": "Os Ileum",
+      "ukorrektSvar1": "Os xiphiodale",
+      "ukorrektSvar2": "Os Zygomaticum",
+      "ukorrektSvar3": "Os occipitale"
+    }

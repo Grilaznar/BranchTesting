@@ -1,0 +1,40 @@
+﻿form {
+    width:100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#uploadSection {
+    margin-bottom: 70px;
+}
+
+#fileUploadfield {
+    width: 100%
+}
+
+.FormText {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display:inline-block
+}
+
+.delBtn {
+    float:right;
+    margin-top: -15px;
+    background: none;
+    border: none;
+    font-size: 2em;
+    color: red;
+    font-weight: bold;
+}
+
+.manTxt {
+    width: 90%;
+    margin-bottom:30px;
+    margin-left: 5%
+}
+

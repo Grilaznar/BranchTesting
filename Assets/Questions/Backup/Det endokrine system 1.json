@@ -1,0 +1,482 @@
+{
+      "Spørgsmål": "Melatonin",
+      "Korrekt svar": "Fremmer træthed og søvn",
+      "Ukorrekt svar 1": "Udskilles især når det er lyst",
+      "Ukorrekt svar 2": "Holder os vågne",
+      "Ukorrekt svar 3": "Fremmer hudens malaninproduktion"
+    },
+    {
+      "Spørgsmål": "Hastigheden hvormed de vandopløselige hormoner virker i forhold til de fedtopløselige er: ",
+      "Korrekt svar": "Hurtigere",
+      "Ukorrekt svar 1": "Langsommere ",
+      "Ukorrekt svar 2": "Den samme ",
+      "Ukorrekt svar 3": "Meget langsommere"
+    },
+    {
+      "Spørgsmål": "Hvad vill det sige at nogle hypofysehormoner er overordnede?",
+      "Korrekt svar": "De De styrer andre endokrine kirtlers hormonproduktion",
+      "Ukorrekt svar 1": "De dannes i hjernen, som er overordnet",
+      "Ukorrekt svar 2": "De er 2. ordens hormoner, hvilket er over 1. ordens hormoner",
+      "Ukorrekt svar 3": "De findes i højere koncentration end de underordnede hormoner"
+    },
+    {
+      "Spørgsmål": "Hvad har hormonerne ADH og Oxytocin til fælles?",
+      "Korrekt svar": "De De udskilles begge fra neurohypofysen",
+      "Ukorrekt svar 1": "De udskilles begge fra adenohypofysen",
+      "Ukorrekt svar 2": "De virker begge på nyrerne",
+      "Ukorrekt svar 3": "De er begge involveret i fødslen"
+    },
+    {
+      "Spørgsmål": "Hypofysebaglappens hormoner",
+      "Korrekt svar": "Dannes i hypothalamus",
+      "Ukorrekt svar 1": "Er overordnede hormoner",
+      "Ukorrekt svar 2": "Udskilles til forlappen",
+      "Ukorrekt svar 3": "Påvirker begge diuresen"
+    },
+    {
+      "Spørgsmål": "Hypofyseforlappen",
+      "Korrekt svar": "Producerer sine egne hormoner",
+      "Ukorrekt svar 1": "Tilføres hormoner fra hypothalamus",
+      "Ukorrekt svar 2": "Producerer bl.a. ADH",
+      "Ukorrekt svar 3": "Er alle underordnede hormoner"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er ikke korrekt for FSH",
+      "Korrekt svar": "Stimulerer til ægløsning",
+      "Ukorrekt svar 1": "Fremmer produktionen af inhibin",
+      "Ukorrekt svar 2": "Fremmer produktionen af østradiol",
+      "Ukorrekt svar 3": "Fremmer funktionen af Sertoliceller"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er ikke korrekt for LH",
+      "Korrekt svar": "Hæmmer follikelmodning",
+      "Ukorrekt svar 1": "Stimulerer til ægløsning",
+      "Ukorrekt svar 2": "Fremmer dannelsen af det gule legeme",
+      "Ukorrekt svar 3": "Fremmer testosteronproduktionen hos mænd"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er ikke korrekt for T3 og T4",
+      "Ukorrekt svar 1": "De dannes i biskjoldbruskkirtlerne",
+      "Ukorrekt svar 2": "De stimulerer stofskiftet",
+      "Ukorrekt svar 3": "De dannes i skjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er ikke korrekt for ACTH",
+      "Korrekt svar": "Det dannes i hypofyseforlappen",
+      "Ukorrekt svar 1": "Det stimulerer binyrene til kortisolsekretion",
+      "Ukorrekt svar 2": "Det dannes i glandula suprarenalis",
+      "Ukorrekt svar 3": "Udskillelsen reguleres af døgnrytmen og af negativ feedback"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er korrekt hvad angår prolaktin",
+      "Korrekt svar": "Fremmer udvikling af mælkekirtler under graviditet",
+      "Ukorrekt svar 1": "Hæmmer progesteron under graviditeten",
+      "Ukorrekt svar 2": "Det fremmer udskillelsen af prælaktin",
+      "Ukorrekt svar 3": "Det hæmmer produktionen af HPL"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er korrekt hvad angår GNRH",
+      "Korrekt svar": "Det fremmer hypofysens dannelse af FSH og LH",
+      "Ukorrekt svar 1": "Det fremmer omdannelse af det follikel til gult legeme",
+      "Ukorrekt svar 2": "Det stimulerer til frigivelse af stofskiftehormonerne",
+      "Ukorrekt svar 3": "Det hæmmer diuresen"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn er korrekt hvad angår ADH",
+      "Korrekt svar": "Fremmer nyrenes reabsorption af vand",
+      "Ukorrekt svar 1": "Det øger diuresen",
+      "Ukorrekt svar 2": "Det hæmmer det prodiuretiske hormon (PDH)",
+      "Ukorrekt svar 3": "Det dannes i og udskilles fra hypofysebaglappen"
+    },
+    {
+      "Spørgsmål": "Hvad er et hormon?",
+      "Korrekt svar": "Stof der binder til receptor og dermed udløser en respons i målcellen",
+      "Ukorrekt svar 1": "Et stof der produceres af en eksokrin kirtel",
+      "Ukorrekt svar 2": "Et stof der fremmer en given kemisk reaktion",
+      "Ukorrekt svar 3": "Et stof der fremmer eller hæmmer impulsoverførsel mellem neuroner"
+    },
+    {
+      "Spørgsmål": "Hormoner finder vej til målcellen via.:",
+      "Korrekt svar": "Blodet",
+      "Ukorrekt svar 1": "Lymfen",
+      "Ukorrekt svar 2": "Urinen",
+      "Ukorrekt svar 3": "Intracellulærvæsken"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for corpus pineale",
+      "Korrekt svar": "koglekirtlen",
+      "Ukorrekt svar 1": "skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "bugspytkirtlen",
+      "Ukorrekt svar 3": "biskjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for glandula thyroidea",
+      "Korrekt svar": "skjoldbruskkirtlen",
+      "Ukorrekt svar 1": "biskjoldbruskkirtlen",
+      "Ukorrekt svar 2": "bugspytkirtlen",
+      "Ukorrekt svar 3": "koglekirtlen"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for glandulae parathyroideae",
+      "Korrekt svar": "biskjoldbruskkirtlerne",
+      "Ukorrekt svar 1": "skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "bugspytkirtlen",
+      "Ukorrekt svar 3": "koglekirtlen"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for pancreas",
+      "Korrekt svar": "bugspytkirtlen",
+      "Ukorrekt svar 1": "skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "biskjoldbruskkirtlen",
+      "Ukorrekt svar 3": "koglekirtlen"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for glandula suprarenalis",
+      "Korrekt svar": "binyrer",
+      "Ukorrekt svar 1": "skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "biskjoldbruskkirtlen",
+      "Ukorrekt svar 3": "koglekirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes frigørelseshormoner, releasing hormoner?",
+      "Korrekt svar": "i hypothalamus",
+      "Ukorrekt svar 1": "i hypofysen forlappen",
+      "Ukorrekt svar 2": "i hypofysen baglappen",
+      "Ukorrekt svar 3": "i skjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hæmmende hormoner, inhibiting hormoner?",
+      "Korrekt svar": "i hypothalamus",
+      "Ukorrekt svar 1": "i hypofysen forlappen",
+      "Ukorrekt svar 2": "i hypofysen baglappen",
+      "Ukorrekt svar 3": "i bugspytkirtlen"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for koglekirtlen",
+      "Korrekt svar": "corpus pineale",
+      "Ukorrekt svar 1": "corpus spongiosum",
+      "Ukorrekt svar 2": "corpus callosum",
+      "Ukorrekt svar 3": "cortex cerebri"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for skjoldbruskkirtlen",
+      "Korrekt svar": "glandula thyroidea",
+      "Ukorrekt svar 1": "glandulae parathyroideae",
+      "Ukorrekt svar 2": "glandula suprarenalis",
+      "Ukorrekt svar 3": "glandula parotidea"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for biskjoldbruskkirtlen",
+      "Korrekt svar": "glandulae parathyroideae",
+      "Ukorrekt svar 1": "glandula thyroidea",
+      "Ukorrekt svar 2": "glandula suprarenalis",
+      "Ukorrekt svar 3": "glandula lacrimalis"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for binyrerne",
+      "Korrekt svar": "glandulae suprarenalis",
+      "Ukorrekt svar 1": "glandula thyroidea",
+      "Ukorrekt svar 2": "glandulae parathyroideae",
+      "Ukorrekt svar 3": "glandula parotidea"
+    },
+    {
+      "Spørgsmål": "Hvor er binyrerne placeret?",
+      "Korrekt svar": "på toppen af nyrerne ",
+      "Ukorrekt svar 1": "på den laterale side af nyrerne ",
+      "Ukorrekt svar 2": "på den mediale side af nyrerne ",
+      "Ukorrekt svar 3": "under nyrerne"
+    },
+    {
+      "Spørgsmål": "Hvilket endokrin kirtel danner hormonet FSH?",
+      "Korrekt svar": "hypofyseforlappen",
+      "Ukorrekt svar 1": "hypofysebaglappen",
+      "Ukorrekt svar 2": "testes",
+      "Ukorrekt svar 3": "ovarier"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet insulin?",
+      "Korrekt svar": "i pancreas",
+      "Ukorrekt svar 1": "i hypofysen forlappen",
+      "Ukorrekt svar 2": "i leveren ",
+      "Ukorrekt svar 3": "i tyndtarmen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet glukagon?",
+      "Korrekt svar": "i pancreas",
+      "Ukorrekt svar 1": "i hypofysen forlappen",
+      "Ukorrekt svar 2": "i leveren ",
+      "Ukorrekt svar 3": "i tarmen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet testosteron?",
+      "Korrekt svar": "i testes ",
+      "Ukorrekt svar 1": "i ovarier",
+      "Ukorrekt svar 2": "i hypofysen ",
+      "Ukorrekt svar 3": "i hypothalamus"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet progesteron?",
+      "Korrekt svar": "i ovarier",
+      "Ukorrekt svar 1": "i testes",
+      "Ukorrekt svar 2": "i hypofyse baglappen",
+      "Ukorrekt svar 3": "i hypofyse forlappen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet østradiol?",
+      "Korrekt svar": "i ovarier",
+      "Ukorrekt svar 1": "i testes",
+      "Ukorrekt svar 2": "i hypofyse baglappen",
+      "Ukorrekt svar 3": "i hypofyse forlappen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet adrenalin?",
+      "Korrekt svar": "binyrerne ",
+      "Ukorrekt svar 1": "i skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "i bugspytkirtlen",
+      "Ukorrekt svar 3": "i hypofysen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet noradrenalin?",
+      "Korrekt svar": "i binyrerne ",
+      "Ukorrekt svar 1": "i skjoldbruskkirtlen",
+      "Ukorrekt svar 2": "i bugspytkirtlen",
+      "Ukorrekt svar 3": "i hypofysen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet aldsteron?",
+      "Korrekt svar": "binyrerne ",
+      "Ukorrekt svar 1": "hypofysen",
+      "Ukorrekt svar 2": "hypothalamus",
+      "Ukorrekt svar 3": "skjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet kortisol?",
+      "Korrekt svar": "binyrerne ",
+      "Ukorrekt svar 1": "hypofysen",
+      "Ukorrekt svar 2": "hypothalamus",
+      "Ukorrekt svar 3": "skjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonerne adrenalin og noradrenalin?",
+      "Korrekt svar": "binyrerne ",
+      "Ukorrekt svar 1": "hypofysen",
+      "Ukorrekt svar 2": "hypothalamus",
+      "Ukorrekt svar 3": "biskjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes stofhormonerne T3 og T4?",
+      "Korrekt svar": "skjoldbruskkirtlen",
+      "Ukorrekt svar 1": "binyrebarken",
+      "Ukorrekt svar 2": "binyremarven",
+      "Ukorrekt svar 3": "hypofysen"
+    },
+    {
+      "Spørgsmål": "Udskillelsen af kortisol er størst:",
+      "Korrekt svar": "Tidligt om morgenen",
+      "Ukorrekt svar 1": "Om eftermiddagen",
+      "Ukorrekt svar 2": "Sent om aftenen",
+      "Ukorrekt svar 3": "midt på natten"
+    },
+    {
+      "Spørgsmål": "T3- og T4-udskillelsen reguleres ved:",
+      "Korrekt svar": "Dobbelt negativ feedback",
+      "Ukorrekt svar 1": "Enkelt negativ feedback",
+      "Ukorrekt svar 2": "Positiv feedback",
+      "Ukorrekt svar 3": "Stress"
+    },
+    {
+      "Spørgsmål": "Positiv feedback er kendetegnet ved at:",
+      "Korrekt svar": "Fremkalde voldsomme stigninger i stofkoncentrationer eller funktioner",
+      "Ukorrekt svar 1": "Sikre homøostase",
+      "Ukorrekt svar 2": "Sikre bestemt døgnvariation",
+      "Ukorrekt svar 3": "Hæmme hormonudskillelsen"
+    },
+    {
+      "Spørgsmål": "Det kendetegner de fedtopløselige hormoner, at de:",
+      "Korrekt svar": "Filtreres i nyrene i mindre grad end de vandopløselige hormoner",
+      "Ukorrekt svar 1": "Udelukkende transporteres frit opløst i blodet ",
+      "Ukorrekt svar 2": "Binder til receptorer på cellemembranen",
+      "Ukorrekt svar 3": "Virker hurtigere end de vandopløselige hormoner"
+    },
+    {
+      "Spørgsmål": "Hormoners generelle virkningsmåde",
+      "Korrekt svar": "Øger mængden af enzymer i cellen",
+      "Ukorrekt svar 1": "Stimulerer neuroner",
+      "Ukorrekt svar 2": "Hæmmer neuroner",
+      "Ukorrekt svar 3": "Fremmer endokrinologien"
+    },
+    {
+      "Spørgsmål": "Hvornår dannes adrenalin og noradrenalin?",
+      "Korrekt svar": "når man skal yde en fysisk indsats",
+      "Ukorrekt svar 1": "når man sover",
+      "Ukorrekt svar 2": "når man spiser",
+      "Ukorrekt svar 3": "når man hviler"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon er ikke et stress hormon?",
+      "Korrekt svar": "oxytocin",
+      "Ukorrekt svar 1": "kortisol",
+      "Ukorrekt svar 2": "adrenalin ",
+      "Ukorrekt svar 3": "noradrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon sænker blodsukker koncentrationen?",
+      "Korrekt svar": "insulin",
+      "Ukorrekt svar 1": "glukagon",
+      "Ukorrekt svar 2": "kortisol",
+      "Ukorrekt svar 3": "adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon øger ikke blodsukker koncentrationen?",
+      "Korrekt svar": "insulin",
+      "Ukorrekt svar 1": "glukagon",
+      "Ukorrekt svar 2": "kortisol",
+      "Ukorrekt svar 3": "adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon hæver calciumkoncentrationen i blodet?",
+      "Korrekt svar": "PTH",
+      "Ukorrekt svar 1": "calcitonin",
+      "Ukorrekt svar 2": "T3 og T4 ",
+      "Ukorrekt svar 3": "adrenalin"
+    },
+    {
+      "Spørgsmål": "Nævn fagordet for afkalkning af knogler",
+      "Korrekt svar": "osteoporose",
+      "Ukorrekt svar 1": "homæostase",
+      "Ukorrekt svar 2": "sklerose",
+      "Ukorrekt svar 3": "obstipation"
+    },
+    {
+      "Spørgsmål": "Der er forskellige årsager til afkalkning af knogler. Hvilken er ikke en årsag?",
+      "Korrekt svar": "fysisk arbejde",
+      "Ukorrekt svar 1": "immobilitet",
+      "Ukorrekt svar 2": "behandling med binyrebarkhormon",
+      "Ukorrekt svar 3": "D-vitamin mangel"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon har betydning for opbygning af knogler?",
+      "Korrekt svar": "somatotropin",
+      "Ukorrekt svar 1": "melatonin",
+      "Ukorrekt svar 2": "oxytocin ",
+      "Ukorrekt svar 3": "ADH"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har hormonerne T3 og T4?",
+      "Korrekt svar": "øge energidannelsen",
+      "Ukorrekt svar 1": "sænke energidannelsen ",
+      "Ukorrekt svar 2": "hæmme immunforsvaret",
+      "Ukorrekt svar 3": "øge immunforsvaret"
+    },
+    {
+      "Spørgsmål": "Calcitonin sænker blodets indhold af Ca++, hvilket hormon har den mdsatte effekt?",
+      "Korrekt svar": "PTH",
+      "Ukorrekt svar 1": "adrenalin",
+      "Ukorrekt svar 2": "kortisol ",
+      "Ukorrekt svar 3": "ACTH"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon har den modsatte virkning af PTH?",
+      "Korrekt svar": "calcitonin",
+      "Ukorrekt svar 1": "insulin",
+      "Ukorrekt svar 2": "glukagon ",
+      "Ukorrekt svar 3": "adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilken faktor kan fremkalde øget kortisoldannelse",
+      "Korrekt svar": "fysisk stress",
+      "Ukorrekt svar 1": "hvile og ro",
+      "Ukorrekt svar 2": "oxytocin ",
+      "Ukorrekt svar 3": "insulin"
+    },
+    {
+      "Spørgsmål": "Hvor i cellen bindes peptidhormoner/proteinhormoner?",
+      "Korrekt svar": "til receptorer i cellemembranen",
+      "Ukorrekt svar 1": "til fosfolipider i cellemembranen",
+      "Ukorrekt svar 2": "til receptorer i cytoplasma",
+      "Ukorrekt svar 3": "til receptorer i nucleus"
+    },
+    {
+      "Spørgsmål": "Hvor i cellen bindes de fedtopløselige hormoner?",
+      "Korrekt svar": "til receptorer inde i cellen",
+      "Ukorrekt svar 1": "til receptorer i cellemembranen",
+      "Ukorrekt svar 2": "til receptorer i fosfolipiderne",
+      "Ukorrekt svar 3": "til receptorer på ribosomerne"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn om hormoner er ikke rigtig?",
+      "Korrekt svar": "hormoner er dannet af kulhydrater",
+      "Ukorrekt svar 1": "hormoner kan være fedtopløselige",
+      "Ukorrekt svar 2": "hormoner kan være dannet af protiner",
+      "Ukorrekt svar 3": "hormoner kan være dannet af kolesterol"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn om hormoner er ikke rigtig?",
+      "Korrekt svar": "hormoner udskilles af eksokrine kirtler ",
+      "Ukorrekt svar 1": "hormoner udskilles til blodbanen ",
+      "Ukorrekt svar 2": "hormoner bndes til receptorer",
+      "Ukorrekt svar 3": "hormoner øger mængden af enzymer"
+    },
+    {
+      "Spørgsmål": "Hvilket grundstof kræves for at danne T3 og T4?",
+      "Korrekt svar": "jod",
+      "Ukorrekt svar 1": "jern",
+      "Ukorrekt svar 2": "calcium",
+      "Ukorrekt svar 3": "natrium"
+    },
+    {
+      "Spørgsmål": "Hvilket stof kræves for at danne steoridhormoner?",
+      "Korrekt svar": "kolesterol",
+      "Ukorrekt svar 1": "tyrosin",
+      "Ukorrekt svar 2": "kulhydrat ",
+      "Ukorrekt svar 3": "protein"
+    },
+    {
+      "Spørgsmål": "Hvilken type hormon er insulin og glukagon?",
+      "Korrekt svar": "peptidhormon/proteinhormon",
+      "Ukorrekt svar 1": "steoridhormon",
+      "Ukorrekt svar 2": "stodkiftehormon ",
+      "Ukorrekt svar 3": "katekolaminer"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes hormoner bygget af kolesterol?",
+      "Korrekt svar": "steoridhormoner",
+      "Ukorrekt svar 1": "stofskiftehormoner ",
+      "Ukorrekt svar 2": "katekolaminer ",
+      "Ukorrekt svar 3": "peptidhormoner/proteinhormoner"
+    },
+    {
+      "Spørgsmål": "Hvilke to hormoner opbevares i neurohypofysen/hypofysebaglappen?",
+      "Korrekt svar": "ADH og oxytocin",
+      "Ukorrekt svar 1": "FSH og LH",
+      "Ukorrekt svar 2": "MSH og TSH",
+      "Ukorrekt svar 3": "T3 og T4"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon dannes ikke i hypofysen?",
+      "Korrekt svar": "ADH ",
+      "Ukorrekt svar 1": "prolaktin",
+      "Ukorrekt svar 2": "ACTH",
+      "Ukorrekt svar 3": "FSH"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon dannes ikke i hypofysen?",
+      "Korrekt svar": "adrenalin ",
+      "Ukorrekt svar 1": "LH",
+      "Ukorrekt svar 2": "væksthormon",
+      "Ukorrekt svar 3": "TSH"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon dannes ikke i hypofysen?",
+      "Korrekt svar": "TRH",
+      "Ukorrekt svar 1": "TSH",
+      "Ukorrekt svar 2": "ACTH",
+      "Ukorrekt svar 3": "FSH"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har oxytocin på uterus?",
+      "Korrekt svar": "stimulerer til veer",
+      "Ukorrekt svar 1": "stimulerer til ægløsning",
+      "Ukorrekt svar 2": "stimulerer til afslaning",
+      "Ukorrekt svar 3": "stimulerer til menstruation"
+    }

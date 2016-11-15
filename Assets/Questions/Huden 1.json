@@ -1,0 +1,120 @@
+{
+      "questionText": "Hvilket lag ligger yderst i huden?",
+      "answers":["epidermis", "dermis", "corium", "subcutis"]
+    }
+    {
+      "questionText": "Hvad hedder epidermis på dansk?",
+      "answers":["overhuden", "læderhuden", "underhuden", "fedtlaget"]
+    }
+    {
+      "questionText": "Hvad hedder overhuden på latin?",
+      "answers":["epidermis", "corium", "dermis", "subcutis"]
+    }
+    {
+      "questionText": "Hvor stort et areal dækker huden?",
+      "answers":["1,5 - 2 m2", "3,5 - 4 m2", "4,5 - 5 m2 ", "5,5 - 6 m2"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af hudens funktion?",
+      "answers":["regulering af syre/base balancen", "regulering af temperatur", "deltage i D-vitamin aktivering", "depot for vand og fedt"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af hudens funktion?",
+      "answers":["deltage i blodtryksregulering", "deltage i d-vitamin aktivering", "deltage i temperatur regulering", "fungere som sanseorgan"]
+    }
+    {
+      "questionText": "Nævn navnet på det mellemste hudlag",
+      "answers":["dermis", "epidermis", "subcutis", "peritoneum"]
+    }
+    {
+      "questionText": "Nævn det danske navn på det mellemste hudlag",
+      "answers":["læderhuden", "overhuden", "undehuden", "forhuden"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for læderhuden",
+      "answers":["dermis", "epidermis", "subcutis", "perimetriet"]
+    }
+    {
+      "questionText": "Nævn navnet på farvestoffet i huden der giver den brune farve",
+      "answers":["melanin", "melatonin", "melanocyt", "metacarpus"]
+    }
+    {
+      "questionText": "Epitelceller i epidermis danner fedtstoffer og proteinet keratin, som bevirker ",
+      "answers":["at huden næsten er ugennemtrængelig for vand og andre stoffer", "at huden kan tåle høj temperatur", "at huden bliver gennemtrængelig for vand og stoffer", "at hudens tre lag bindes sammen"]
+    }
+    {
+      "questionText": "Hvilke stoffer trænger nemmest gennem huden?",
+      "answers":["fedtopløselige stoffer", "hydrofile stoffer", "vandopløselige stoffer", "ioner"]
+    }
+    {
+      "questionText": "Hvilken struktur findes i tilknytning til hårsækken?",
+      "answers":["talgkirtel", "svedkirtel", "trykreceptor", "kuldereceptor"]
+    }
+    {
+      "questionText": "Nævn neglens funktion",
+      "answers":["at beskytte fingerspidsen mod slag og stød", "at forhindre vandindtrængning", "at anvende neglen til kløning/krasning af huden", "at beskytte mod bakterier"]
+    }
+    {
+      "questionText": "Sved består af stoffer som kommer fra",
+      "answers":["blodet", "hudens celler", "lymfevæsken", "vævsvæsken mellem cellerne"]
+    }
+    {
+      "questionText": "Hvilken funktion har sved?",
+      "answers":["at deltage i temperaturregulering", "at gøre huden smidig", "at gøre huden vandopløselig", "at skabe et fugtigt miljø for hudens bakterier"]
+    }
+    {
+      "questionText": "Læderhuden består af ",
+      "answers":["bindevæv", "flerlaget pladeepitel", "flerlaget cylinder epitel", "enlaget pladeepitel"]
+    }
+    {
+      "questionText": "Hvordan ernæres epidermis?",
+      "answers":["via diffusion af næringsstoffer fra dermis", "via diffusion af næringsstoffer fra subcutis", "fra blodkar i epidermis", "fra næringsstoffer i lymfevæsken"]
+    }
+    {
+      "questionText": "Nævn navnet på den bindevævsmembran der binder epidermis til dermis",
+      "answers":["basalmembranen", "peritoneum", "pericardiet", "endometriet"]
+    }
+    {
+      "questionText": "Hvilken type leucocyt findes normalt ikke i huden?",
+      "answers":["lymfocyt", "dendritisk celle", "mastcelle", "langerhansk celle"]
+    }
+    {
+      "questionText": "Nævn navnet på det stof der udskilles af mastceller i huden ved infektion",
+      "answers":["histamin", "antihistamin", "interferon", "antistof"]
+    }
+    {
+      "questionText": "Hvilken påvirkning kan normalt ikke fremkalde smerte?",
+      "answers":["berøring", "stærk varme", "stærk kulde", "syre-base "]
+    }
+    {
+      "questionText": "Hvor i huden findes smertesansen?",
+      "answers":["i dermis", "i epidermis", "i subcutis", "i stratum basale"]
+    }
+    {
+      "questionText": "Hvor i huden findes følesansen?",
+      "answers":["i dermis", "i epidermis", "i subcutis", "i stratum basale"]
+    }
+    {
+      "questionText": "Hvor i huden findes temperatursansen?",
+      "answers":["i dermis", "i epidermis", "i subcutis", "i basalmembranen"]
+    }
+    {
+      "questionText": "Hvor i huden findes der nerveceller?",
+      "answers":["i dermis", "i epidermis", "i subcutis", "i stratum basale"]
+    }
+    {
+      "questionText": "Hvilke depoter findes i ",
+      "answers":["fedt- og vanddepoter", "kulhydrat- og proteindepoter", "jern- og calciumdepoter", "vitamin B- og vitamin D-depoter"]
+    }
+    {
+      "questionText": "Hvilken kulør får huden, når blod fra huden sendes til arbejdende muskler?",
+      "answers":["den bliver bleg", "den bliver rød", "den bliver blå", "den bliver mørk"]
+    }
+    {
+      "questionText": "Hvad betyder Decubitus?",
+      "answers":["tryksår", "væskemangel", "gulsot i huden", "ødemer "]
+    }
+    {
+      "questionText": "Hvilket hudlag har ikke blodforsyning?",
+      "answers":["epidermis", "dermis", "subcutis", "corium"]
+    }

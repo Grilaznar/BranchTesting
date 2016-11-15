@@ -1,0 +1,112 @@
+{
+      "questionText": "Makrofager har som funktion at fagocytere mikroorganismer og døde ødelagte celler. Der ud over har de en vigtig funktion mere, hvilken?",
+      "answers":["at aktivere de øvrige leucocytter", "at hæmme immunsystemet ", "at vandre ud i blodet", "at udskille interferoner"]
+    }
+    {
+      "questionText": "Hvad hedder de signalstoffer som de hvide blodceller udskiller til hinanden under en infektion?",
+      "answers":["interleukiner", "interferoner", "interstitel væske", "antigener"]
+    }
+    {
+      "questionText": "Hvor i kroppen findes der  primært makrofager?",
+      "answers":["i lever, knoglemarv og milt", "i nyrer, hjerte og hjerne", "i lever, nyre og blære", "i huden, mave-tarmkanal og urinveje"]
+    }
+    {
+      "questionText": "Hvad kaldes makrofager som unge, mens de cirkulerer i blodet og fagocytere?",
+      "answers":["monocytter", "lymfocytter", "granulocytter", "mastceller"]
+    }
+    {
+      "questionText": "Hvilke stoffer indeholder mastceller?",
+      "answers":["histamin og heparin", "antihistamin og firbrinogen", "adrenalin og noradrenalin", "interferoner og prostaglandiner"]
+    }
+    {
+      "questionText": "Hvilke stoffer indeholder basofile granulocytter?",
+      "answers":["histamin og heparin", "antihistamin og firbrinogen", "adrenalin og noradrenalin", "interferoner og prostaglandiner"]
+    }
+    {
+      "questionText": "Hvor i kroppen findes mastceller?",
+      "answers":["i vævet", "i leveren", "i blodet", "i hjernen"]
+    }
+    {
+      "questionText": "Hvor i kroppen findes basofile granulocytter primært?",
+      "answers":["i blodet ", "i hepar", "i milten", "i mave-tarmkanalen"]
+    }
+    {
+      "questionText": "Hvilken virkning har histamin på blodkar?",
+      "answers":["blodkarrene dilateres", "blodkarrene trækker sig sammen", "blodkarrene optager ilt", "blodkarrene stopper"]
+    }
+    {
+      "questionText": "Hvorfor udvider histamin blokarrene lokalt ved en infektion?",
+      "answers":["for at leucocytter nemmere kan  trænge ud af blodbanen", "for at bakterier nemmere kan trænge ind i  blodbanen", "for at bakterier nemmere kan  trænge ud af blodbanen", "for at hjertet kan afslappes"]
+    }
+    {
+      "questionText": "Hvornår ses aktive eosinofile granulocytter i blodet?",
+      "answers":["ved allergiske reaktioner og parasit angreb", "ved forkølelse pga. bakterier", "ved virusangreb", "ved behandling med antibiotika"]
+    }
+    {
+      "questionText": "Komplementproteiner er et system af hvor mange?",
+      "answers":["20 plasmaproteiner ", "5 plasmaproteiner ", "50 plasmaproteiner", "100 plasmaproteiner"]
+    }
+    {
+      "questionText": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "answers":["tiltrækker fagocyterende celler", "danner antistoffer", "giver karkontraktion", "øger mitosecelledannelsen"]
+    }
+    {
+      "questionText": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "answers":["at dræbe bakterier", "at dræbe virus inficerede celler", "at give kardilation", "at øge lymfocyt produktionen"]
+    }
+    {
+      "questionText": "Hvilken funktion har interferoner?",
+      "answers":["hæmmer formering og spredning af virus", "øger formering og spredning af virus", "dræber virus inficerede celler", "dræber bakterier"]
+    }
+    {
+      "questionText": "Hvorledes aktiveres en lymfocyt?",
+      "answers":["ved at møde \"sit\" specifikke antigen", "ved at møde et tilfældigt antigen", "ved at møde en leukocyt", "ved at modnes i den røde knoglemarv"]
+    }
+    {
+      "questionText": "Hvorledes reagerer en lymfocyt som møder  \"sit\" specifikke antigen?",
+      "answers":["den begynder at dele sig til et stort antal aktive lymfocytter", "den begynder at udskille interferoner", "den begynder at udskille akutfaseproteiner ", "den begynder at fagocytere det spcifikke antigen"]
+    }
+    {
+      "questionText": "Hvad forstås ved \" Antigenpræsentation\" ,foretaget af en antigenpræsenterende celle, kaldet en APC?",
+      "answers":["at makrofagen viser antigenet for en T-hjælpecelle i lymfeknuden", "at makrofagen viser antigenet for en monocyt", "at makrofagen viser antigenet for et antistof", "at makrofagen viser antigenet for andre nakrofager"]
+    }
+    {
+      "questionText": "Hvilken funktion har T-dræberceller?",
+      "answers":["at dræbe kroppens syge celler", "at dræbe bakterier", "at dræbe gamle erytrocytter", "at dræbe gamle leukocytter"]
+    }
+    {
+      "questionText": "Hvad sker der hvis en B-huskecelle senere møder \"sit\" specifikke antigen?",
+      "answers":["en kraftig celledeling og produktion af antistof", " B-huskecellen angribes og dør", "B-huskecellen stimulerer makrofager", "B-huskecellen udskiller interferoner"]
+    }
+    {
+      "questionText": "Hvorledes er IgG specielt?",
+      "answers":["IgG trænger over i fosterets blodbane", "IgG trænger over i den gravides blodbane", "IgG trænger over i lymfeknuder", "IgG trænger ud i vævene"]
+    }
+    {
+      "questionText": "Hvorledes er IgA specielt?",
+      "answers":["findes i modermælk,  kolostrum/råmælk", "findes i vagina", "trænger over i fosterets blodbane", "trænger ud i vævene"]
+    }
+    {
+      "questionText": "Hvor findes IgA primært?",
+      "answers":["i spyt, tårer, sved og indre epiteler", "i lymfeknuder ", "i blodbanen", "i den rødeknoglemarv"]
+    }
+    {
+      "questionText": "Hvilken type leucocyt dræber cancerceller?",
+      "answers":["T-dræberceller", "B-plasmaceller", "makrofager", "neutrofilegranulocytter"]
+    }
+    {
+      "questionText": "Hvad forstås ved passiv immunisering?",
+      "answers":["indsprøjtning af antistoffer", "indsprøjtning af antibiotika", "indsprøjtning af penicillin", "immunisering under søvn"]
+    }
+    {
+      "questionText": "Hvilket antistof findes primært på mastceller hos allergikere?",
+      "answers":["IgE", "IgG", "IgM", "IgD"]
+    }
+    {
+      "questionText": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "answers":["at dræbe bakterier", "at dræbe cancerceller", "at danne interferoner", "at danne interleuciner"]
+    }
+    {
+      "questionText": "Hvilken leucocyt reagerer på et hvilket som helst antigen fra en mikroorganisme?",
+      "answers":["makrofag", "B-lymfocyt", "T-dræberceller", "T-hjælpecelle"]
+    }

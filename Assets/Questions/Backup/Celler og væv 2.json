@@ -1,0 +1,287 @@
+{
+      "Spørgsmål": "Nævn navnet på det organel der deltager i produktionen af hydrofobe stoffer",
+      "Korrekt svar": "glat endoplasmatisk reticulum",
+      "Ukorrekt svar 1": "ru endoplasmatisk reticulum",
+      "Ukorrekt svar 2": "nucleus",
+      "Ukorrekt svar 3": "nucleolus"
+    },
+    {
+      "Spørgsmål": "Hvor findes ribosomer i cellen?",
+      "Korrekt svar": "på ru ER og frit i cytoplasma",
+      "Ukorrekt svar 1": "på glat ER ",
+      "Ukorrekt svar 2": "på galt ER og frit i cytoplasma",
+      "Ukorrekt svar 3": "kun på ru ER"
+    },
+    {
+      "Spørgsmål": "Hvordan sammensættes ATP?",
+      "Korrekt svar": "ADP + frit fosfat",
+      "Ukorrekt svar 1": "ATP + frit fosfat",
+      "Ukorrekt svar 2": "ADP + 2 frie fosfat",
+      "Ukorrekt svar 3": "ADP  + 3 frie fosfat"
+    },
+    {
+      "Spørgsmål": "Hvilken anticodon på tRNA svarer til CGA på mRNA?",
+      "Korrekt svar": "GCU",
+      "Ukorrekt svar 1": "UUA",
+      "Ukorrekt svar 2": "CGA",
+      "Ukorrekt svar 3": "UUA"
+    },
+    {
+      "Spørgsmål": "Hvad sker der i lysosomerne?",
+      "Korrekt svar": "en nedbrydning af organisk materiale ved hjælp af enzymer",
+      "Ukorrekt svar 1": "opbygning af energirige forbindelser som ATP",
+      "Ukorrekt svar 2": "en deponering af proteinstoffer",
+      "Ukorrekt svar 3": "en opkoncentrering af neurotransmitterstoffer"
+    },
+    {
+      "Spørgsmål": "Hvad er granulært endoplasmatisk reticulum?",
+      "Korrekt svar": "membranorganel i cellen, hvorpå der sidder ribosomer",
+      "Ukorrekt svar 1": "membranorganel uden ribosomer",
+      "Ukorrekt svar 2": "organel der samler og pakker proteiner",
+      "Ukorrekt svar 3": "cellernes kraftværk"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har centrioler?",
+      "Korrekt svar": "indgår i celledelingen",
+      "Ukorrekt svar 1": "indgår i proteinsyntesen",
+      "Ukorrekt svar 2": "indgår i mitokondriernes energiproduktion",
+      "Ukorrekt svar 3": "indgår i kernelegemet"
+    },
+    {
+      "Spørgsmål": "Overordnet består cellen af:",
+      "Korrekt svar": "cellemembran, cytoplasma og cellekerne",
+      "Ukorrekt svar 1": "cellemembran, cytoplasma og kernelegeme",
+      "Ukorrekt svar 2": "cellemembran og cellekerne",
+      "Ukorrekt svar 3": "cellemembran, fosfolipider og membranproteiner"
+    },
+    {
+      "Spørgsmål": "Cellemembranen fungerer som:",
+      "Korrekt svar": "en barriere mellem cellen og omgivelserne",
+      "Ukorrekt svar 1": "et lager af sukker og fedt",
+      "Ukorrekt svar 2": "en proteinkappe der beskytter cellekernen",
+      "Ukorrekt svar 3": "en barriere mod fedtopløselige stoffer"
+    },
+    {
+      "Spørgsmål": "I cellemembranen finder man bl.a",
+      "Korrekt svar": "natrium-kalium pumper,receptorer og membrankanaler",
+      "Ukorrekt svar 1": "mitokondrier, golgiapparat og nucleus",
+      "Ukorrekt svar 2": "centrioler, receptorer og gener",
+      "Ukorrekt svar 3": "receptorer, vesikler og RNA"
+    },
+    {
+      "Spørgsmål": "Cellemembranen er opbygget som",
+      "Korrekt svar": "en dobbelt lipidmembran med fosfolipider, kolesterol og indlejrede proteiner",
+      "Ukorrekt svar 1": "en proteinhinde",
+      "Ukorrekt svar 2": "et tykt lag af uigennemtrængeligt fedt",
+      "Ukorrekt svar 3": "et lag af lipoproten med polysakkarid"
+    },
+    {
+      "Spørgsmål": "At cellemembranen er semipermeabel betyder",
+      "Korrekt svar": "at den er halvgennemtrængelig",
+      "Ukorrekt svar 1": "at den er ugennemtrængelig",
+      "Ukorrekt svar 2": "at den er gennemtrængelig for alle stoffer",
+      "Ukorrekt svar 3": "at den kun er gennemtrængelig for vandopløselige stoffer"
+    },
+    {
+      "Spørgsmål": "Hvilke celletyper fagocytere?",
+      "Korrekt svar": "hvide blodlegemer",
+      "Ukorrekt svar 1": "røde blodceller ",
+      "Ukorrekt svar 2": "trombocytter",
+      "Ukorrekt svar 3": "mave-tarmceller"
+    },
+    {
+      "Spørgsmål": "Et mitokondrie er opbygget som",
+      "Korrekt svar": "et cirkelrundt organel, opbygget af DNA og RNA",
+      "Ukorrekt svar 1": "en lille blære der indeholder bakteriedræbende enzymer",
+      "Ukorrekt svar 2": "et cirkelrundt organel, opbygget af DNA og RNA",
+      "undefined": "flade menbransække der danner et netværk,reticulum"
+    },
+    {
+      "Spørgsmål": "Funktionen af det agranulære endoplasmatisk reticulum er",
+      "Korrekt svar": "at medvirke ved nedbrydning af fremmede stoffer i hepar",
+      "Ukorrekt svar 1": "at danne proteiner",
+      "Ukorrekt svar 2": "",
+      "Ukorrekt svar 3": "at medvirke ved ved nedbrydning af proteiner"
+    },
+    {
+      "Spørgsmål": "Proteinsyntesen består af to dele",
+      "Korrekt svar": "transkription og translation",
+      "Ukorrekt svar 1": "transkription og replikation",
+      "Ukorrekt svar 2": "translation og replikation",
+      "Ukorrekt svar 3": "replikation og konjugation"
+    },
+    {
+      "Spørgsmål": "Baseparrene i DNA er holdt sammen af ",
+      "Korrekt svar": "svage hydrogenbindinger",
+      "Ukorrekt svar 1": "ionbindinger",
+      "Ukorrekt svar 2": "kovalente bindinger",
+      "undefined": "peptidbindinger"
+    },
+    {
+      "Spørgsmål": "Hvilken base i DNA er stavet forkert?",
+      "Korrekt svar": "cytomin",
+      "Ukorrekt svar 1": "thymin",
+      "Ukorrekt svar 2": "adenin",
+      "Ukorrekt svar 3": "guanin"
+    },
+    {
+      "Spørgsmål": "Hvilken \"kode\" ligger der i generne?",
+      "Korrekt svar": "hvordan protinerne sammensættes af aminosyrer",
+      "Ukorrekt svar 1": "koden for baseparringsreglen",
+      "Ukorrekt svar 2": "hvordan kulhydrater indgår i glukoproteiner",
+      "Ukorrekt svar 3": "hvordan lipider indgår i lipoproteiner"
+    },
+    {
+      "Spørgsmål": "Hvad sker der på ribsomerne under proteinsyntesen?",
+      "Korrekt svar": "her sættes amniosyrerne sammen til proteiner",
+      "Ukorrekt svar 1": "her dannes et mRNA",
+      "Ukorrekt svar 2": "her dannes et afskrift af DNA",
+      "Ukorrekt svar 3": "her foregår replikationen"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes et velafbalanceret indre miljø i celler og kroppen?",
+      "Korrekt svar": "homøostase",
+      "Ukorrekt svar 1": "homozygote",
+      "Ukorrekt svar 2": "homofile",
+      "Ukorrekt svar 3": "hæmostase"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes et fosfat-, et deoxyribosemolekyle og en base tilsammen?",
+      "Korrekt svar": "en nukleotid",
+      "Ukorrekt svar 1": "et DNA",
+      "Ukorrekt svar 2": "et basepar",
+      "Ukorrekt svar 3": "en triplet"
+    },
+    {
+      "Spørgsmål": "Hvilket stof findes ikke i DNA?",
+      "Korrekt svar": "ribose",
+      "Ukorrekt svar 1": "deoxyribose",
+      "Ukorrekt svar 2": "fosfat",
+      "Ukorrekt svar 3": "thymin"
+    },
+    {
+      "Spørgsmål": "Hvor foregår anaerob forbrænding i cellerne?",
+      "Korrekt svar": "i cellens cytoplasma",
+      "Ukorrekt svar 1": "inde i mitokondrierne",
+      "Ukorrekt svar 2": "inde i endoplasmatisk reticulum",
+      "Ukorrekt svar 3": "i nucleus"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående er ikke et forankringsprotein i celler?",
+      "Korrekt svar": "centromer",
+      "Ukorrekt svar 1": "desmosomer",
+      "Ukorrekt svar 2": "tight junctions",
+      "Ukorrekt svar 3": "gap junctions "
+    },
+    {
+      "Spørgsmål": "Hvorledes kommer O2 og CO2 gennem cellemembranen?",
+      "Korrekt svar": "frit gennem cellembranen, simpel diffusion",
+      "Ukorrekt svar 1": "ved faciliteret diffusion",
+      "Ukorrekt svar 2": "via ionkanaler",
+      "Ukorrekt svar 3": "ved hjælp af pumper "
+    },
+    {
+      "Spørgsmål": "Hvad betyder Hydrofil?",
+      "Korrekt svar": "vandopløselig/vandelskende",
+      "Ukorrekt svar 1": "fedtopløseligt/vandskyende",
+      "Ukorrekt svar 2": "uopløseligt",
+      "Ukorrekt svar 3": "fedtopløseligt"
+    },
+    {
+      "Spørgsmål": "Hvad betyder hydrofob?",
+      "Korrekt svar": "fedtopløseligt/vandskyende",
+      "Ukorrekt svar 1": "vandopløselig/vandelskende",
+      "Ukorrekt svar 2": "vandelskende",
+      "Ukorrekt svar 3": "vandopløseligt"
+    },
+    {
+      "Spørgsmål": "Hvilke stoffer transporteres ved hjælp af faciliteret diffusion?",
+      "Korrekt svar": "glukose og aminosyrer",
+      "Ukorrekt svar 1": "ilt og kuldioxid",
+      "Ukorrekt svar 2": "ioner ",
+      "Ukorrekt svar 3": "fedtopløselige stoffer"
+    },
+    {
+      "Spørgsmål": "Hvilken celle har det højeste osmotiske tryk?",
+      "Korrekt svar": "en celle med milliard opløste stoffer",
+      "Ukorrekt svar 1": "en celle med en million opløste stoffer",
+      "Ukorrekt svar 2": "en celle med 100.000  opløste stoffer",
+      "Ukorrekt svar 3": "en celle der kun indeholder vand"
+    },
+    {
+      "Spørgsmål": "Hvordan er natrium og kalium ioner fordelt på de to sider af cellemembranen?",
+      "Korrekt svar": "flest Na+ på ydersiden og flest K+ på indersiden",
+      "Ukorrekt svar 1": "flest K+ på ydersiden og flest Na+ på indersiden",
+      "Ukorrekt svar 2": "de to ioner har samme koncentration på begge sider",
+      "Ukorrekt svar 3": "der er flest Na+ ioner både på yder- og indersiden "
+    },
+    {
+      "Spørgsmål": "Hvilken betydning har diffusionsarealet for diffusionshastigheden?",
+      "Korrekt svar": "jo større diffusionsareal, desto større diffusion",
+      "Ukorrekt svar 1": "jo mindre diffusionsareal, desto større diffusion",
+      "Ukorrekt svar 2": "jo større diffusionsareal, desto mindre diffusion",
+      "Ukorrekt svar 3": "har ingen betydning for diffusionshastigheden"
+    },
+    {
+      "Spørgsmål": "Hvilken betydning har diffusionsafstanden for diffusionshastigheden?",
+      "Korrekt svar": "jo mindre diffusionsafstand, desto større diffusionhastiged",
+      "Ukorrekt svar 1": "jo mindre diffusionsafstand, desto mindre diffusionhastiged",
+      "Ukorrekt svar 2": "jo større diffusionsafstand, desto større diffusionhastiged",
+      "Ukorrekt svar 3": "har ingen betydning for diffusionshastigheden"
+    },
+    {
+      "Spørgsmål": "Hvilken betydning har koncentrationsforskellen for diffusionshastigheden?",
+      "Korrekt svar": "jo større koncentrationsforskel, desto større diffusion",
+      "Ukorrekt svar 1": "jo større koncentrationsforskel, desto mindre diffusion",
+      "Ukorrekt svar 2": "jo mindre koncentrationsforskel, desto større diffusion",
+      "Ukorrekt svar 3": "har ingen betydning for diffusionshastigheden"
+    },
+    {
+      "Spørgsmål": "Hvilken betydning har temperaturen for diffusionshastigheden?",
+      "Korrekt svar": "jo højere temperatur, desto større diffusion",
+      "Ukorrekt svar 1": "jo højere temperatur, desto mindre diffusion",
+      "Ukorrekt svar 2": "jo mindre temperatur, desto større diffusion",
+      "Ukorrekt svar 3": "har ingen betydning for diffusionshastigheden"
+    },
+    {
+      "Spørgsmål": "Hvad er et centromer?",
+      "Korrekt svar": "en struktur på et dobbelt kromosom",
+      "Ukorrekt svar 1": " er et forankringsprotein i cellemembranen",
+      "Ukorrekt svar 2": " et organel i cytoplasma der danner fedt",
+      "Ukorrekt svar 3": "er en del af cellens cytoskelet"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse væv er ikke støttevæv?",
+      "Korrekt svar": "overladeepitel",
+      "Ukorrekt svar 1": "knoglevæv",
+      "Ukorrekt svar 2": "bruskvæv",
+      "Ukorrekt svar 3": "løst- og fast bindevæv"
+    },
+    {
+      "Spørgsmål": "Hvad har kollagene- og elastiske fibre tilfælles?",
+      "Korrekt svar": "de er proteiner ",
+      "Ukorrekt svar 1": "de er kulhydrater",
+      "Ukorrekt svar 2": "de er fedtstoffer",
+      "Ukorrekt svar 3": "de findes kun i nerve- og muskelvæv    "
+    },
+    {
+      "Spørgsmål": "Hvor sidder kolesterol i cellemembranen?",
+      "Korrekt svar": "mellem fosfolipidernes hydrofile dele",
+      "Ukorrekt svar 1": "på membranproteinerne ",
+      "Ukorrekt svar 2": "direkte på fosfolipiderne",
+      "Ukorrekt svar 3": "på fosfolipidernes hydrofobe dele"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse orgneller har ikke en ydre membran?",
+      "Korrekt svar": "ribosom",
+      "Ukorrekt svar 1": "mitokondrie",
+      "Ukorrekt svar 2": "golgiapparat",
+      "Ukorrekt svar 3": "endoplasmatisk retikulum"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse orgneller har ikke en ydre membran?",
+      "Korrekt svar": "centriole",
+      "Ukorrekt svar 1": "mitokondrie",
+      "Ukorrekt svar 2": "lysosom",
+      "Ukorrekt svar 3": "golgiapparat"
+    }

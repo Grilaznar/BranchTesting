@@ -1,0 +1,164 @@
+{
+      "questionText": "Nævn navnet på det organel der deltager i produktionen af hydrofobe stoffer",
+      "answers":["glat endoplasmatisk reticulum", "ru endoplasmatisk reticulum", "nucleus", "nucleolus"]
+    }
+    {
+      "questionText": "Hvor findes ribosomer i cellen?",
+      "answers":["på ru ER og frit i cytoplasma", "på glat ER ", "på galt ER og frit i cytoplasma", "kun på ru ER"]
+    }
+    {
+      "questionText": "Hvordan sammensættes ATP?",
+      "answers":["ADP + frit fosfat", "ATP + frit fosfat", "ADP + 2 frie fosfat", "ADP  + 3 frie fosfat"]
+    }
+    {
+      "questionText": "Hvilken anticodon på tRNA svarer til CGA på mRNA?",
+      "answers":["GCU", "UUA", "CGA", "UUA"]
+    }
+    {
+      "questionText": "Hvad sker der i lysosomerne?",
+      "answers":["en nedbrydning af organisk materiale ved hjælp af enzymer", "opbygning af energirige forbindelser som ATP", "en deponering af proteinstoffer", "en opkoncentrering af neurotransmitterstoffer"]
+    }
+    {
+      "questionText": "Hvad er granulært endoplasmatisk reticulum?",
+      "answers":["membranorganel i cellen, hvorpå der sidder ribosomer", "membranorganel uden ribosomer", "organel der samler og pakker proteiner", "cellernes kraftværk"]
+    }
+    {
+      "questionText": "Hvilken funktion har centrioler?",
+      "answers":["indgår i celledelingen", "indgår i proteinsyntesen", "indgår i mitokondriernes energiproduktion", "indgår i kernelegemet"]
+    }
+    {
+      "questionText": "Overordnet består cellen af:",
+      "answers":["cellemembran, cytoplasma og cellekerne", "cellemembran, cytoplasma og kernelegeme", "cellemembran og cellekerne", "cellemembran, fosfolipider og membranproteiner"]
+    }
+    {
+      "questionText": "Cellemembranen fungerer som:",
+      "answers":["en barriere mellem cellen og omgivelserne", "et lager af sukker og fedt", "en proteinkappe der beskytter cellekernen", "en barriere mod fedtopløselige stoffer"]
+    }
+    {
+      "questionText": "I cellemembranen finder man bl.a",
+      "answers":["natrium-kalium pumper,receptorer og membrankanaler", "mitokondrier, golgiapparat og nucleus", "centrioler, receptorer og gener", "receptorer, vesikler og RNA"]
+    }
+    {
+      "questionText": "Cellemembranen er opbygget som",
+      "answers":["en dobbelt lipidmembran med fosfolipider, kolesterol og indlejrede proteiner", "en proteinhinde", "et tykt lag af uigennemtrængeligt fedt", "et lag af lipoproten med polysakkarid"]
+    }
+    {
+      "questionText": "At cellemembranen er semipermeabel betyder",
+      "answers":["at den er halvgennemtrængelig", "at den er ugennemtrængelig", "at den er gennemtrængelig for alle stoffer", "at den kun er gennemtrængelig for vandopløselige stoffer"]
+    }
+    {
+      "questionText": "Hvilke celletyper fagocytere?",
+      "answers":["hvide blodlegemer", "røde blodceller ", "trombocytter", "mave-tarmceller"]
+    }
+    {
+      "questionText": "Et mitokondrie er opbygget som",
+      "answers":["et cirkelrundt organel, opbygget af DNA og RNA", "en lille blære der indeholder bakteriedræbende enzymer", "et cirkelrundt organel, opbygget af DNA og RNA", "flade menbransække der danner et netværk,reticulum"]
+    }
+    {
+      "questionText": "Funktionen af det agranulære endoplasmatisk reticulum er",
+      "answers":["at medvirke ved nedbrydning af fremmede stoffer i hepar", "at danne proteiner", "", "at medvirke ved ved nedbrydning af proteiner"]
+    }
+    {
+      "questionText": "Proteinsyntesen består af to dele",
+      "answers":["transkription og translation", "transkription og replikation", "translation og replikation", "replikation og konjugation"]
+    }
+    {
+      "questionText": "Baseparrene i DNA er holdt sammen af ",
+      "answers":["svage hydrogenbindinger", "ionbindinger", "kovalente bindinger", "peptidbindinger"]
+    }
+    {
+      "questionText": "Hvilken base i DNA er stavet forkert?",
+      "answers":["cytomin", "thymin", "adenin", "guanin"]
+    }
+    {
+      "questionText": "Hvilken \"kode\" ligger der i generne?",
+      "answers":["hvordan protinerne sammensættes af aminosyrer", "koden for baseparringsreglen", "hvordan kulhydrater indgår i glukoproteiner", "hvordan lipider indgår i lipoproteiner"]
+    }
+    {
+      "questionText": "Hvad sker der på ribsomerne under proteinsyntesen?",
+      "answers":["her sættes amniosyrerne sammen til proteiner", "her dannes et mRNA", "her dannes et afskrift af DNA", "her foregår replikationen"]
+    }
+    {
+      "questionText": "Hvad kaldes et velafbalanceret indre miljø i celler og kroppen?",
+      "answers":["homøostase", "homozygote", "homofile", "hæmostase"]
+    }
+    {
+      "questionText": "Hvad kaldes et fosfat-, et deoxyribosemolekyle og en base tilsammen?",
+      "answers":["en nukleotid", "et DNA", "et basepar", "en triplet"]
+    }
+    {
+      "questionText": "Hvilket stof findes ikke i DNA?",
+      "answers":["ribose", "deoxyribose", "fosfat", "thymin"]
+    }
+    {
+      "questionText": "Hvor foregår anaerob forbrænding i cellerne?",
+      "answers":["i cellens cytoplasma", "inde i mitokondrierne", "inde i endoplasmatisk reticulum", "i nucleus"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående er ikke et forankringsprotein i celler?",
+      "answers":["centromer", "desmosomer", "tight junctions", "gap junctions "]
+    }
+    {
+      "questionText": "Hvorledes kommer O2 og CO2 gennem cellemembranen?",
+      "answers":["frit gennem cellembranen, simpel diffusion", "ved faciliteret diffusion", "via ionkanaler", "ved hjælp af pumper "]
+    }
+    {
+      "questionText": "Hvad betyder Hydrofil?",
+      "answers":["vandopløselig/vandelskende", "fedtopløseligt/vandskyende", "uopløseligt", "fedtopløseligt"]
+    }
+    {
+      "questionText": "Hvad betyder hydrofob?",
+      "answers":["fedtopløseligt/vandskyende", "vandopløselig/vandelskende", "vandelskende", "vandopløseligt"]
+    }
+    {
+      "questionText": "Hvilke stoffer transporteres ved hjælp af faciliteret diffusion?",
+      "answers":["glukose og aminosyrer", "ilt og kuldioxid", "ioner ", "fedtopløselige stoffer"]
+    }
+    {
+      "questionText": "Hvilken celle har det højeste osmotiske tryk?",
+      "answers":["en celle med milliard opløste stoffer", "en celle med en million opløste stoffer", "en celle med 100.000  opløste stoffer", "en celle der kun indeholder vand"]
+    }
+    {
+      "questionText": "Hvordan er natrium og kalium ioner fordelt på de to sider af cellemembranen?",
+      "answers":["flest Na+ på ydersiden og flest K+ på indersiden", "flest K+ på ydersiden og flest Na+ på indersiden", "de to ioner har samme koncentration på begge sider", "der er flest Na+ ioner både på yder- og indersiden "]
+    }
+    {
+      "questionText": "Hvilken betydning har diffusionsarealet for diffusionshastigheden?",
+      "answers":["jo større diffusionsareal, desto større diffusion", "jo mindre diffusionsareal, desto større diffusion", "jo større diffusionsareal, desto mindre diffusion", "har ingen betydning for diffusionshastigheden"]
+    }
+    {
+      "questionText": "Hvilken betydning har diffusionsafstanden for diffusionshastigheden?",
+      "answers":["jo mindre diffusionsafstand, desto større diffusionhastiged", "jo mindre diffusionsafstand, desto mindre diffusionhastiged", "jo større diffusionsafstand, desto større diffusionhastiged", "har ingen betydning for diffusionshastigheden"]
+    }
+    {
+      "questionText": "Hvilken betydning har koncentrationsforskellen for diffusionshastigheden?",
+      "answers":["jo større koncentrationsforskel, desto større diffusion", "jo større koncentrationsforskel, desto mindre diffusion", "jo mindre koncentrationsforskel, desto større diffusion", "har ingen betydning for diffusionshastigheden"]
+    }
+    {
+      "questionText": "Hvilken betydning har temperaturen for diffusionshastigheden?",
+      "answers":["jo højere temperatur, desto større diffusion", "jo højere temperatur, desto mindre diffusion", "jo mindre temperatur, desto større diffusion", "har ingen betydning for diffusionshastigheden"]
+    }
+    {
+      "questionText": "Hvad er et centromer?",
+      "answers":["en struktur på et dobbelt kromosom", " er et forankringsprotein i cellemembranen", " et organel i cytoplasma der danner fedt", "er en del af cellens cytoskelet"]
+    }
+    {
+      "questionText": "Hvilken af disse væv er ikke støttevæv?",
+      "answers":["overladeepitel", "knoglevæv", "bruskvæv", "løst- og fast bindevæv"]
+    }
+    {
+      "questionText": "Hvad har kollagene- og elastiske fibre tilfælles?",
+      "answers":["de er proteiner ", "de er kulhydrater", "de er fedtstoffer", "de findes kun i nerve- og muskelvæv    "]
+    }
+    {
+      "questionText": "Hvor sidder kolesterol i cellemembranen?",
+      "answers":["mellem fosfolipidernes hydrofile dele", "på membranproteinerne ", "direkte på fosfolipiderne", "på fosfolipidernes hydrofobe dele"]
+    }
+    {
+      "questionText": "Hvilket af disse orgneller har ikke en ydre membran?",
+      "answers":["ribosom", "mitokondrie", "golgiapparat", "endoplasmatisk retikulum"]
+    }
+    {
+      "questionText": "Hvilket af disse orgneller har ikke en ydre membran?",
+      "answers":["centriole", "mitokondrie", "lysosom", "golgiapparat"]
+    }

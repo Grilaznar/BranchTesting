@@ -1,0 +1,172 @@
+{
+      "questionText": "Hvor dannes enzymet lipase?",
+      "answers":["i bugspytkirtlen", "i mavesækken", "i duodenum", "i leveren"]
+    }
+    {
+      "questionText": "Hvor dannes enzymforstadiet pepsinogen?",
+      "answers":["i mavesækken", "i duodenum", "i bugspytkirtlen", "i leveren"]
+    }
+    {
+      "questionText": "Hvor dannes enzymforstadiet trypsinogen?",
+      "answers":["i bugspytkirtlen", "i leveren ", "i mavesækken", "i leveren"]
+    }
+    {
+      "questionText": "Hvor dannes  peptidaser enzymerne?",
+      "answers":["i tyndtarmen", "i mavesækken ", "i leveren", "i bugspytkirtlen"]
+    }
+    {
+      "questionText": "Hvor dannes enzymerne laktase, sukrase og maltase?",
+      "answers":["i tyndtarmen", "i mavesækken", "i leveren ", "i bugspytkirtlen"]
+    }
+    {
+      "questionText": "I hvilke kirtler dannes enzymet amylase)",
+      "answers":["spytkirtlerne og bugspytkirtlerne", "i mavesækken og spytkirtlerne", "i leveren og spytkirtlerne", "i tyndtarmen og spytkirtlerne"]
+    }
+    {
+      "questionText": "Hvilket af nedenstående stoffer findes ikke i galde?",
+      "answers":["lipase", "galdesuresalte ", "bilirubin ", "kolesterol"]
+    }
+    {
+      "questionText": "Hvor dannes enzymforstadiet trypsinogen?",
+      "answers":["i bugspytkirtlen", "i leveren ", "i tyndtarmen", "i mavesækken"]
+    }
+    {
+      "questionText": "Hvor dannes enzymet pepsin?",
+      "answers":["i ventriculus", "i hepar", "i intestinum tenue", "i pancreas"]
+    }
+    {
+      "questionText": "Tyndtarmen har en meget stor overlade. Hvilket bygningstræk i tarmcellerne er med til at give denne store overflade?",
+      "answers":["at tarmcellerne danner mikrovilli", "at tarmcellerne sidder i fordybninger", "at tarmcellerne er meget lange", "at tarmcellerne er store celler"]
+    }
+    {
+      "questionText": "Hvor mange par spytkirtler har mennesket?",
+      "answers":["tre par", "et par", "to par ", "fire par"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for den spytkirtel der findes ved øret",
+      "answers":["gl. parotidea", "gl. submandibularis", "gl. sublingualis", "gl. pineale"]
+    }
+    {
+      "questionText": "Hvad hedder den spytkirtel der findes under tungen?",
+      "answers":["gl. sublingualis", "gl. submandibularis", "gl. parotidea", "gl. pineale"]
+    }
+    {
+      "questionText": "Hvad hedder den spytkirtel der sidder ved underkæben?",
+      "answers":["gl. submandibularis", "gl. sublingualis", "gl. parotidea", "gl. pineale"]
+    }
+    {
+      "questionText": "Nævn hvad spyt hedder på latin",
+      "answers":["saliva", "lysozym", "lingua", "mucin"]
+    }
+    {
+      "questionText": "Nævn mundhulens latinske navn",
+      "answers":["cavitas oris", "cavitas nasi", "vestibulum oris", "cavitasuteri"]
+    }
+    {
+      "questionText": "Nævn svælgets latinske navn",
+      "answers":["pharynx", "trachea", "larynx", "epiglottis"]
+    }
+    {
+      "questionText": "Det latinske navn for mavesækken er ventriculus, men hvad er det græske navn for mavesækken?",
+      "answers":["gaster", "gastrin", "gastriculus", "intestinum tenue"]
+    }
+    {
+      "questionText": "Hvor findes Cardia?",
+      "answers":["der hvor spiserøret løber ind i mavesækken", "ved overgangen mellem mavesækken og duodenum", "ved overgangen mellem tyndtarm og tyktarm", "ved øverste del af spiserøret"]
+    }
+    {
+      "questionText": "Hvad er peristaltik?",
+      "answers":["rytmiske kontraktioner af  glat muskulatur ", "rytmiske kontraktioner af tværstribet muskulatur", "rytmiske kontraktioner i milten der giver sidesting/stik", "rytmiske kontraktioner i blodkarrene der fører til mavesækken"]
+    }
+    {
+      "questionText": "Nævn navnet på det hormon der dannes i mavesækken",
+      "answers":["gastrin", "gaster", "intrinsic faktor ", "pepsin"]
+    }
+    {
+      "questionText": "Hvilke(n) funktion har saltsyren i mavesæken?",
+      "answers":["at dræbe bakterier samt aktivering af pepsin", "at dræbe bakterier samt aktivering af trypsin", "at nedbryde proteiner samt at dræbe bakterier", "at nedbryde proteiner"]
+    }
+    {
+      "questionText": "Nævn hvor meget pH er i mavesækken",
+      "answers":["2-3", "4-6", "7", "8-9"]
+    }
+    {
+      "questionText": "Hvad kaldes det mest almindelige fedt i vores mad ?",
+      "answers":["triglycerider", "kolesterol", "oliesyre", "smørsyre"]
+    }
+    {
+      "questionText": "Imellem svælg og tyndtarm er ",
+      "answers":["spiserør og mavesæk indskudt", "bugspytkirtel og nyrer", "tyktarm og mavesæk indskudt", "lever og rectum indskudt"]
+    }
+    {
+      "questionText": "Det blivende tandsæt, dentes permanentes, består af",
+      "answers":["32 tænder ialt", "28 tænder ialt", "30 tænder ialt ", "20 tænder ialt"]
+    }
+    {
+      "questionText": "Spiserøret kan betragtes som  ",
+      "answers":["et 25 cm langt muskulært rør, der udfører peristaltik", "et 25 cm langt rør, opbygget af bruskringe", "et 25 cm lang, ubevægeligt muskelrør", "et 25 cm langt rør, med cylinderepitel og mikrovilli"]
+    }
+    {
+      "questionText": "Mavesækken inddeles opefra og nedefter i ",
+      "answers":["fundus ventriculi, corpus ventriculi og pars pylorica", "corpus ventriculi, pars pylorica og fundus ventriculi", "pars pylorica, corpus ventriculi og fundus ventriculi", "bindevævs hinde, tre lag glat muskulatur og en slimhinde"]
+    }
+    {
+      "questionText": "Tyndtarmen kan betragtes som",
+      "answers":["et 25 cm langt buet rør, der starter med en udvidelse, bulbus duodeni", "en 10 cm lang, ligeforløbende begyndelse på tyndtarmen", "en kort tarm med tolv små udvidelser", "en udvidelse af papilla vateri, "]
+    }
+    {
+      "questionText": "En af tyktarmens vigtigste funktioner er at",
+      "answers":["at absorbere elektrolytter og væske", "at absorbere næringsstoffer", "at nedbryde proteiner", "at dræbe bakterier"]
+    }
+    {
+      "questionText": "Mennesker med laktoseintolerans kan ikke ",
+      "answers":["nedbryde laktose i mælkeprodukter", "nebryde laktose i planter", "få for meget mælkesukker", "nedbryde sukrose i maden"]
+    }
+    {
+      "questionText": "Hvilket af nedenstående udsagn er ikke en af mavesækkens funktioner?",
+      "answers":["at nedbryde triglycerider", "at nedbryde proteiner", "at optage lidt glukose, alkohol og visse lægemidler", "at dræbe mikroorganismer"]
+    }
+    {
+      "questionText": "Afføringstrangen(defækation) udløses når ",
+      "answers":["ampulla recti strækkes", "faldende tryk i abdomen", "stigende tryk i tyndtarmen", "afføringens irritation af tyndtarmen"]
+    }
+    {
+      "questionText": "Pankreas er speciel derved ",
+      "answers":["at den både er endokrin og eksokrin", "at den styres af det somatiske nervesystem", "at dens udførselsgang ligger i ileum", "at den producerer et meget surt sekret"]
+    }
+    {
+      "questionText": "Hepar er beliggende",
+      "answers":["i bughulen højre side, lige under diaphragma", "i bunden af bughulens højre side", "i bugulens venstre side foroven", "i bughulens venstre side forneden"]
+    }
+    {
+      "questionText": "Galdeblæren har til opgave ",
+      "answers":["at opbevare og opkoncentrere galden", "at producere galde", "at fortynde galden under et måltid", "at lede fedtsyrer over i blodet"]
+    }
+    {
+      "questionText": "Proteiner er opbygget af ",
+      "answers":["aminosyrer", "monosakkarider", "fedtsyrer", "glycerol og aminosyrer"]
+    }
+    {
+      "questionText": "Stivelse er opbygget af ",
+      "answers":["glukose enheder", "aminosyrer", "glycerol og fedtsyrer", "glukose og fruktose"]
+    }
+    {
+      "questionText": "Nævn navnet på den opstigende del af colon",
+      "answers":["colon ascendens", "colon descendens", "colon transversum", "colon sigmoideum"]
+    }
+    {
+      "questionText": "Nævn navnet på den tværgående del af colon ",
+      "answers":["colon transversum", "colon ascendens", "colon descendens", "colon sigmoideum"]
+    }
+    {
+      "questionText": "Nævn navnet på den nedstigende del af colon",
+      "answers":["colon descendens ", "colon transversum", "colon ascendens", "colon sigmoideum"]
+    }
+    {
+      "questionText": "Nævn navnet på den s-formede del af colon",
+      "answers":["colon sigmoideum", "colon descendens", "colon transversum", "colon ascendens"]
+    }
+    {
+      "questionText": "Nævn navnet på det yderste længdegående lag glat muskulatur i colon",
+      "answers":["taeniae, tæniæ", "haustra", "plicae semicirculares", "plicae circulares"]
+    }

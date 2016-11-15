@@ -1,0 +1,16 @@
+    {
+      "questionText": "Nævn navnet på det mellemrum i thorax hvor hjertet er placeret",
+      "answers":["mediastinum", "ostium", "oesophagus", "sacculus"]
+    }
+    {
+      "questionText": "Hvor er hjertespidsen lokaliseret i thorax, set forfra ?",
+      "answers":["ud for medioklavikulærlinjen mellem 5. og 6. costa", "i mediastinum ud for 8. og 9. costa", "lidt til højre for sternum ved 6. costa ", "ud for medioklavikulærlinjen mellem 11. og 12. costa"]
+    }
+    {
+      "questionText": "Muokardiet er opbygget af ",
+      "answers":["forgrenede muskelceller forbundet med gap junctions ", "glatte  muskelceller forbundet med desmosomer", "tværstribede muskelceller forbundet med centromerer", "forgrenede nerveceller forbundet med gap junctions "]
+    }
+    {
+      "questionText": "Blodet i sinus coronarius tømmes ind i ",
+      "answers":["atrium dextra", "atrium sinister", "ventriculus dextra", "ventriculus sinister"]
+    }

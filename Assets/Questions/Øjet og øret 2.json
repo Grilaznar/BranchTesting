@@ -1,0 +1,245 @@
+
+    {
+      "questionText": "Hvis man er bange bliver pupillen",
+      "answers":["stor", "normal i størrelse", "lille", "rød"]
+    }
+    {
+      "questionText": "Hvilke stoffer kræves for at danne stave og tappe",
+      "answers":["protein og retinal(A-vitamin)", "protein og lipoprotein", "fedtstof og D vitamin", "kulhydrat og C-vitamin"]
+    }
+    {
+      "questionText": "Hvilken celletype er vigtigst ved daglys?",
+      "answers":["tappe, som opfatter farver", "tappe som opfatter mørke", "stave som opfatter lys", "stave som opfatter mørke"]
+    }
+    {
+      "questionText": "Hvilken celletype bruges især i mørke?",
+      "answers":["stave, som ikke opfatter farver", "stave, som opfatter farver", "tappe som opfatter farver", "tappe som ikke opfatter farver"]
+    }
+    {
+      "questionText": "Linsens krumning reguleres ved synsdannelse, dette kaldes",
+      "answers":["akkomodation", "antagonistisk", "agglutination", "aktin"]
+    }
+    {
+      "questionText": "Nævn navnet på musklen der form ændre linsen",
+      "answers":["m. ciliare", "m. levator ani", "m. masseter", "m. sartorius"]
+    }
+    {
+      "questionText": "Hvor findes synscentrene?",
+      "answers":["bageste del af højre- og venstre halvdel af cerebrum", "bageste del af højre- og venstre halvdel af cerebellum", "i frontallapperne", "i isselapperne"]
+    }
+    {
+      "questionText": "Nævn hvad der sker i chiasma opticum",
+      "answers":["en overkrydsning af dele af synsnerverne", "en billeddannelse", "en afstandsbedømmelse", "en synsnedsættelse"]
+    }
+    {
+      "questionText": "Nævn hvad der forstås ved grøn stær, glaukom",
+      "answers":["en trykstigning i øjet", "en ødelæggelse af glaslegemet", "en  hornhindeløsning", "en ødelæggelse af synsnerven"]
+    }
+    {
+      "questionText": "Hvilken struktur i øjet sørger for vi kan se skarpt?",
+      "answers":["linsen", "nethinden", "årehinden", "senehinden"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for øjeæblet",
+      "answers":["bulbus oculi", "bulbus opticus", "conjunctiva", "fovea centralis"]
+    }
+    {
+      "questionText": "Nævn navnet på den bindehinde på øjenlågene, der vender ind mod øjet",
+      "answers":["conjunctiva", "peritoneum", "perineum", "curvatura major"]
+    }
+    {
+      "questionText": "Hvor dannes tårer?",
+      "answers":["i glandula lacrimalis ", "i glandula bulbourethrales", "glandula parotidea", "glandula suprarenalis"]
+    }
+    {
+      "questionText": "Ved  facialisparese kan der opstå lammelse af m. orbicularis oculi. Hvilken betydning har det?",
+      "answers":["ikke muligt at blinke, kan medføre til blindhed", "ikke muligt at bære briller eller linser", "ikke muligt at danne billede på nethinden", "ikke muligt at se i farver"]
+    }
+    {
+      "questionText": "Tårevæske føres fra til ",
+      "answers":["næsehulen via tåregangen", "mundhulen via tåregangen", "svælget via tåregangen", "til mundhulen via tuba uterina"]
+    }
+    {
+      "questionText": "Øjeæblets tre lag benævnes udefra og ind",
+      "answers":["sclera, choroidea og retina", "retina,sclera og  choroidea ", "retina, peritoneum og sclera", "perineum, peritoneum og perimetriet"]
+    }
+    {
+      "questionText": "Forkammer væske og bagkammer væske ligger bagved og foran",
+      "answers":["iris", "lens", "corpus vitreum", "cornea"]
+    }
+    {
+      "questionText": "Dannelsen af kammervæske finder sted i ",
+      "answers":["corpus ciliare", "camera posterior", "camera anterior", "lens "]
+    }
+    {
+      "questionText": "De elementer der bryder lyset er",
+      "answers":["hornhinden, kammervandet, linsen og glaslegemet", "senehinden, årehinden og nethinden", "stave og tappe ", "nethinden og synsnerven"]
+    }
+    {
+      "questionText": "Ved øjets akkomodationsevne forstås",
+      "answers":["øjets evne til at danne et skarpt billede på nethinden", "øjets evne til at beskytte sig reflektorisk", "øjets evner til at tilpasse sig lysstyrker", "øjets evne til at dreje fra side til side"]
+    }
+    {
+      "questionText": "Ved øjets adaptionsevne forstås",
+      "answers":["øjets evne til at tilpasse sig forskellige lysstyrker", "evnen til at samarbejde mellem de to øjne", "evnen til at holde et konstant tryk i kammervæsken", "evnen til at ændre linsen efter behov"]
+    }
+    {
+      "questionText": "Den blinde plet i øjet svarer til ",
+      "answers":["det sted hvor synsnerven går gennem nethinden", "centrum af linsen", "det sted hvor der kun er tap celler", "det sted hvor der kun er stave i øjet"]
+    }
+    {
+      "questionText": "Ved den gule plet(macula lutea) forstås ",
+      "answers":["et område, hvor primært tappene er samlet", "det sted, hvor synsnerven går ind i retina", "et område fyldt med blodkar", "et område i regnbuehinden"]
+    }
+    {
+      "questionText": "Ved chiasma opticum forstås",
+      "answers":["synsnervernes overkrydsningssted", "synscentret i hjernebarken", "synsnervens indgang i nethinden", "der hvor fotopigment dannes i nethinden"]
+    }
+    {
+      "questionText": "Den venstre halvdel af det, man kikker på, opfattes i ",
+      "answers":["i højre nakkelap", "i venstre nakkelap", "i begge nakkelapper", "i cerebellums højre side"]
+    }
+    {
+      "questionText": "Følgende hører ikke med til øjets beskyttelses- og hjælpeapparat",
+      "answers":["grøn stær og grå stær", "ydre øjenmuskler og øjenlåg", "øjenvipper  og conjunctiva", "tårekirtel og tåreveje"]
+    }
+    {
+      "questionText": "Tårekirtlen, glandula lacrimalis, er belliggende mellem",
+      "answers":["øjenbryn og laterale øjenkrog", "mellem os nasale og mediale øjenkrog", "øjenbrynene", "tårekanalen og saccus lacrimalis"]
+    }
+    {
+      "questionText": "Hvilken situation kan ikke påvirke pupillens størrelse",
+      "answers":["ændringer i kropstemperaturen, fx. feber?", "ændringer i lysmængden", "ændringer i personens sindsstemning", "indtag af visse læge- og rusmidler"]
+    }
+    {
+      "questionText": "Hvad kan ændre pupillens størrelse?",
+      "answers":["det autonome nervesystem", "det somatiske nervesystem", "ændringer i kropstemperaturen", "ændringer i blodsukker niveauet"]
+    }
+    {
+      "questionText": "Hvad gælder for de lysopfattende celler, de såkaldte tappe?",
+      "answers":["der findes tre typer tappe, en til hver af farverne rød, grøn og blå", "tappe kan fungere ved meget svage lysmængder", "tappe anvendes mest ved nuancer af sort og hvid", "der findes kun en type tappe "]
+    }
+    {
+      "questionText": "Hvad gælder for de lysopfattende celler, de såkaldte tappe?",
+      "answers":["kan fungere ved meget svage lysstyrker", "der findes to typer af stave, sorte og hvide", "findes primært i det centrale synsfelt", "er opbygget af fedtsyrer og D-vitamin"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af lysets vej gennem øjet",
+      "answers":["choroidea", "cornea", "lens ", "corpus vitreum"]
+    }
+    {
+      "questionText": "Hvilket er ikke en del af synsimpulsens forløb",
+      "answers":["hypothalamus", "synscenter", "synsnervekrydsning ", "thalamus"]
+    }
+    {
+      "questionText": "Øjeæblets bevægemuskler styres af impulser fra ",
+      "answers":["3, 4 og 6 hjernenerver", "n. opticus ", "n. vagus ", "det autonome nervesystem"]
+    }
+    {
+      "questionText": "Hvorfor løber tårevæske ikke ud over kanten af øjenlåget ",
+      "answers":["på grund af fedtsekret i øjenlågskanten", "på grund af en \"lim\" i tårevæsken", "fordi blodet opsuger overskydenden tårevæske", "fordi overskydenden tårevæske returnerer til tårekirtlen"]
+    }
+    {
+      "questionText": "Conjunctiva indeholder mange blodkar",
+      "answers":["og derfor kan anæmi ses i bindehinden ", "og derfor kan glukosemangel ses i bindehinden ", "og derfor kan leukocytmangel ses i bindehinden ", "og derfor kan bakterier ses i bindehinden "]
+    }
+    {
+      "questionText": "Hvad er der sket med linsen, når mennesker får gammelmandssyn?",
+      "answers":["den er blevet stiv og uelastisk", "den er blevet blød", "den er blevet nedbrudt ", "den er blevet fyldt med hvidt fedtstof"]
+    }
+    {
+      "questionText": "Nævn hvad der findes i øreflippen",
+      "answers":["fedt og blodkar", "brusk", "knogle ", "høreknogler"]
+    }
+    {
+      "questionText": "Øremuslingen er dannet af",
+      "answers":["elastisk brusk dækket af hud", "fedt dækket af hud", "knogle dækket af hud", "lymfatisk væv"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for ørevoks",
+      "answers":["cerumen", "cerebrum", "cochlea", "clearance"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for hammeren",
+      "answers":["malleus", "callosum", "spinosus", "macua lutea"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for ambolten",
+      "answers":["incus", "stapes", "albicans", "cochlea"]
+    }
+    {
+      "questionText": "Nævn det latinske navn for stigbøjlen",
+      "answers":["stapes", "incus", "platysma", "sacralis"]
+    }
+    {
+      "questionText": "Et andet fagord for Det eustakiske rør?",
+      "answers":["tuba auditiva", "salpinx", "tuba uterina", "T-rør"]
+    }
+    {
+      "questionText": "Nævn navnene på de tre strukturerer der findes i det indre øre",
+      "answers":["buegangene, forgården og sneglen", "sneglen,  forkammer og bjælken", "forkammer, bagkammer og sneglen", "vestibulum  og det eustakiske rør"]
+    }
+    {
+      "questionText": "Nævn de latinske navne på de tre strukturerer der findes i det indre øre",
+      "answers":["canales semicirculares, vestibulum,og cochlea", "plica circularis, plica semicircularis og cochlea", "vestibulum , plicae semicirculares og cortiske organ", "fenestra rotunda, fenestra ovalis og det cortiske organ"]
+    }
+    {
+      "questionText": "Hvad kaldes det samlede system af hulrum og kanaler i det indre øre?",
+      "answers":["labyrinten", "trommehulen", "vestibulum", "sneglen"]
+    }
+    {
+      "questionText": "Hvad kaldes de to typer af væske som findes i det indre øre?",
+      "answers":["perilymfe og endolymfe", "endo- og eksolymfe", "cerebrospinalvæske og cerumen", "spinalvæske og endolymfe"]
+    }
+    {
+      "questionText": "Nævn navnene på de to \"vinduer\" der sidder mellem trommehulen(mellemøret) og forgården( i det indre øre?",
+      "answers":["fenestra ovalis og fenestra rotunda", "camera posterior og camera anterior", "spina iliaca anterior og spina iliaca posterior", "forkammer  åbning og bagkammer åbning"]
+    }
+    {
+      "questionText": "Perilymfen som findes i det indre øre, står i forbindelse med en anden væske udenfor øret. Hvilken væske er der tale om?",
+      "answers":["cerebrospinalvæsken", "lymfevæsken", "blodet", "vævsvæsken"]
+    }
+    {
+      "questionText": "Hvilken struktur aktiveres, når der er lydbølger på vej gennem sneglen?",
+      "answers":["det cortiske organ", "vestibulum", "canales semicirculares", "høreknogleren"]
+    }
+    {
+      "questionText": "Der findes tre sneglegange med væske i det indre øre. Hvilken er ikke en sneglegang i det indre øre?",
+      "answers":["canales semicirculares"]
+    }
+    {
+      "questionText": "Hvor starter n. vestibulocochlearis?",
+      "answers":["i det indre øre", "i hjernen", "i mellemøret", "i det ydre øre"]
+    }
+    {
+      "questionText": "Den dynamiske ligevægtssans registrerer ændringer i hastighed og drejebevægelser. Hvor er denne sans lokaliseret?",
+      "answers":["i canales semicirculares ", "i cochlea", "i mellemøret", "i vestibulum"]
+    }
+    {
+      "questionText": "Den statiske ligevægtssans registrerer ændringer når hovedet drejes eller bøjes. Hvor findes denne sans? ",
+      "answers":["i vestibulum", "i canales semicircularis", "i cochlea", "i auris media"]
+    }
+    {
+      "questionText": "Nerveimpulser fra det indre øre sendes til ligevægtscentret i ?",
+      "answers":["cerebellum", "cortex cerebri", "cerebrum", "medulla oblongata"]
+    }
+    {
+      "questionText": "Nævn navnet på de små kalkkrystaller der findes i vestibulum",
+      "answers":["otolitter", "ovum", "osteocytter", "osteoklaster"]
+    }
+    {
+      "questionText": "Hvilke impulser kommer ikke til ligevægtscentret i cerebellum?",
+      "answers":["fra lugtesansen", "fra sener og led", "fra øjet", "fra skeletmuskler"]
+    }
+    {
+      "questionText": "Oversæt n. vestibularis til dansk",
+      "answers":["balancenerven", "ansigtsnerven", "følenerven ", "vestibulum nerven"]
+    }
+    {
+      "questionText": "Oversæt n. cochlearisvtil dansk",
+      "answers":["hørenerven", "talenerven ", "sneglenerven", "kokleal nerven"]
+    }
+    {
+      "questionText": "Nævn et andet navn for Det Eustakiske Rør",
+      "answers":["tuba auditiva", "tuba uterina", "tuba tuberculum", "det herakulske rør"]
+    }

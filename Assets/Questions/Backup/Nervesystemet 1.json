@@ -1,0 +1,140 @@
+   {
+      "Spørgsmål": "Hvad er et neuron?",
+      "Korrekt svar": "En nervecelle",
+      "Ukorrekt svar 1": "En nerve",
+      "Ukorrekt svar 2": "Et transmitterstof",
+      "Ukorrekt svar 3": "En elektrisk impuls"
+    },
+    {
+      "Spørgsmål": "Af hvilke dele består et neuron?",
+      "Korrekt svar": "Soma, dendritter, akson, synapseknopper",
+      "Ukorrekt svar 1": "Cellekrop, myelinskede og centralfure",
+      "Ukorrekt svar 2": "Medulla spinalis, medulla oblongata, pons og mesencephalon",
+      "Ukorrekt svar 3": "Diencephalon, mesencephalon og encephalon"
+    },
+    {
+      "Spørgsmål": "Hvad er motoriske neuroner?",
+      "Korrekt svar": "Neuroner, der sender impulser fra CNS",
+      "Ukorrekt svar 1": "Neuroner, der sender impulser mod CNS",
+      "Ukorrekt svar 2": "Neuroner, der benytter transmitterstoffet acetylkolin",
+      "Ukorrekt svar 3": "Afferente neuroner"
+    },
+    {
+      "Spørgsmål": "Hvad er sensoriske neuroner",
+      "Korrekt svar": "Neuroner, der sender impulser mod CNS",
+      "Ukorrekt svar 1": "Neuroner, der sender impulser fra CNS",
+      "Ukorrekt svar 2": "Neuroner, der benytter transmitterstoffet noradrenalin",
+      "Ukorrekt svar 3": "Efferente neuroner"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de to dele af de autonome nervesystem?",
+      "Korrekt svar": "Sympaticus og parasympaticus",
+      "Ukorrekt svar 1": "Somatiske og sympatiske nervesystem",
+      "Ukorrekt svar 2": "Somatiske og centrale nervesystem",
+      "Ukorrekt svar 3": "Encephalon og medulla spinalis"
+    },
+    {
+      "Spørgsmål": "I hvilke situationer er der forhøjet aktivitet i det sympatiske nervesystem?",
+      "Korrekt svar": "I fysisk eller mentalt stressende situationer",
+      "Ukorrekt svar 1": "Under søvn",
+      "Ukorrekt svar 2": "I forbindelse med fordøjelse af føde",
+      "Ukorrekt svar 3": "Om natten"
+    },
+    {
+      "Spørgsmål": "I hvilke situationer er der forhøjet aktivitet i det parasympatiske nervesystem?",
+      "Korrekt svar": "Under søvn, hvile og fordøjelse af føde",
+      "Ukorrekt svar 1": "I forbindelse med angst og/eller vrede",
+      "Ukorrekt svar 2": " I stress-situationer",
+      "Ukorrekt svar 3": "I forbindelse med flugt"
+    },
+    {
+      "Spørgsmål": "I hvilken retning løber nerveimpulsen?",
+      "Korrekt svar": "Fra dendrit til soma til akson til til forgrening til synapseknop",
+      "Ukorrekt svar 1": "Fra synapseknop til forgrening til akson til soma til dendrit",
+      "Ukorrekt svar 2": "Fra dendrit til akson til soma til forgrening til synapseknop",
+      "Ukorrekt svar 3": "Fra soma til akson til dendrit til forgrening til synapseknop"
+    },
+    {
+      "Spørgsmål": "Hvad er en nerve?",
+      "Korrekt svar": "Et bundt af flere neuroners aksoner eller dendritter",
+      "Ukorrekt svar 1": "Et neuron",
+      "Ukorrekt svar 2": "En impuls, der bevæger sig mod centralnervesystemet",
+      "Ukorrekt svar 3": "Et aktionspotentiale, der løber fra CNS til PNS"
+    },
+    {
+      "Spørgsmål": "Hvilken/hvilke gavnlige effekter har neuroner af at være beklædt med myelinskede?",
+      "Korrekt svar": "Øger impulshastigheden og modvirker kortslutning mellem aksoner",
+      "Ukorrekt svar 1": "Modvirker tilbageløb af impulser",
+      "Ukorrekt svar 2": "Det fremmer impulsoverførsel mellem aksoner",
+      "Ukorrekt svar 3": "Det beskytter de dendritiske celler"
+    },
+    {
+      "Spørgsmål": "Hvad hedder støttevævscellerne i det perifere nervesystem (PNS)?",
+      "Korrekt svar": "Schwannske celler",
+      "Ukorrekt svar 1": "Endotelceller",
+      "Ukorrekt svar 2": "Epitelceller",
+      "Ukorrekt svar 3": "Chondrocytter"
+    },
+    {
+      "Spørgsmål": "Hvilke hjerne-afsnit indgår i hjernestammen (truncus encephali)?",
+      "Korrekt svar": "Medulla oblongata, pons og mesencephalon",
+      "Ukorrekt svar 1": "Medulla oblongata, corpus callosum og diencephalon",
+      "Ukorrekt svar 2": "Medulla oblongata, Thalamus og hypothalamus",
+      "Ukorrekt svar 3": "Medulla spinalis, medulla oblongata og pons"
+    },
+    {
+      "Spørgsmål": "Hvilke 3 reflekscentre findes i medulla oblongata?",
+      "Korrekt svar": "Kredsløbsregulerende center, respirationscenter og brækcenter",
+      "Ukorrekt svar 1": "Appetitregulerende center, vasomotoriske center og ligevægtcenter",
+      "Ukorrekt svar 2": "Center for sprogforståelse, hørecenter og talecenter",
+      "Ukorrekt svar 3": "Vandbalanceregulerende center, temperaturregulerende center og appetitregulerende center"
+    },
+    {
+      "Spørgsmål": "Hvad er en neurotransmitter?",
+      "Korrekt svar": "Et signalstof, der fremmer eller hæmmer impulsoverfølsel til målcellen",
+      "Ukorrekt svar 1": "Et signalstof, der fremmer impulshastigheden nedover aksonet",
+      "Ukorrekt svar 2": "Et hormon",
+      "Ukorrekt svar 3": "Et enzym"
+    },
+    {
+      "Spørgsmål": "Hvad betyder membranpotentiale?",
+      "Korrekt svar": "Spændingsforskellen henover cellemembranen",
+      "Ukorrekt svar 1": "Trykket indenfor membrana synovialis",
+      "Ukorrekt svar 2": "Na+/K+-pumpens evne til at flytte ioner heover cellmembranen",
+      "Ukorrekt svar 3": "Cellemembranens tolerance-tærskel"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de områder i hjernen der danner cerebrospinalvæske?",
+      "Korrekt svar": "1 og 2 lateralventrikel, 3 ventrikel og 4 ventrikel",
+      "Ukorrekt svar 1": "1 og 2 ventrikel, 3 lateralventrikel og 4 ventrikel",
+      "Ukorrekt svar 2": "subaraknoidalrummet",
+      "Ukorrekt svar 3": "sinus sagittalis og subaraknoidalrummet"
+    },
+    {
+      "Spørgsmål": "Hvor høj bliver membanpotentialet (-spændingen under et aktionspotentiale?",
+      "Korrekt svar": "40 mV",
+      "Ukorrekt svar 1": "15 mV",
+      "Ukorrekt svar 2": "75 mV",
+      "Ukorrekt svar 3": "90-110 mV"
+    },
+    {
+      "Spørgsmål": "Hvad kendetegner refraktærperioden?",
+      "Korrekt svar": "Periode, hvor cellemembranen ikke kan danne et nyt aktionepotentiale",
+      "Ukorrekt svar 1": "Periode, hvor hvilemembranpotentialet depolariseres ",
+      "Ukorrekt svar 2": "Perioden, hvor neurotransmitter fjernes fra synapsekløften",
+      "Ukorrekt svar 3": "Periode med forhøjet synaptisk aktivitet"
+    },
+    {
+      "Spørgsmål": "Alle disse stoffer er neurotransmittere?",
+      "Korrekt svar": "GABA, Acetylkolin, Dopamin, Noradrenalin",
+      "Ukorrekt svar 1": "Acetylkolin, Noradrenalin, Laktat, Adrenalin",
+      "Ukorrekt svar 2": "Adrenalin, Noradrenalin, Oxytocin, Serotonin",
+      "Ukorrekt svar 3": "Adrenalin, Dopamin, Mucin, Serotonin"
+    },
+    {
+      "Spørgsmål": "Hvad er inhibitoriske synapser?",
+      "Korrekt svar": "Synapser, hvormed et neuron hæmmer et andet neurons impuls-dannelse",
+      "Ukorrekt svar 1": "Synapser, som de sker i Cortex inhibitus",
+      "Ukorrekt svar 2": "Synapser, hvormed et neuron fremmer et andet neurons impuls-dannelse",
+      "Ukorrekt svar 3": "Synasper, der hæmmer nerveimpulsens forløb henover aksonet"
+    }

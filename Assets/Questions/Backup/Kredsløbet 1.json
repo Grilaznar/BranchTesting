@@ -1,0 +1,133 @@
+  {
+      "Spørgsmål": "Nævn hjertets latinske navn",
+      "Korrekt svar": "cor",
+      "Ukorrekt svar 1": "corium",
+      "Ukorrekt svar 2": "cerumen",
+      "Ukorrekt svar 3": "cortis"
+    },
+    {
+      "Spørgsmål": "Nævn hjertets hovedfunktion",
+      "Korrekt svar": "at pumpe blodet rundet i kroppen",
+      "Ukorrekt svar 1": "at danne hormoner ",
+      "Ukorrekt svar 2": "at danne hjertelyde",
+      "Ukorrekt svar 3": "at \" banke voldsomt\" når man er forelsket"
+    },
+    {
+      "Spørgsmål": "Nævn kroppen største pulsåre",
+      "Korrekt svar": "aorta",
+      "Ukorrekt svar 1": "arteriole",
+      "Ukorrekt svar 2": "valva aorta",
+      "Ukorrekt svar 3": "coronar "
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de to kredsløb",
+      "Korrekt svar": "det lille kredsløb og det store kredsløb",
+      "Ukorrekt svar 1": "det røde kredsløb og det blå kredsløb",
+      "Ukorrekt svar 2": "det smalle kredsløb og det bredde kredsløb",
+      "Ukorrekt svar 3": "det højre kredsløb og det venstre kredsløb"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de to kredsløb",
+      "Korrekt svar": "legemskredsløbet og lungekredsløbet",
+      "Ukorrekt svar 1": "kropskredsløbet og organkredsløbet",
+      "Ukorrekt svar 2": "thorax kredsløbet og abdomen kredsløbet",
+      "Ukorrekt svar 3": "venepumpen og thoraxpumpen"
+    },
+    {
+      "Spørgsmål": "Hvor er hjertet placeret?",
+      "Korrekt svar": "i thorax bag sternum, hvilende på diaphragma",
+      "Ukorrekt svar 1": "i abdomen bag sternum, hvilende på diaphragma",
+      "Ukorrekt svar 2": "bag ved lungerne, hvilende på diaphragma",
+      "Ukorrekt svar 3": "foran ribbene bag lungerne i abdomen"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det store blodkar der afgår fra højre hjertekammer",
+      "Korrekt svar": "truncus pulmonalis",
+      "Ukorrekt svar 1": "v. pulmonalis ",
+      "Ukorrekt svar 2": "aorta",
+      "Ukorrekt svar 3": "vena cava superior"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det store blodkar der afgår fra venstre hjertekammer",
+      "Korrekt svar": "aorta",
+      "Ukorrekt svar 1": "truncus pulmonalis",
+      "Ukorrekt svar 2": "v. pulmonalis",
+      "Ukorrekt svar 3": "a. subclavia sinister"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske for nedre hulvene",
+      "Korrekt svar": "vena cava inferior",
+      "Ukorrekt svar 1": "vena cava superior",
+      "Ukorrekt svar 2": "aorta",
+      "Ukorrekt svar 3": "truncus pulmonalis"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for vena cava superior",
+      "Korrekt svar": "øvre hulvene ",
+      "Ukorrekt svar 1": "nedre hulvene",
+      "Ukorrekt svar 2": "lungevene",
+      "Ukorrekt svar 3": "lungearterie"
+    },
+    {
+      "Spørgsmål": "Hjertet er opbygget som ",
+      "Korrekt svar": "en hørje- og en venstre pumper",
+      "Ukorrekt svar 1": "en stor pumpe",
+      "Ukorrekt svar 2": "fire små pumper",
+      "Ukorrekt svar 3": "en øvre pumpe og en nedre pumpe, adskilt af septum"
+    },
+    {
+      "Spørgsmål": "Hjertet ligger lidt skævt i thorax med ",
+      "Korrekt svar": "2/3 i venstre side og 1/3 i højre side ",
+      "Ukorrekt svar 1": "1/4 i venstre side og 3/4 i højre side",
+      "Ukorrekt svar 2": "3/5 i venstre side og 2/5 i højre side",
+      "Ukorrekt svar 3": "2/3 mod diaphragma og 1/3 mod lungerne"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de tre lag i hjertevæggen",
+      "Korrekt svar": "perikardiets to lag, myocardium og endocardium",
+      "Ukorrekt svar 1": "epicardiet, endometriet og myometriet",
+      "Ukorrekt svar 2": "perineum, periost og endost",
+      "Ukorrekt svar 3": "peritoneum, perineum og endometriet"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har væsken melem perikardiets to lag?",
+      "Korrekt svar": "nedsætter gnidningsmodstanden",
+      "Ukorrekt svar 1": "øger gnidningsmodstanden",
+      "Ukorrekt svar 2": "ernærer hjertet",
+      "Ukorrekt svar 3": "nedbryder mikroorganismer"
+    },
+    {
+      "Spørgsmål": "Hjertet er inddelt i ",
+      "Korrekt svar": "to forkamre og to hjertekamre",
+      "Ukorrekt svar 1": "et bagkammer og et forkammer",
+      "Ukorrekt svar 2": "to forkamre og et hjertekammer",
+      "Ukorrekt svar 3": "fire hjertekamre"
+    },
+    {
+      "Spørgsmål": "Hjertet har ialt ",
+      "Korrekt svar": "fire klapper",
+      "Ukorrekt svar 1": "to klapper ",
+      "Ukorrekt svar 2": "et sæt klapper",
+      "Ukorrekt svar 3": "to sæt klapper"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den epiteltype der beklæder hjertekammernes indre overflade",
+      "Korrekt svar": "endotel, enlaget pladeepitel",
+      "Ukorrekt svar 1": "pseudolaget cylnderepitel",
+      "Ukorrekt svar 2": "forhornet flerlaget pladeepitel",
+      "Ukorrekt svar 3": "kubisk overgangsepitel"
+    },
+    {
+      "Spørgsmål": "Hvilke blodkar forsyner hjertet med ilt og nærinsstoffer?",
+      "Korrekt svar": "koronararterierne",
+      "Ukorrekt svar 1": "aorta",
+      "Ukorrekt svar 2": "truncus pulmonalis ",
+      "Ukorrekt svar 3": "kapillærermusklerne"
+    },
+    {
+      "Spørgsmål": "Myocardiet er mest kraftig i ",
+      "Korrekt svar": "venstre side ",
+      "Ukorrekt svar 1": "højre side ",
+      "Ukorrekt svar 2": "i højre atrium ",
+      "Ukorrekt svar 3": "ventriculus dextra"
+    }

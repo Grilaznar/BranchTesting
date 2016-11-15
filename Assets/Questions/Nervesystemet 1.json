@@ -1,0 +1,80 @@
+   {
+      "questionText": "Hvad er et neuron?",
+      "answers":["En nervecelle", "En nerve", "Et transmitterstof", "En elektrisk impuls"]
+    }
+    {
+      "questionText": "Af hvilke dele består et neuron?",
+      "answers":["Soma, dendritter, akson, synapseknopper", "Cellekrop, myelinskede og centralfure", "Medulla spinalis, medulla oblongata, pons og mesencephalon", "Diencephalon, mesencephalon og encephalon"]
+    }
+    {
+      "questionText": "Hvad er motoriske neuroner?",
+      "answers":["Neuroner, der sender impulser fra CNS", "Neuroner, der sender impulser mod CNS", "Neuroner, der benytter transmitterstoffet acetylkolin", "Afferente neuroner"]
+    }
+    {
+      "questionText": "Hvad er sensoriske neuroner",
+      "answers":["Neuroner, der sender impulser mod CNS", "Neuroner, der sender impulser fra CNS", "Neuroner, der benytter transmitterstoffet noradrenalin", "Efferente neuroner"]
+    }
+    {
+      "questionText": "Hvad hedder de to dele af de autonome nervesystem?",
+      "answers":["Sympaticus og parasympaticus", "Somatiske og sympatiske nervesystem", "Somatiske og centrale nervesystem", "Encephalon og medulla spinalis"]
+    }
+    {
+      "questionText": "I hvilke situationer er der forhøjet aktivitet i det sympatiske nervesystem?",
+      "answers":["I fysisk eller mentalt stressende situationer", "Under søvn", "I forbindelse med fordøjelse af føde", "Om natten"]
+    }
+    {
+      "questionText": "I hvilke situationer er der forhøjet aktivitet i det parasympatiske nervesystem?",
+      "answers":["Under søvn, hvile og fordøjelse af føde", "I forbindelse med angst og/eller vrede", " I stress-situationer", "I forbindelse med flugt"]
+    }
+    {
+      "questionText": "I hvilken retning løber nerveimpulsen?",
+      "answers":["Fra dendrit til soma til akson til til forgrening til synapseknop", "Fra synapseknop til forgrening til akson til soma til dendrit", "Fra dendrit til akson til soma til forgrening til synapseknop", "Fra soma til akson til dendrit til forgrening til synapseknop"]
+    }
+    {
+      "questionText": "Hvad er en nerve?",
+      "answers":["Et bundt af flere neuroners aksoner eller dendritter", "Et neuron", "En impuls, der bevæger sig mod centralnervesystemet", "Et aktionspotentiale, der løber fra CNS til PNS"]
+    }
+    {
+      "questionText": "Hvilken/hvilke gavnlige effekter har neuroner af at være beklædt med myelinskede?",
+      "answers":["Øger impulshastigheden og modvirker kortslutning mellem aksoner", "Modvirker tilbageløb af impulser", "Det fremmer impulsoverførsel mellem aksoner", "Det beskytter de dendritiske celler"]
+    }
+    {
+      "questionText": "Hvad hedder støttevævscellerne i det perifere nervesystem (PNS)?",
+      "answers":["Schwannske celler", "Endotelceller", "Epitelceller", "Chondrocytter"]
+    }
+    {
+      "questionText": "Hvilke hjerne-afsnit indgår i hjernestammen (truncus encephali)?",
+      "answers":["Medulla oblongata, pons og mesencephalon", "Medulla oblongata, corpus callosum og diencephalon", "Medulla oblongata, Thalamus og hypothalamus", "Medulla spinalis, medulla oblongata og pons"]
+    }
+    {
+      "questionText": "Hvilke 3 reflekscentre findes i medulla oblongata?",
+      "answers":["Kredsløbsregulerende center, respirationscenter og brækcenter", "Appetitregulerende center, vasomotoriske center og ligevægtcenter", "Center for sprogforståelse, hørecenter og talecenter", "Vandbalanceregulerende center, temperaturregulerende center og appetitregulerende center"]
+    }
+    {
+      "questionText": "Hvad er en neurotransmitter?",
+      "answers":["Et signalstof, der fremmer eller hæmmer impulsoverfølsel til målcellen", "Et signalstof, der fremmer impulshastigheden nedover aksonet", "Et hormon", "Et enzym"]
+    }
+    {
+      "questionText": "Hvad betyder membranpotentiale?",
+      "answers":["Spændingsforskellen henover cellemembranen", "Trykket indenfor membrana synovialis", "Na+/K+-pumpens evne til at flytte ioner heover cellmembranen", "Cellemembranens tolerance-tærskel"]
+    }
+    {
+      "questionText": "Hvad hedder de områder i hjernen der danner cerebrospinalvæske?",
+      "answers":["1 og 2 lateralventrikel, 3 ventrikel og 4 ventrikel", "1 og 2 ventrikel, 3 lateralventrikel og 4 ventrikel", "subaraknoidalrummet", "sinus sagittalis og subaraknoidalrummet"]
+    }
+    {
+      "questionText": "Hvor høj bliver membanpotentialet (-spændingen under et aktionspotentiale?",
+      "answers":["40 mV", "15 mV", "75 mV", "90-110 mV"]
+    }
+    {
+      "questionText": "Hvad kendetegner refraktærperioden?",
+      "answers":["Periode, hvor cellemembranen ikke kan danne et nyt aktionepotentiale", "Periode, hvor hvilemembranpotentialet depolariseres ", "Perioden, hvor neurotransmitter fjernes fra synapsekløften", "Periode med forhøjet synaptisk aktivitet"]
+    }
+    {
+      "questionText": "Alle disse stoffer er neurotransmittere?",
+      "answers":["GABA, Acetylkolin, Dopamin, Noradrenalin", "Acetylkolin, Noradrenalin, Laktat, Adrenalin", "Adrenalin, Noradrenalin, Oxytocin, Serotonin", "Adrenalin, Dopamin, Mucin, Serotonin"]
+    }
+    {
+      "questionText": "Hvad er inhibitoriske synapser?",
+      "answers":["Synapser, hvormed et neuron hæmmer et andet neurons impuls-dannelse", "Synapser, som de sker i Cortex inhibitus", "Synapser, hvormed et neuron fremmer et andet neurons impuls-dannelse", "Synasper, der hæmmer nerveimpulsens forløb henover aksonet"]
+    }

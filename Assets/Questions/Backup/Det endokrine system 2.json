@@ -1,0 +1,231 @@
+{
+      "Spørgsmål": "Hvilket gælder ikke for kortisol regulering?",
+      "Korrekt svar": "kortisol udskilles om eftermiddagen",
+      "Ukorrekt svar 1": "kortisol udskilles om morgenen",
+      "Ukorrekt svar 2": "hypothalamus udskiller CRH",
+      "Ukorrekt svar 3": "hypofysen udskiller ACTH"
+    },
+    {
+      "Spørgsmål": "Calcium er ikke nødvendig for ",
+      "Korrekt svar": "blodsukker regulering",
+      "Ukorrekt svar 1": "muskelkontraktion",
+      "Ukorrekt svar 2": "impulsoverførsel",
+      "Ukorrekt svar 3": "koagulation"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse er et peptidhormon/proteinhormon",
+      "Korrekt svar": "Glukagon",
+      "Ukorrekt svar 1": "Østrogen",
+      "Ukorrekt svar 2": "T3",
+      "Ukorrekt svar 3": "Adrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilket af disse er et steroidhormonhormon",
+      "Korrekt svar": "Testosteron",
+      "Ukorrekt svar 1": "Noradrenalin",
+      "Ukorrekt svar 2": "Insulin",
+      "Ukorrekt svar 3": "Glukagon"
+    },
+    {
+      "Spørgsmål": "Hvilke af disse er et katekolamin",
+      "Korrekt svar": "Adrenalin",
+      "Ukorrekt svar 1": "T4",
+      "Ukorrekt svar 2": "Østradiol",
+      "Ukorrekt svar 3": "Insulin"
+    },
+    {
+      "Spørgsmål": "Disse hormoner er vandopløselige",
+      "Korrekt svar": "Katekolaminer",
+      "Ukorrekt svar 1": "Steriodhormoner",
+      "Ukorrekt svar 2": "Stofskiftehormoner",
+      "Ukorrekt svar 3": "Kønshormoner"
+    },
+    {
+      "Spørgsmål": "Disse hormoner er fedtopløselige",
+      "Korrekt svar": "Steroidhormoner",
+      "Ukorrekt svar 1": "Katekolaminer",
+      "Ukorrekt svar 2": "Peptidhormoner",
+      "Ukorrekt svar 3": "Glukagonog insulin"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har adrenalin og noradrenalin ikke?",
+      "Korrekt svar": "hæmmer immunsystemet",
+      "Ukorrekt svar 1": "øger respirationsfrekvensen",
+      "Ukorrekt svar 2": "kontraherer blodkar i hud og mave-tarm kanal",
+      "Ukorrekt svar 3": "øger tømning af fedt- og glykogendepoter"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har kortisol ikke?",
+      "Korrekt svar": "øger cellernes optag af glukose",
+      "Ukorrekt svar 1": "sænker cellernes optag af glukose",
+      "Ukorrekt svar 2": "nedbryder fedtdepoter",
+      "Ukorrekt svar 3": "øger omdannelsen af glycerol til glukose"
+    },
+    {
+      "Spørgsmål": "Hvilken påstand er gælder ikke for vandopløselige hormonerhormoner",
+      "Korrekt svar": "Hormon-receptor-komplekset stimulerer til proteinsyntese",
+      "Ukorrekt svar 1": "Hormon-receptor-kompleks aktiverer allerede eksistende inaktive intracellulære enzymer",
+      "Ukorrekt svar 2": "Hormonerne binder til receptor på cellemembranen",
+      "Ukorrekt svar 3": "Hormonerne findes frit opløst i blodplasma"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon danner koglekirtlen?",
+      "Korrekt svar": "melatonin",
+      "Ukorrekt svar 1": "serotonin",
+      "Ukorrekt svar 2": "insulin",
+      "Ukorrekt svar 3": "aldosteron"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet TRH?",
+      "Korrekt svar": "i hypothalamus ",
+      "Ukorrekt svar 1": "i hypofysen ",
+      "Ukorrekt svar 2": "i skjoldbruskkirtlen ",
+      "Ukorrekt svar 3": "i binyrebarken"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet GnRH?",
+      "Korrekt svar": "i hypothalamus ",
+      "Ukorrekt svar 1": "i hypofysen ",
+      "Ukorrekt svar 2": "i skjoldbruskkirtlen ",
+      "Ukorrekt svar 3": "i binyrebarken"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet ADH?",
+      "Korrekt svar": "i hypothalamus ",
+      "Ukorrekt svar 1": "i hypofysebaglappen",
+      "Ukorrekt svar 2": "i hypofyseforlappen",
+      "Ukorrekt svar 3": "i binyrebarken"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet oxytocin?",
+      "Korrekt svar": "i hypothalamus ",
+      "Ukorrekt svar 1": "i hypofysebaglappen",
+      "Ukorrekt svar 2": "i hypofyseforlappen",
+      "Ukorrekt svar 3": "i binyrebarken"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon danner pancreas betaceller?",
+      "Korrekt svar": "insulin",
+      "Ukorrekt svar 1": "glukagon",
+      "Ukorrekt svar 2": "glykogen",
+      "Ukorrekt svar 3": "lipase"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon danner pancreas alfaceller?",
+      "Korrekt svar": "glukagon",
+      "Ukorrekt svar 1": "insulin",
+      "Ukorrekt svar 2": "glykogen ",
+      "Ukorrekt svar 3": "peptidase"
+    },
+    {
+      "Spørgsmål": "Hvilket hormon danner glandulae parathyroideae?",
+      "Korrekt svar": "PTH",
+      "Ukorrekt svar 1": "ACTH",
+      "Ukorrekt svar 2": "MSH",
+      "Ukorrekt svar 3": "ADH"
+    },
+    {
+      "Spørgsmål": "Hvor dannes hormonet calcitonin?",
+      "Korrekt svar": "glandula thyroidea",
+      "Ukorrekt svar 1": "glandulae parathyroideae",
+      "Ukorrekt svar 2": "pancreas",
+      "Ukorrekt svar 3": "glandula suprarenalis"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har kortisol ikke?",
+      "Korrekt svar": "sænke blodsukker niveauet",
+      "Ukorrekt svar 1": "hæmme immunsystemet",
+      "Ukorrekt svar 2": "hæmme insulins virkning",
+      "Ukorrekt svar 3": "omdanne proteiner til glukose"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har kortisol ikke?",
+      "Korrekt svar": "sænke fedtforbrændingen ",
+      "Ukorrekt svar 1": "øge blodets indhold af glukose",
+      "Ukorrekt svar 2": "øge tømning af fedtdepoter",
+      "Ukorrekt svar 3": "omdanne glycerol til glukose"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har aldosteron?",
+      "Korrekt svar": "øger reasorptionen af Na+og sekretion af K+ i renes",
+      "Ukorrekt svar 1": "omdanner proteiner til glukose",
+      "Ukorrekt svar 2": "øger tømning af glykogen depoter ",
+      "Ukorrekt svar 3": "aktiverer D-vitamin"
+    },
+    {
+      "Spørgsmål": "Følgende hormoner dannes i binyrerne",
+      "Korrekt svar": "Kortisol, aldosteron og testosteron",
+      "Ukorrekt svar 1": "Adrenalin ogoradrenalin",
+      "Ukorrekt svar 2": "Kortisol, calcitonin og PTH",
+      "Ukorrekt svar 3": "EPO og Angiotensin II"
+    },
+    {
+      "Spørgsmål": "Kortisoll fremmer IKKE:",
+      "Korrekt svar": "Nedbrydning af glykogen til glukose",
+      "Ukorrekt svar 1": "Nedbrydning af vævsproteiner",
+      "Ukorrekt svar 2": "Hæmning af insulins virkning",
+      "Ukorrekt svar 3": "Nedbrydning af fedtdepoter"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har adrenalin ikke?",
+      "Korrekt svar": "hæmmer  infektionsforsvaret",
+      "Ukorrekt svar 1": "øger blodtrykket",
+      "Ukorrekt svar 2": "hæmmer fordøjelsen",
+      "Ukorrekt svar 3": "dilaterer bronkier"
+    },
+    {
+      "Spørgsmål": "Kortisoll fremmer IKKE:",
+      "Korrekt svar": "Glykogenolysen",
+      "Ukorrekt svar 1": "Glykoneogenesen",
+      "Ukorrekt svar 2": "Hæmmer virkningen af histamin",
+      "Ukorrekt svar 3": "Fremmer omdannelse ag glycerol til glukose"
+    },
+    {
+      "Spørgsmål": "Adrenalin fremmer IKKE",
+      "Korrekt svar": "Øget fordøjelse",
+      "Ukorrekt svar 1": "Øget hjerteaktivitet ",
+      "Ukorrekt svar 2": "Kontraktion af perifere blodkar",
+      "Ukorrekt svar 3": "Nedbrydinng af fedt- og glykogendepoter"
+    },
+    {
+      "Spørgsmål": "Adrenalin fremmer IKKE",
+      "Korrekt svar": "Fordøjelsen",
+      "Ukorrekt svar 1": "Øget respirationsfrekvens og -dybde",
+      "Ukorrekt svar 2": "Dilation af koronararterier",
+      "Ukorrekt svar 3": "Øget bronkiediameter"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har glukagon ikke?",
+      "Korrekt svar": "sænker blodets glukose indhold",
+      "Ukorrekt svar 1": "tømmer glykogendepoter",
+      "Ukorrekt svar 2": "tømmer fedtdepoter",
+      "Ukorrekt svar 3": "omdanner aminosyrer til glukose"
+    },
+    {
+      "Spørgsmål": "Hvilken feedback regulering er usand",
+      "Korrekt svar": "Atrialt natriuretisk peptid udskilles fra hjertemuskulaturen ved ringe blodvolumen i hjertets forkamre",
+      "Ukorrekt svar 1": "Sekretin udskillelsen fra duodenum ved lave pH-værdier",
+      "Ukorrekt svar 2": "Blodets iltindhold regulere nyrenes EPO-udskillelse",
+      "Ukorrekt svar 3": "CCK udskilles fra duodenum, når fedtindholdet i dette tarmafsnit er højt"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har calcitonin?",
+      "Korrekt svar": "sænker Ca++ koncentrationen i blodet",
+      "Ukorrekt svar 1": "hæver Ca++ koncentrationen i blodet",
+      "Ukorrekt svar 2": "øger optagelsen af Ca++ fra tarm til blod",
+      "Ukorrekt svar 3": "øger appetitten"
+    },
+    {
+      "Spørgsmål": "Udskillelsen af dette hormon fremmes IKKE af nervesystemet",
+      "Korrekt svar": "MSH",
+      "Ukorrekt svar 1": "Gastrin",
+      "Ukorrekt svar 2": "Adrenalin",
+      "Ukorrekt svar 3": "Insulin"
+    },
+    {
+      "Spørgsmål": "Melatonin",
+      "Korrekt svar": "Udskilles af epifysen",
+      "Ukorrekt svar 1": "Udskilles af hypofysen",
+      "Ukorrekt svar 2": "Udskilles af hypothalamus",
+      "Ukorrekt svar 3": "Udskilles af melanocytter"
+    }

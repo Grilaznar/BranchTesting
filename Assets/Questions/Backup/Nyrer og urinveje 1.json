@@ -1,0 +1,43 @@
+
+    {
+      "Spørgsmål": "Hvad hedder nyrer på latin",
+      "Korrekt svar": "Renes",
+      "Ukorrekt svar 1": "Renalis",
+      "Ukorrekt svar 2": "Ureter",
+      "Ukorrekt svar 3": "Urethra"
+    },
+    {
+      "Spørgsmål": "Hvad hedder urinrør på latin?",
+      "Korrekt svar": "Urethra",
+      "Ukorrekt svar 1": "Ureter",
+      "Ukorrekt svar 2": "Uterus",
+      "Ukorrekt svar 3": "Tuba uterina"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse funktioner varetages IKKE af nyrene",
+      "Korrekt svar": "Dannelse af antidiuretiske hormon (ADH)",
+      "Ukorrekt svar 1": "Fjerne affaldsstoffer, lægemidler mm",
+      "Ukorrekt svar 2": "Aktiverer D-vitamin",
+      "Ukorrekt svar 3": "Danne EPO"
+    },
+    {
+      "Spørgsmål": "Hvilke af disse par er ikke korrekte",
+      "Korrekt svar": "Medulla renalis - Nyremidte",
+      "Ukorrekt svar 1": "Pelvis renalis - Nyrebækken",
+      "Ukorrekt svar 2": "Ureter - Urinleder",
+      "Ukorrekt svar 3": "Splen - Milt"
+    },
+    {
+      "Spørgsmål": "Hvilke af disse stoffer forekommer ikke i urin",
+      "Korrekt svar": "Bilibilin",
+      "Ukorrekt svar 1": "Urobilin",
+      "Ukorrekt svar 2": "Kreatinin",
+      "Ukorrekt svar 3": "Natriumioner"
+    },
+    {
+      "Spørgsmål": "Hvilken ion optræder typisk i højest koncentration i urin?",
+      "Korrekt svar": "Natriumionen",
+      "Ukorrekt svar 1": "Klorionen",
+      "Ukorrekt svar 2": "Kaliumionen",
+      "Ukorrekt svar 3": "Calciumionen"
+    }

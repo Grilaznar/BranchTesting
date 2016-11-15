@@ -1,0 +1,447 @@
+{
+      "Spørgsmål": "Hvilket af nedenstående stoffer findes ikke i galde?",
+      "Korrekt svar": "enzym",
+      "Ukorrekt svar 1": "galdesure salte",
+      "Ukorrekt svar 2": "vand",
+      "Ukorrekt svar 3": "mucin"
+    },
+    {
+      "Spørgsmål": "Hvad betyder det enterohepatiske kredsløb?",
+      "Korrekt svar": "at de galdesure salte føres tilbage til hepar fra tarmen",
+      "Ukorrekt svar 1": "at de galdesure salte nedbrydes i tarmen",
+      "Ukorrekt svar 2": "at de galdesure salte føres fra leveren til galdeblæren",
+      "Ukorrekt svar 3": "at galden løber fra leveren til tyndtarmen"
+    },
+    {
+      "Spørgsmål": "Hvad hedder galdegangen der fører galdesure salte til duodenum?",
+      "Korrekt svar": "ductus choledochus",
+      "Ukorrekt svar 1": "ductus hepaticus",
+      "Ukorrekt svar 2": "ductuscysticus",
+      "Ukorrekt svar 3": "ductus pancreatis"
+    },
+    {
+      "Spørgsmål": "Hvor findes papilla Vateri også kaldet papilla duodeni major?",
+      "Korrekt svar": "i duodenum",
+      "Ukorrekt svar 1": "i ventriculs",
+      "Ukorrekt svar 2": "i jejunum",
+      "Ukorrekt svar 3": "i ileum"
+    },
+    {
+      "Spørgsmål": "Hvilken epitel celletype findes på tungen og i mundhulen?",
+      "Korrekt svar": "flerlaget pladeepitel",
+      "Ukorrekt svar 1": "flerlaget forhornet pladeepitel",
+      "Ukorrekt svar 2": "pladeepitel",
+      "Ukorrekt svar 3": "cylinderepitel"
+    },
+    {
+      "Spørgsmål": "Tungen sidder fast på:",
+      "Korrekt svar": "os hyoideum",
+      "Ukorrekt svar 1": "epiglottis",
+      "Ukorrekt svar 2": "mandibula",
+      "Ukorrekt svar 3": "tværstribet muskulatur"
+    },
+    {
+      "Spørgsmål": "Hvor mange store muskellag findes der i mavesækken?",
+      "Korrekt svar": "tre lag",
+      "Ukorrekt svar 1": "et lag",
+      "Ukorrekt svar 2": "to lag",
+      "Ukorrekt svar 3": "fire lag"
+    },
+    {
+      "Spørgsmål": "Nævn hvilket produkt der dannes af hovedceller i mavesækken",
+      "Korrekt svar": "pepsinogen",
+      "Ukorrekt svar 1": "trypsinogen",
+      "Ukorrekt svar 2": "intrinsic faktor",
+      "Ukorrekt svar 3": "saltsyre"
+    },
+    {
+      "Spørgsmål": "Hvilket af nedenstående produkter dannes ikke i mavesæken?",
+      "Korrekt svar": "trypsin",
+      "Ukorrekt svar 1": "pepsin",
+      "Ukorrekt svar 2": "gastrin",
+      "Ukorrekt svar 3": "intrinsic faktor"
+    },
+    {
+      "Spørgsmål": "Hvilket stof dannes af celler i mavesækken til beskyttelse mod saltsyren?",
+      "Korrekt svar": "HCO3-",
+      "Ukorrekt svar 1": "CO2",
+      "Ukorrekt svar 2": "HCl",
+      "Ukorrekt svar 3": "H2CO3"
+    },
+    {
+      "Spørgsmål": "Hvilken størrelse har pH i tyndtarmen?",
+      "Korrekt svar": "7",
+      "Ukorrekt svar 1": "2-3",
+      "Ukorrekt svar 2": "5-6",
+      "Ukorrekt svar 3": "8-9"
+    },
+    {
+      "Spørgsmål": "Appendix vermiformis er placeret med relation til",
+      "Korrekt svar": "caecum",
+      "Ukorrekt svar 1": "jejunum",
+      "Ukorrekt svar 2": "duodenum",
+      "Ukorrekt svar 3": "rectum"
+    },
+    {
+      "Spørgsmål": "Tolvfingertarmen(duodenum) har direkte forbindelse til",
+      "Korrekt svar": "mavesæk, jejunum, bugspytkirtel og galdeveje",
+      "Ukorrekt svar 1": "spiserør og tyktarm",
+      "Ukorrekt svar 2": "lever, tyktarm og ileum",
+      "Ukorrekt svar 3": "bugspytkirtel, mavesæk og caecum"
+    },
+    {
+      "Spørgsmål": "Den største del af spiserøret er placeret ",
+      "Korrekt svar": "i brystskillevæggen(mediastinum)",
+      "Ukorrekt svar 1": "i halsen",
+      "Ukorrekt svar 2": "i columna vertebralis",
+      "Ukorrekt svar 3": "i abdomen"
+    },
+    {
+      "Spørgsmål": "Når føden er tygget og sunket",
+      "Korrekt svar": "er den stadigvæk uden for kroppen",
+      "Ukorrekt svar 1": "er den optaget i blodbanen",
+      "Ukorrekt svar 2": "er den færdigbehandlet",
+      "Ukorrekt svar 3": "er størstedelen af fordøjelsen færdig"
+    },
+    {
+      "Spørgsmål": "Produktionen af fordøjelsesenzymer sættes i vejret ",
+      "Korrekt svar": "via parasympaticus, ved syn, smag og lugt af mad ",
+      "Ukorrekt svar 1": "via sympatiske impulser fra appetitcentret",
+      "Ukorrekt svar 2": "via sensoriske impulser fra smagsløgene",
+      "Ukorrekt svar 3": "via fordøjelseshormoner fra hjernestammen"
+    },
+    {
+      "Spørgsmål": "Tænderne er opbygget af ",
+      "Korrekt svar": "dentin og emalje",
+      "Ukorrekt svar 1": "gingiva ",
+      "Ukorrekt svar 2": "kalk",
+      "Ukorrekt svar 3": "brusk og kalk"
+    },
+    {
+      "Spørgsmål": "De tre par spytkirtler er placeret",
+      "Korrekt svar": "foran øret, under kæben og under tungen",
+      "Ukorrekt svar 1": "foran øret, over tungen og bag overkæben",
+      "Ukorrekt svar 2": "bagved øret, under tungen og over kæben",
+      "Ukorrekt svar 3": "i overkæben, i underkæben og bagved øret"
+    },
+    {
+      "Spørgsmål": "Gl. parotidea(ørespytkirtlen) tømmer sig ",
+      "Korrekt svar": "ud for de bageste kindtænder i overmunden",
+      "Ukorrekt svar 1": "under tungen",
+      "Ukorrekt svar 2": "ud for de forreste kindtænder i undermunden",
+      "Ukorrekt svar 3": "via udførselsgange i ganen"
+    },
+    {
+      "Spørgsmål": "Under synkeprocessen lukker",
+      "Korrekt svar": "lukker den bløde gane og strubelåget",
+      "Ukorrekt svar 1": "åbner maveporten",
+      "Ukorrekt svar 2": "åbner luftrøret",
+      "Ukorrekt svar 3": "ophører spiserørets peristaltik"
+    },
+    {
+      "Spørgsmål": "Under synkeprocessen ",
+      "Korrekt svar": "bevæges tungen opad og bagud",
+      "Ukorrekt svar 1": "tages en dyb indånding",
+      "Ukorrekt svar 2": "afslappes tungen",
+      "Ukorrekt svar 3": "ophører spytdannelsen"
+    },
+    {
+      "Spørgsmål": "Oesophagus har til opgave at ",
+      "Korrekt svar": "transportere føden fra svælget til mavesækken",
+      "Ukorrekt svar 1": "tilsætte føden enzymer",
+      "Ukorrekt svar 2": "bearbejde føden mekanisk",
+      "Ukorrekt svar 3": "tilsætte føden hormoner"
+    },
+    {
+      "Spørgsmål": "Mavesækkens krumme sider benævnes",
+      "Korrekt svar": "curvatura major og curvatura minor",
+      "Ukorrekt svar 1": "corpus og fundus",
+      "Ukorrekt svar 2": "saecum og soecum",
+      "Ukorrekt svar 3": "maximus og minimus"
+    },
+    {
+      "Spørgsmål": "I maveslimhinden findes følgende celletyper",
+      "Korrekt svar": "hovedceller, parietalceller, slim- og gastrinproducerende celler ",
+      "Ukorrekt svar 1": "hovedceller, parietalceller, alfa- og betaceller",
+      "Ukorrekt svar 2": "hovedceller, parietalceller og pladeepitelceller",
+      "Ukorrekt svar 3": "bægerceller, hovedceller og mikrogliaceller"
+    },
+    {
+      "Spørgsmål": "I maveslimhindens parietalceller dannes",
+      "Korrekt svar": "intrinsic faktor og HCl",
+      "Ukorrekt svar 1": "gastrin",
+      "Ukorrekt svar 2": "trypsinogen",
+      "Ukorrekt svar 3": "pepsinogen"
+    },
+    {
+      "Spørgsmål": "Hvilket af nedenstående punkter beskriver ikke mavesækkens funktioner?",
+      "Korrekt svar": "dannelse af sekretin og amylase",
+      "Ukorrekt svar 1": "dannelse af pepsinogen og intrinsic faktor",
+      "Ukorrekt svar 2": "fødereservoir, slimproduktion og saltsyre produktion",
+      "Ukorrekt svar 3": "enzymdannelse og dræbe mikroorganismer "
+    },
+    {
+      "Spørgsmål": "Mavesækkens sekretion aktiveres og fremmes af",
+      "Korrekt svar": "parasympatiske impulser via n. vagus og gastrinfrigørelse",
+      "Ukorrekt svar 1": "høj aktivitet i ædecellerne",
+      "Ukorrekt svar 2": "insulin samt høj sympaticus aktivitet",
+      "Ukorrekt svar 3": "nerveimpulser i nervus pylori"
+    },
+    {
+      "Spørgsmål": "Den lukkemuskel, der regulerer mavetømningen, er placeret i ",
+      "Korrekt svar": "pylorus",
+      "Ukorrekt svar 1": "fundus ventriculi",
+      "Ukorrekt svar 2": "cardia",
+      "Ukorrekt svar 3": "papilla duodeni major"
+    },
+    {
+      "Spørgsmål": "Den største absorption af næringsstoffer finder sted i ",
+      "Korrekt svar": "tyndtarmen",
+      "Ukorrekt svar 1": "mavesækken",
+      "Ukorrekt svar 2": "tyktarmen ",
+      "Ukorrekt svar 3": "tyktarmen og endetarmen"
+    },
+    {
+      "Spørgsmål": "Tyndtarmsperistaltikken har følgende opgaver",
+      "Korrekt svar": "at transportere føden, blande føden med enzymer samt tømning af tarmen",
+      "Ukorrekt svar 1": "transport af føden samt muskelkontraktion til gavn for kredsløbet",
+      "Ukorrekt svar 2": "transport af føden samt begrænsning af mikrofloraen",
+      "Ukorrekt svar 3": "transport af føden samt fastlåsning af tarmen"
+    },
+    {
+      "Spørgsmål": "Enteropeptidase har til opgave at",
+      "Korrekt svar": "aktivere trypsinogen til trypsin fra bugspytkirtlen",
+      "Ukorrekt svar 1": "nedbryde DNA",
+      "Ukorrekt svar 2": "styre galde dannelsen",
+      "Ukorrekt svar 3": "spalte proteiner til peptider"
+    },
+    {
+      "Spørgsmål": "Hormonet sekretin dannes i",
+      "Korrekt svar": "duodenum",
+      "Ukorrekt svar 1": "ventriculus",
+      "Ukorrekt svar 2": "hepar",
+      "Ukorrekt svar 3": "jejunum og ileum"
+    },
+    {
+      "Spørgsmål": "Hormonet skretin har til opgave, at",
+      "Korrekt svar": "hæmme mavesækkens sekretion og peristaltik",
+      "Ukorrekt svar 1": "stimulere til galdeudtømning",
+      "Ukorrekt svar 2": "øge aktiviteten i mavesækken",
+      "Ukorrekt svar 3": "stimulere til øget appetit"
+    },
+    {
+      "Spørgsmål": "Cholecystokinin, CCK",
+      "Korrekt svar": "stimulerer til produktion af galde og bugspyt",
+      "Ukorrekt svar 1": "lukker galdegangene",
+      "Ukorrekt svar 2": "frigøres især når chymus er fedtfattig",
+      "Ukorrekt svar 3": "øger aktiviteten i mavesækken"
+    },
+    {
+      "Spørgsmål": "I den nederste del af tyndtarmen, ileum",
+      "Korrekt svar": "optages galdesalte, cholesterol og B-12 vitamin",
+      "Ukorrekt svar 1": "tilsættes enteropeptidaser",
+      "Ukorrekt svar 2": "nedbrydes brugte røde blodceller",
+      "Ukorrekt svar 3": "produceres intrinsic factor af særlige tarmceller"
+    },
+    {
+      "Spørgsmål": "Mennesker med laktoseintolerans får ved indtag af laktose ",
+      "Korrekt svar": "mavesmerter, diare og flatulens",
+      "Ukorrekt svar 1": "for højt blodsukker",
+      "Ukorrekt svar 2": "får for højt mælkesukker i blodet",
+      "Ukorrekt svar 3": "ekstra tilskud af laktase enzymer"
+    },
+    {
+      "Spørgsmål": "Personer med voldsom opkast kan blive truet af ",
+      "Korrekt svar": "baseforgiftning, fordi der mistes H+ ioner",
+      "Ukorrekt svar 1": "syreforgiftning, fordi der mistes H+ ioner ",
+      "Ukorrekt svar 2": "syreforgiftning, fordi der mistesHCO3-",
+      "undefined": "baseforgiftning, fordi der mistes HCO3-"
+    },
+    {
+      "Spørgsmål": "Hvad hedder den bakterie der kan leve i mavesækken og tolvfingertarmen og give mavesår?",
+      "Korrekt svar": "helicobacter pylori",
+      "Ukorrekt svar 1": "staphylococcus aureus",
+      "Ukorrekt svar 2": "salmonella interitidis",
+      "Ukorrekt svar 3": "campylobacter jejuni"
+    },
+    {
+      "Spørgsmål": "Under defækation ",
+      "Korrekt svar": "spændes bugvæggens muskler",
+      "Ukorrekt svar 1": "ophører pristaltikken",
+      "Ukorrekt svar 2": "afslappes den glatte muskulatur i colon",
+      "Ukorrekt svar 3": "afslappes bugmuskulaturen samtidig med en dyb udånding"
+    },
+    {
+      "Spørgsmål": "Den normale sammensætning af fæces er",
+      "Korrekt svar": "vand,bakterier, fibre, galdefarvestoffer, afstødte slinhindeceller, ",
+      "Ukorrekt svar 1": "vand, bakterier, afstødte muskelceller og kolesterol",
+      "Ukorrekt svar 2": "vitaminer, mineraler, aminosyere og bakterier",
+      "Ukorrekt svar 3": "urinstof, urinsyre, kreatinin og døde celler"
+    },
+    {
+      "Spørgsmål": "Bugspytkirtlens enzymer spalter",
+      "Korrekt svar": "protein, fedt og kulhydrat",
+      "Ukorrekt svar 1": "kun protein og kulhydrat",
+      "Ukorrekt svar 2": "kun kulhydrat og fedt",
+      "Ukorrekt svar 3": "kun fedt og protein"
+    },
+    {
+      "Spørgsmål": "Hepar er opbygget af ",
+      "Korrekt svar": "en stor højre og en lille venstre leverlap",
+      "Ukorrekt svar 1": "5 store leverlapper",
+      "Ukorrekt svar 2": "3 store leverlapper",
+      "Ukorrekt svar 3": "2 store og 4 små leverlapper"
+    },
+    {
+      "Spørgsmål": "Leveren indeholder ",
+      "Korrekt svar": "leverlobulus ",
+      "Ukorrekt svar 1": "ductus cysticus",
+      "Ukorrekt svar 2": "medulla spinalis",
+      "Ukorrekt svar 3": "capsula fibrosa"
+    },
+    {
+      "Spørgsmål": "Med hensyn til leverens iltforsyning",
+      "Korrekt svar": "stammer 50% fra a. hepatica og 50% fra v. portae",
+      "Ukorrekt svar 1": "stammer 25% fra a. hepatica og 75% fra v. portae",
+      "Ukorrekt svar 2": "stammer 75% fra a. hepatica og 25% fra v. portae",
+      "Ukorrekt svar 3": "stammer 100%  fra a. hepatica "
+    },
+    {
+      "Spørgsmål": "Portåresystemet samler det venøse blod fra ",
+      "Korrekt svar": "spiserøret og alle organer i abdomen, undtagen urin og kønsorganer",
+      "Ukorrekt svar 1": "tyndtarm og tyktarm",
+      "Ukorrekt svar 2": "mavesækken og tyndtarmen",
+      "Ukorrekt svar 3": "tyktarmen og endetarmen"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for galdeblæren",
+      "Korrekt svar": "vesica fellea",
+      "Ukorrekt svar 1": "vesica urinaria",
+      "Ukorrekt svar 2": "vesicula seminalis",
+      "Ukorrekt svar 3": "villi intestinalis"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "Korrekt svar": "dannelse af glukagon",
+      "Ukorrekt svar 1": "oplagring af glykogen",
+      "Ukorrekt svar 2": "oplagring af jern ",
+      "Ukorrekt svar 3": "dannelse af plasmaproteiner"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "Korrekt svar": "dannelse af K-vitamin",
+      "Ukorrekt svar 1": "dannelse af urinstof",
+      "Ukorrekt svar 2": "optagelse af næringsstoffer",
+      "Ukorrekt svar 3": "regulering af blodsukker niveau"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "Korrekt svar": "dannelse af fordøjelsesenzymer",
+      "Ukorrekt svar 1": "nedbrydning af hormoner",
+      "Ukorrekt svar 2": "aktivering af D-vitamin",
+      "Ukorrekt svar 3": "nedbrydning af giftstoffer"
+    },
+    {
+      "Spørgsmål": "Hvilken af nedenstående hører ikke med til hepars funktioner?",
+      "Korrekt svar": "dannelse af mineraler og sporstoffer",
+      "Ukorrekt svar 1": "dannelse af galde",
+      "Ukorrekt svar 2": "deltage i det Enterohepatiske kredsløb",
+      "Ukorrekt svar 3": "dannelse af glykogen"
+    },
+    {
+      "Spørgsmål": "Følgende enzymer ingår i fordøjelsen af kulhydrater",
+      "Korrekt svar": "spytamylase og bugspytamylase",
+      "Ukorrekt svar 1": "amylase og lipase",
+      "Ukorrekt svar 2": "spytamylase og trypsin",
+      "Ukorrekt svar 3": "spytamylase, bugspytamylase og enteropeptidase"
+    },
+    {
+      "Spørgsmål": "Følgende enzymer ingår i fordøjelsen af proteiner",
+      "Korrekt svar": "pepsin, trypsin og peptidaser",
+      "Ukorrekt svar 1": "pepsin, trypsin, peptidaser og lipase",
+      "Ukorrekt svar 2": "pepsin, sukrase og  peptidaser",
+      "Ukorrekt svar 3": "maltase, sukrase og laktase"
+    },
+    {
+      "Spørgsmål": "I fordøjelsen af fedtstoffer ingår ",
+      "Korrekt svar": "lipase og galde",
+      "Ukorrekt svar 1": "lipase, trypsin og galde",
+      "Ukorrekt svar 2": "lipase og pepsin ",
+      "Ukorrekt svar 3": "galde og trypsin"
+    },
+    {
+      "Spørgsmål": "Sukrose består af ",
+      "Korrekt svar": "et glukose- og et fruktosemolekyle ",
+      "Ukorrekt svar 1": "et glukose- og et galaktosemolekyle ",
+      "Ukorrekt svar 2": "et fruktose- og et galaktosemolekyle ",
+      "Ukorrekt svar 3": "to maltose mlekyler"
+    },
+    {
+      "Spørgsmål": "Maltose består af ",
+      "Korrekt svar": "to molekyler glukose",
+      "Ukorrekt svar 1": "et glukose- og et fruktosemolekyle ",
+      "Ukorrekt svar 2": "et galaktose- og et fruktosemolekyle ",
+      "Ukorrekt svar 3": "to disakkarider"
+    },
+    {
+      "Spørgsmål": "laktose består af ",
+      "Korrekt svar": "et glukose- og et galaktoseemolekyle ",
+      "Ukorrekt svar 1": "to glukose molekyler",
+      "Ukorrekt svar 2": "et glukose- og et fruktosemolekyle ",
+      "Ukorrekt svar 3": "disakkarider"
+    },
+    {
+      "Spørgsmål": "Triglycerider er opbygget af ",
+      "Korrekt svar": "glycerol og tre fedtsyrer ",
+      "Ukorrekt svar 1": "glycerol og 2 fedtsyrer ",
+      "Ukorrekt svar 2": "tre glycerol og tre fedtsyrer ",
+      "Ukorrekt svar 3": "tre glycerol og en fedtsyrer "
+    },
+    {
+      "Spørgsmål": "Hvor dannes enzymerne amylase, trypsin og lipse?",
+      "Korrekt svar": "i bugspytkirtlens eksokrine del",
+      "Ukorrekt svar 1": "i bugspytkirtlens endokrine del",
+      "Ukorrekt svar 2": "i duodenum",
+      "Ukorrekt svar 3": "i tyndtarmen"
+    },
+    {
+      "Spørgsmål": "Hvor dannes peptidase enzymerne?",
+      "Korrekt svar": "i jejunum ",
+      "Ukorrekt svar 1": "i bugspytkirtlen",
+      "Ukorrekt svar 2": "i mavesækken ",
+      "Ukorrekt svar 3": "i leveren"
+    },
+    {
+      "Spørgsmål": "Efter optagelse i tyndtarmens celler, føres aminosyrer og monosakkarider til",
+      "Korrekt svar": "leveren via portåren",
+      "Ukorrekt svar 1": "leveren via lymfen",
+      "Ukorrekt svar 2": "leveren via galdegangene",
+      "Ukorrekt svar 3": "hjertets venstre forkammer via blodet"
+    },
+    {
+      "Spørgsmål": "Efter nedbrydning af triglycerider i tyndtarmen til glycerol og fedtsyrer bliver",
+      "Korrekt svar": "glcerol og fedtsyrer pakket i lipoproteiner og sendt til blodet via lymfen",
+      "Ukorrekt svar 1": "glcerol og fedtsyrer pakket i lipoproteiner og sendt direkte til blodet ",
+      "Ukorrekt svar 3": "glcerol og fedtsyrer pakket i lipoproteiner og sendt direkte til hepar"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de udposninger der ses på tyktarmen",
+      "Korrekt svar": "haustra",
+      "Ukorrekt svar 1": "taeniae",
+      "Ukorrekt svar 2": "plicae circulares",
+      "Ukorrekt svar 3": "appendix vermiformis"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på den glatte lukkemuskel ved anus",
+      "Korrekt svar": "m. sphincter ani internus",
+      "Ukorrekt svar 1": "m. sphincter ani externus",
+      "Ukorrekt svar 2": "m. sphincter urthrae",
+      "Ukorrekt svar 3": "m. sphincter vesicae"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på den tværstribede lukkemuskel ved anus",
+      "Korrekt svar": "m. sphincter ani externus",
+      "Ukorrekt svar 1": "m. sphincter ani internus",
+      "Ukorrekt svar 2": "m. sphincter urthrae",
+      "Ukorrekt svar 3": "m. sphincter vesicae"
+    }

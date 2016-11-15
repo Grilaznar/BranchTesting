@@ -1,0 +1,425 @@
+
+    {
+      "Spørgsmål": "Hvis man er bange bliver pupillen",
+      "Korrekt svar": "stor",
+      "Ukorrekt svar 1": "normal i størrelse",
+      "Ukorrekt svar 2": "lille",
+      "Ukorrekt svar 3": "rød"
+    },
+    {
+      "Spørgsmål": "Hvilke stoffer kræves for at danne stave og tappe",
+      "Korrekt svar": "protein og retinal(A-vitamin)",
+      "Ukorrekt svar 1": "protein og lipoprotein",
+      "Ukorrekt svar 2": "fedtstof og D vitamin",
+      "Ukorrekt svar 3": "kulhydrat og C-vitamin"
+    },
+    {
+      "Spørgsmål": "Hvilken celletype er vigtigst ved daglys?",
+      "Korrekt svar": "tappe, som opfatter farver",
+      "Ukorrekt svar 1": "tappe som opfatter mørke",
+      "Ukorrekt svar 2": "stave som opfatter lys",
+      "Ukorrekt svar 3": "stave som opfatter mørke"
+    },
+    {
+      "Spørgsmål": "Hvilken celletype bruges især i mørke?",
+      "Korrekt svar": "stave, som ikke opfatter farver",
+      "Ukorrekt svar 1": "stave, som opfatter farver",
+      "Ukorrekt svar 2": "tappe som opfatter farver",
+      "Ukorrekt svar 3": "tappe som ikke opfatter farver"
+    },
+    {
+      "Spørgsmål": "Linsens krumning reguleres ved synsdannelse, dette kaldes",
+      "Korrekt svar": "akkomodation",
+      "Ukorrekt svar 1": "antagonistisk",
+      "Ukorrekt svar 2": "agglutination",
+      "Ukorrekt svar 3": "aktin"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på musklen der form ændre linsen",
+      "Korrekt svar": "m. ciliare",
+      "Ukorrekt svar 1": "m. levator ani",
+      "Ukorrekt svar 2": "m. masseter",
+      "Ukorrekt svar 3": "m. sartorius"
+    },
+    {
+      "Spørgsmål": "Hvor findes synscentrene?",
+      "Korrekt svar": "bageste del af højre- og venstre halvdel af cerebrum",
+      "Ukorrekt svar 1": "bageste del af højre- og venstre halvdel af cerebellum",
+      "Ukorrekt svar 2": "i frontallapperne",
+      "Ukorrekt svar 3": "i isselapperne"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der sker i chiasma opticum",
+      "Korrekt svar": "en overkrydsning af dele af synsnerverne",
+      "Ukorrekt svar 1": "en billeddannelse",
+      "Ukorrekt svar 2": "en afstandsbedømmelse",
+      "Ukorrekt svar 3": "en synsnedsættelse"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der forstås ved grøn stær, glaukom",
+      "Korrekt svar": "en trykstigning i øjet",
+      "Ukorrekt svar 1": "en ødelæggelse af glaslegemet",
+      "Ukorrekt svar 2": "en  hornhindeløsning",
+      "Ukorrekt svar 3": "en ødelæggelse af synsnerven"
+    },
+    {
+      "Spørgsmål": "Hvilken struktur i øjet sørger for vi kan se skarpt?",
+      "Korrekt svar": "linsen",
+      "Ukorrekt svar 1": "nethinden",
+      "Ukorrekt svar 2": "årehinden",
+      "Ukorrekt svar 3": "senehinden"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for øjeæblet",
+      "Korrekt svar": "bulbus oculi",
+      "Ukorrekt svar 1": "bulbus opticus",
+      "Ukorrekt svar 2": "conjunctiva",
+      "Ukorrekt svar 3": "fovea centralis"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på den bindehinde på øjenlågene, der vender ind mod øjet",
+      "Korrekt svar": "conjunctiva",
+      "Ukorrekt svar 1": "peritoneum",
+      "Ukorrekt svar 2": "perineum",
+      "Ukorrekt svar 3": "curvatura major"
+    },
+    {
+      "Spørgsmål": "Hvor dannes tårer?",
+      "Korrekt svar": "i glandula lacrimalis ",
+      "Ukorrekt svar 1": "i glandula bulbourethrales",
+      "Ukorrekt svar 2": "glandula parotidea",
+      "Ukorrekt svar 3": "glandula suprarenalis"
+    },
+    {
+      "Spørgsmål": "Ved  facialisparese kan der opstå lammelse af m. orbicularis oculi. Hvilken betydning har det?",
+      "Korrekt svar": "ikke muligt at blinke, kan medføre til blindhed",
+      "Ukorrekt svar 1": "ikke muligt at bære briller eller linser",
+      "Ukorrekt svar 2": "ikke muligt at danne billede på nethinden",
+      "Ukorrekt svar 3": "ikke muligt at se i farver"
+    },
+    {
+      "Spørgsmål": "Tårevæske føres fra til ",
+      "Korrekt svar": "næsehulen via tåregangen",
+      "Ukorrekt svar 1": "mundhulen via tåregangen",
+      "Ukorrekt svar 2": "svælget via tåregangen",
+      "Ukorrekt svar 3": "til mundhulen via tuba uterina"
+    },
+    {
+      "Spørgsmål": "Øjeæblets tre lag benævnes udefra og ind",
+      "Korrekt svar": "sclera, choroidea og retina",
+      "Ukorrekt svar 1": "retina,sclera og  choroidea ",
+      "Ukorrekt svar 2": "retina, peritoneum og sclera",
+      "Ukorrekt svar 3": "perineum, peritoneum og perimetriet"
+    },
+    {
+      "Spørgsmål": "Forkammer væske og bagkammer væske ligger bagved og foran",
+      "Korrekt svar": "iris",
+      "Ukorrekt svar 1": "lens",
+      "Ukorrekt svar 2": "corpus vitreum",
+      "Ukorrekt svar 3": "cornea"
+    },
+    {
+      "Spørgsmål": "Dannelsen af kammervæske finder sted i ",
+      "Korrekt svar": "corpus ciliare",
+      "Ukorrekt svar 1": "camera posterior",
+      "Ukorrekt svar 2": "camera anterior",
+      "Ukorrekt svar 3": "lens "
+    },
+    {
+      "Spørgsmål": "De elementer der bryder lyset er",
+      "Korrekt svar": "hornhinden, kammervandet, linsen og glaslegemet",
+      "Ukorrekt svar 1": "senehinden, årehinden og nethinden",
+      "Ukorrekt svar 2": "stave og tappe ",
+      "Ukorrekt svar 3": "nethinden og synsnerven"
+    },
+    {
+      "Spørgsmål": "Ved øjets akkomodationsevne forstås",
+      "Korrekt svar": "øjets evne til at danne et skarpt billede på nethinden",
+      "Ukorrekt svar 1": "øjets evne til at beskytte sig reflektorisk",
+      "Ukorrekt svar 2": "øjets evner til at tilpasse sig lysstyrker",
+      "Ukorrekt svar 3": "øjets evne til at dreje fra side til side"
+    },
+    {
+      "Spørgsmål": "Ved øjets adaptionsevne forstås",
+      "Korrekt svar": "øjets evne til at tilpasse sig forskellige lysstyrker",
+      "Ukorrekt svar 1": "evnen til at samarbejde mellem de to øjne",
+      "Ukorrekt svar 2": "evnen til at holde et konstant tryk i kammervæsken",
+      "Ukorrekt svar 3": "evnen til at ændre linsen efter behov"
+    },
+    {
+      "Spørgsmål": "Den blinde plet i øjet svarer til ",
+      "Korrekt svar": "det sted hvor synsnerven går gennem nethinden",
+      "Ukorrekt svar 1": "centrum af linsen",
+      "Ukorrekt svar 2": "det sted hvor der kun er tap celler",
+      "Ukorrekt svar 3": "det sted hvor der kun er stave i øjet"
+    },
+    {
+      "Spørgsmål": "Ved den gule plet(macula lutea) forstås ",
+      "Korrekt svar": "et område, hvor primært tappene er samlet",
+      "Ukorrekt svar 1": "det sted, hvor synsnerven går ind i retina",
+      "Ukorrekt svar 2": "et område fyldt med blodkar",
+      "Ukorrekt svar 3": "et område i regnbuehinden"
+    },
+    {
+      "Spørgsmål": "Ved chiasma opticum forstås",
+      "Korrekt svar": "synsnervernes overkrydsningssted",
+      "Ukorrekt svar 1": "synscentret i hjernebarken",
+      "Ukorrekt svar 2": "synsnervens indgang i nethinden",
+      "Ukorrekt svar 3": "der hvor fotopigment dannes i nethinden"
+    },
+    {
+      "Spørgsmål": "Den venstre halvdel af det, man kikker på, opfattes i ",
+      "Korrekt svar": "i højre nakkelap",
+      "Ukorrekt svar 1": "i venstre nakkelap",
+      "Ukorrekt svar 2": "i begge nakkelapper",
+      "Ukorrekt svar 3": "i cerebellums højre side"
+    },
+    {
+      "Spørgsmål": "Følgende hører ikke med til øjets beskyttelses- og hjælpeapparat",
+      "Korrekt svar": "grøn stær og grå stær",
+      "Ukorrekt svar 1": "ydre øjenmuskler og øjenlåg",
+      "Ukorrekt svar 2": "øjenvipper  og conjunctiva",
+      "Ukorrekt svar 3": "tårekirtel og tåreveje"
+    },
+    {
+      "Spørgsmål": "Tårekirtlen, glandula lacrimalis, er belliggende mellem",
+      "Korrekt svar": "øjenbryn og laterale øjenkrog",
+      "Ukorrekt svar 1": "mellem os nasale og mediale øjenkrog",
+      "Ukorrekt svar 2": "øjenbrynene",
+      "Ukorrekt svar 3": "tårekanalen og saccus lacrimalis"
+    },
+    {
+      "Spørgsmål": "Hvilken situation kan ikke påvirke pupillens størrelse",
+      "Korrekt svar": "ændringer i kropstemperaturen, fx. feber?",
+      "Ukorrekt svar 1": "ændringer i lysmængden",
+      "Ukorrekt svar 2": "ændringer i personens sindsstemning",
+      "Ukorrekt svar 3": "indtag af visse læge- og rusmidler"
+    },
+    {
+      "Spørgsmål": "Hvad kan ændre pupillens størrelse?",
+      "Korrekt svar": "det autonome nervesystem",
+      "Ukorrekt svar 1": "det somatiske nervesystem",
+      "Ukorrekt svar 2": "ændringer i kropstemperaturen",
+      "Ukorrekt svar 3": "ændringer i blodsukker niveauet"
+    },
+    {
+      "Spørgsmål": "Hvad gælder for de lysopfattende celler, de såkaldte tappe?",
+      "Korrekt svar": "der findes tre typer tappe, en til hver af farverne rød, grøn og blå",
+      "Ukorrekt svar 1": "tappe kan fungere ved meget svage lysmængder",
+      "Ukorrekt svar 2": "tappe anvendes mest ved nuancer af sort og hvid",
+      "Ukorrekt svar 3": "der findes kun en type tappe "
+    },
+    {
+      "Spørgsmål": "Hvad gælder for de lysopfattende celler, de såkaldte tappe?",
+      "Korrekt svar": "kan fungere ved meget svage lysstyrker",
+      "Ukorrekt svar 1": "der findes to typer af stave, sorte og hvide",
+      "Ukorrekt svar 2": "findes primært i det centrale synsfelt",
+      "Ukorrekt svar 3": "er opbygget af fedtsyrer og D-vitamin"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af lysets vej gennem øjet",
+      "Korrekt svar": "choroidea",
+      "Ukorrekt svar 1": "cornea",
+      "Ukorrekt svar 2": "lens ",
+      "Ukorrekt svar 3": "corpus vitreum"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en del af synsimpulsens forløb",
+      "Korrekt svar": "hypothalamus",
+      "Ukorrekt svar 1": "synscenter",
+      "Ukorrekt svar 2": "synsnervekrydsning ",
+      "Ukorrekt svar 3": "thalamus"
+    },
+    {
+      "Spørgsmål": "Øjeæblets bevægemuskler styres af impulser fra ",
+      "Korrekt svar": "3, 4 og 6 hjernenerver",
+      "Ukorrekt svar 1": "n. opticus ",
+      "Ukorrekt svar 2": "n. vagus ",
+      "Ukorrekt svar 3": "det autonome nervesystem"
+    },
+    {
+      "Spørgsmål": "Hvorfor løber tårevæske ikke ud over kanten af øjenlåget ",
+      "Korrekt svar": "på grund af fedtsekret i øjenlågskanten",
+      "Ukorrekt svar 1": "på grund af en \"lim\" i tårevæsken",
+      "Ukorrekt svar 2": "fordi blodet opsuger overskydenden tårevæske",
+      "Ukorrekt svar 3": "fordi overskydenden tårevæske returnerer til tårekirtlen"
+    },
+    {
+      "Spørgsmål": "Conjunctiva indeholder mange blodkar",
+      "Korrekt svar": "og derfor kan anæmi ses i bindehinden ",
+      "Ukorrekt svar 1": "og derfor kan glukosemangel ses i bindehinden ",
+      "Ukorrekt svar 2": "og derfor kan leukocytmangel ses i bindehinden ",
+      "Ukorrekt svar 3": "og derfor kan bakterier ses i bindehinden "
+    },
+    {
+      "Spørgsmål": "Hvad er der sket med linsen, når mennesker får gammelmandssyn?",
+      "Korrekt svar": "den er blevet stiv og uelastisk",
+      "Ukorrekt svar 1": "den er blevet blød",
+      "Ukorrekt svar 2": "den er blevet nedbrudt ",
+      "Ukorrekt svar 3": "den er blevet fyldt med hvidt fedtstof"
+    },
+    {
+      "Spørgsmål": "Nævn hvad der findes i øreflippen",
+      "Korrekt svar": "fedt og blodkar",
+      "Ukorrekt svar 1": "brusk",
+      "Ukorrekt svar 2": "knogle ",
+      "Ukorrekt svar 3": "høreknogler"
+    },
+    {
+      "Spørgsmål": "Øremuslingen er dannet af",
+      "Korrekt svar": "elastisk brusk dækket af hud",
+      "Ukorrekt svar 1": "fedt dækket af hud",
+      "Ukorrekt svar 2": "knogle dækket af hud",
+      "Ukorrekt svar 3": "lymfatisk væv"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for ørevoks",
+      "Korrekt svar": "cerumen",
+      "Ukorrekt svar 1": "cerebrum",
+      "Ukorrekt svar 2": "cochlea",
+      "Ukorrekt svar 3": "clearance"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for hammeren",
+      "Korrekt svar": "malleus",
+      "Ukorrekt svar 1": "callosum",
+      "Ukorrekt svar 2": "spinosus",
+      "Ukorrekt svar 3": "macua lutea"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for ambolten",
+      "Korrekt svar": "incus",
+      "Ukorrekt svar 1": "stapes",
+      "Ukorrekt svar 2": "albicans",
+      "Ukorrekt svar 3": "cochlea"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for stigbøjlen",
+      "Korrekt svar": "stapes",
+      "Ukorrekt svar 1": "incus",
+      "Ukorrekt svar 2": "platysma",
+      "Ukorrekt svar 3": "sacralis"
+    },
+    {
+      "Spørgsmål": "Et andet fagord for Det eustakiske rør?",
+      "Korrekt svar": "tuba auditiva",
+      "Ukorrekt svar 1": "salpinx",
+      "Ukorrekt svar 2": "tuba uterina",
+      "Ukorrekt svar 3": "T-rør"
+    },
+    {
+      "Spørgsmål": "Nævn navnene på de tre strukturerer der findes i det indre øre",
+      "Korrekt svar": "buegangene, forgården og sneglen",
+      "Ukorrekt svar 1": "sneglen,  forkammer og bjælken",
+      "Ukorrekt svar 2": "forkammer, bagkammer og sneglen",
+      "Ukorrekt svar 3": "vestibulum  og det eustakiske rør"
+    },
+    {
+      "Spørgsmål": "Nævn de latinske navne på de tre strukturerer der findes i det indre øre",
+      "Korrekt svar": "canales semicirculares, vestibulum,og cochlea",
+      "Ukorrekt svar 1": "plica circularis, plica semicircularis og cochlea",
+      "Ukorrekt svar 2": "vestibulum , plicae semicirculares og cortiske organ",
+      "Ukorrekt svar 3": "fenestra rotunda, fenestra ovalis og det cortiske organ"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes det samlede system af hulrum og kanaler i det indre øre?",
+      "Korrekt svar": "labyrinten",
+      "Ukorrekt svar 1": "trommehulen",
+      "Ukorrekt svar 2": "vestibulum",
+      "Ukorrekt svar 3": "sneglen"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes de to typer af væske som findes i det indre øre?",
+      "Korrekt svar": "perilymfe og endolymfe",
+      "Ukorrekt svar 1": "endo- og eksolymfe",
+      "Ukorrekt svar 2": "cerebrospinalvæske og cerumen",
+      "Ukorrekt svar 3": "spinalvæske og endolymfe"
+    },
+    {
+      "Spørgsmål": "Nævn navnene på de to \"vinduer\" der sidder mellem trommehulen(mellemøret) og forgården( i det indre øre?",
+      "Korrekt svar": "fenestra ovalis og fenestra rotunda",
+      "Ukorrekt svar 1": "camera posterior og camera anterior",
+      "Ukorrekt svar 2": "spina iliaca anterior og spina iliaca posterior",
+      "Ukorrekt svar 3": "forkammer  åbning og bagkammer åbning"
+    },
+    {
+      "Spørgsmål": "Perilymfen som findes i det indre øre, står i forbindelse med en anden væske udenfor øret. Hvilken væske er der tale om?",
+      "Korrekt svar": "cerebrospinalvæsken",
+      "Ukorrekt svar 1": "lymfevæsken",
+      "Ukorrekt svar 2": "blodet",
+      "Ukorrekt svar 3": "vævsvæsken"
+    },
+    {
+      "Spørgsmål": "Hvilken struktur aktiveres, når der er lydbølger på vej gennem sneglen?",
+      "Korrekt svar": "det cortiske organ",
+      "Ukorrekt svar 1": "vestibulum",
+      "Ukorrekt svar 2": "canales semicirculares",
+      "Ukorrekt svar 3": "høreknogleren"
+    },
+    {
+      "Spørgsmål": "Der findes tre sneglegange med væske i det indre øre. Hvilken er ikke en sneglegang i det indre øre?",
+      "Korrekt svar": "canales semicirculares"
+    },
+    {
+      "Spørgsmål": "Hvor starter n. vestibulocochlearis?",
+      "Korrekt svar": "i det indre øre",
+      "Ukorrekt svar 1": "i hjernen",
+      "Ukorrekt svar 2": "i mellemøret",
+      "Ukorrekt svar 3": "i det ydre øre"
+    },
+    {
+      "Spørgsmål": "Den dynamiske ligevægtssans registrerer ændringer i hastighed og drejebevægelser. Hvor er denne sans lokaliseret?",
+      "Korrekt svar": "i canales semicirculares ",
+      "Ukorrekt svar 1": "i cochlea",
+      "Ukorrekt svar 2": "i mellemøret",
+      "Ukorrekt svar 3": "i vestibulum"
+    },
+    {
+      "Spørgsmål": "Den statiske ligevægtssans registrerer ændringer når hovedet drejes eller bøjes. Hvor findes denne sans? ",
+      "Korrekt svar": "i vestibulum",
+      "Ukorrekt svar 1": "i canales semicircularis",
+      "Ukorrekt svar 2": "i cochlea",
+      "Ukorrekt svar 3": "i auris media"
+    },
+    {
+      "Spørgsmål": "Nerveimpulser fra det indre øre sendes til ligevægtscentret i ?",
+      "Korrekt svar": "cerebellum",
+      "Ukorrekt svar 1": "cortex cerebri",
+      "Ukorrekt svar 2": "cerebrum",
+      "Ukorrekt svar 3": "medulla oblongata"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de små kalkkrystaller der findes i vestibulum",
+      "Korrekt svar": "otolitter",
+      "Ukorrekt svar 1": "ovum",
+      "Ukorrekt svar 2": "osteocytter",
+      "Ukorrekt svar 3": "osteoklaster"
+    },
+    {
+      "Spørgsmål": "Hvilke impulser kommer ikke til ligevægtscentret i cerebellum?",
+      "Korrekt svar": "fra lugtesansen",
+      "Ukorrekt svar 1": "fra sener og led",
+      "Ukorrekt svar 2": "fra øjet",
+      "Ukorrekt svar 3": "fra skeletmuskler"
+    },
+    {
+      "Spørgsmål": "Oversæt n. vestibularis til dansk",
+      "Korrekt svar": "balancenerven",
+      "Ukorrekt svar 1": "ansigtsnerven",
+      "Ukorrekt svar 2": "følenerven ",
+      "Ukorrekt svar 3": "vestibulum nerven"
+    },
+    {
+      "Spørgsmål": "Oversæt n. cochlearisvtil dansk",
+      "Korrekt svar": "hørenerven",
+      "Ukorrekt svar 1": "talenerven ",
+      "Ukorrekt svar 2": "sneglenerven",
+      "Ukorrekt svar 3": "kokleal nerven"
+    },
+    {
+      "Spørgsmål": "Nævn et andet navn for Det Eustakiske Rør",
+      "Korrekt svar": "tuba auditiva",
+      "Ukorrekt svar 1": "tuba uterina",
+      "Ukorrekt svar 2": "tuba tuberculum",
+      "Ukorrekt svar 3": "det herakulske rør"
+    }

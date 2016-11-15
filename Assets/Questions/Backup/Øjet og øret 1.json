@@ -1,0 +1,449 @@
+
+    {
+      "Spørgsmål": "Nævn det danske navn på det yderste lag i øjet",
+      "Korrekt svar": "senehinden",
+      "Ukorrekt svar 1": "årehinden",
+      "Ukorrekt svar 2": "nethinden",
+      "Ukorrekt svar 3": "benhinden"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn på det midterste lag i øjet",
+      "Korrekt svar": "årehinden",
+      "Ukorrekt svar 1": "senehinden",
+      "Ukorrekt svar 2": "nethinden",
+      "Ukorrekt svar 3": "benhinden"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn på det inderste lag i øjet",
+      "Korrekt svar": "nethinden",
+      "Ukorrekt svar 1": "senehinden",
+      "Ukorrekt svar 2": "årehinden",
+      "Ukorrekt svar 3": "benhinden"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det yderste lag i øjet",
+      "Korrekt svar": "sclera",
+      "Ukorrekt svar 1": "choroidea",
+      "Ukorrekt svar 2": "retina",
+      "Ukorrekt svar 3": "ciliare"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det midterste lag i øjet",
+      "Korrekt svar": "choroidea",
+      "Ukorrekt svar 1": "senehinden",
+      "Ukorrekt svar 2": "retina",
+      "Ukorrekt svar 3": "corpus luteum"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det inderste lag i øjet",
+      "Korrekt svar": "retina",
+      "Ukorrekt svar 1": "choroidea",
+      "Ukorrekt svar 2": "sclera",
+      "Ukorrekt svar 3": "corpus luteum"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for cornea",
+      "Korrekt svar": "hornhinden",
+      "Ukorrekt svar 1": "nethinden",
+      "Ukorrekt svar 2": "senehinden",
+      "Ukorrekt svar 3": "årehinden"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for iris",
+      "Korrekt svar": "regnbuehinden",
+      "Ukorrekt svar 1": "senehinden",
+      "Ukorrekt svar 2": "hornhinden",
+      "Ukorrekt svar 3": "årehinden"
+    },
+    {
+      "Spørgsmål": "Nævn det danske navn for corpus vitreum",
+      "Korrekt svar": "glaslegemet",
+      "Ukorrekt svar 1": "linsen",
+      "Ukorrekt svar 2": "strålelegemet",
+      "Ukorrekt svar 3": "øjeæblet"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for regnbuehinden",
+      "Korrekt svar": "iris",
+      "Ukorrekt svar 1": "cornea",
+      "Ukorrekt svar 2": "corpus ciliare",
+      "Ukorrekt svar 3": "sclera"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for hornhinden",
+      "Korrekt svar": "cornea",
+      "Ukorrekt svar 1": "sclera",
+      "Ukorrekt svar 2": "iris",
+      "Ukorrekt svar 3": "retina"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for linsen",
+      "Korrekt svar": "lens",
+      "Ukorrekt svar 1": "corpus ciliare",
+      "Ukorrekt svar 2": "lien",
+      "Ukorrekt svar 3": "splen"
+    },
+    {
+      "Spørgsmål": "Hvilken farve har sclera?",
+      "Korrekt svar": "hvid",
+      "Ukorrekt svar 1": "rød",
+      "Ukorrekt svar 2": "sort",
+      "Ukorrekt svar 3": "brun eller blå"
+    },
+    {
+      "Spørgsmål": "Hvad findes mellem hornhinden og linsen?",
+      "Korrekt svar": "kammervæske",
+      "Ukorrekt svar 1": "glaslegmet",
+      "Ukorrekt svar 2": "nethinden",
+      "Ukorrekt svar 3": "årehinden"
+    },
+    {
+      "Spørgsmål": "Hvad er pupillen?",
+      "Korrekt svar": "et hul i midten af iris",
+      "Ukorrekt svar 1": "et hul i midten af hornhinden",
+      "Ukorrekt svar 2": "et hul i midten af nethinden",
+      "Ukorrekt svar 3": "et hul i midten af glaslegeme"
+    },
+    {
+      "Spørgsmål": "Hvor mange lag muskulatur findes i regnbuehinden?",
+      "Korrekt svar": "to lag glat muskulatur",
+      "Ukorrekt svar 1": "to lag tværstribet muskulatur",
+      "Ukorrekt svar 2": "et lag glat muskulatur",
+      "Ukorrekt svar 3": "et lag tværstribet muskulatur"
+    },
+    {
+      "Spørgsmål": "Muskelcellerne i regnbuehinden aktiveres af ",
+      "Korrekt svar": "det autonome nervesystem",
+      "Ukorrekt svar 1": "det somatiske nervesystem",
+      "Ukorrekt svar 2": "det sensoriske nervesystem",
+      "Ukorrekt svar 3": "kun af det parasympatiske nervesystem"
+    },
+    {
+      "Spørgsmål": "Hvor i øjet findes de lysopfattende celler?",
+      "Korrekt svar": "i retina",
+      "Ukorrekt svar 1": "i sclera",
+      "Ukorrekt svar 2": "i choroidea",
+      "Ukorrekt svar 3": "i corpus vitreum"
+    },
+    {
+      "Spørgsmål": "Hvad er stave og tappe?",
+      "Korrekt svar": "lysopfattende celler i retina",
+      "Ukorrekt svar 1": "lysopfattende celler i choroidea",
+      "Ukorrekt svar 2": "lysopfattende celler i sclera",
+      "Ukorrekt svar 3": "lysopfattende celler i cornea"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske  navn på synsnerven",
+      "Korrekt svar": "nervus opticus ",
+      "Ukorrekt svar 1": "nervus synicus",
+      "Ukorrekt svar 2": "nervus occulomotorius",
+      "Ukorrekt svar 3": "nervus olfactorius"
+    },
+    {
+      "Spørgsmål": "Hvad dannes når lys rammer stave og tappe i nethinden",
+      "Korrekt svar": "nerveimpulser ",
+      "Ukorrekt svar 1": "hormoner ",
+      "Ukorrekt svar 2": "signalstoffer",
+      "Ukorrekt svar 3": "cytokiner"
+    },
+    {
+      "Spørgsmål": "Mængden af lys der trænger ind i øjet reguleres ved hjælp af ",
+      "Korrekt svar": "pupillen",
+      "Ukorrekt svar 1": "hornhinden",
+      "Ukorrekt svar 2": "linsen",
+      "Ukorrekt svar 3": "nethinden"
+    },
+    {
+      "Spørgsmål": "Øjeæblets tre lag benævnes udefra og ind",
+      "Korrekt svar": "senehinden, årehinden og nethinden",
+      "Ukorrekt svar 1": "senehinden, muskelhinden og blodhinden",
+      "Ukorrekt svar 2": "strålehinden, senehinden og bindevævshinden",
+      "Ukorrekt svar 3": "senehinden, nethinden og nervehinden"
+    },
+    {
+      "Spørgsmål": "Pupillen(øjeæblets åbning) er yderst beskyttet af ",
+      "Korrekt svar": "hornhinden",
+      "Ukorrekt svar 1": "senehinden",
+      "Ukorrekt svar 2": "regnbuehinden",
+      "Ukorrekt svar 3": "nethinden"
+    },
+    {
+      "Spørgsmål": "Mellem linsen og hornhinden ligger",
+      "Korrekt svar": "iris, regnbuehinden",
+      "Ukorrekt svar 1": "glaslegemet",
+      "Ukorrekt svar 2": "sclera",
+      "Ukorrekt svar 3": "nethinden"
+    },
+    {
+      "Spørgsmål": "Hvilket er ikke en af pupillens funktioner?",
+      "Korrekt svar": "at afbøje lysstrålerne, så der dannes et billede i retina",
+      "Ukorrekt svar 1": "at lukke lys ind",
+      "Ukorrekt svar 2": "at tilpasse lysmængden der lukkes ind til retina",
+      "Ukorrekt svar 3": "at kunne regulere den indkomne lysmængde til retina"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har glaslegemet?",
+      "Korrekt svar": "at holde øjet og nethinden udspilet",
+      "Ukorrekt svar 1": "at danne tårevæske",
+      "Ukorrekt svar 2": "at danne kammervæske",
+      "Ukorrekt svar 3": "at forsyne nethinden med ilt og næringsstoffer"
+    },
+    {
+      "Spørgsmål": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "Korrekt svar": "retina- senehinde",
+      "Ukorrekt svar 1": "iris-regnbuehinde",
+      "Ukorrekt svar 2": "n. opticus - synsnerve",
+      "Ukorrekt svar 3": "cornea- hornhinde"
+    },
+    {
+      "Spørgsmål": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "Korrekt svar": "corpus vitreum- linsen",
+      "Ukorrekt svar 1": "gl. lacrimalis- tårekirtel",
+      "Ukorrekt svar 2": "sclera-senehinde",
+      "Ukorrekt svar 3": "chiasma opticum- synsnervekrydsning"
+    },
+    {
+      "Spørgsmål": "Find den forkerte \"ovesættelse\" mellem dansk og latin",
+      "Korrekt svar": "bulbus oculi-glaslegemet",
+      "Ukorrekt svar 1": "iris-regnbuehinde",
+      "Ukorrekt svar 2": "conjunctiva- bindehinde",
+      "Ukorrekt svar 3": "orbita-øjenhule"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har øjenhulens fedtvæv",
+      "Korrekt svar": "at beskytte mod slag og stød",
+      "Ukorrekt svar 1": "at fungere som energidepot for øjets celler",
+      "Ukorrekt svar 2": "at fungere som depot for lymfocytter",
+      "Ukorrekt svar 3": "at beskytte mod stærkt lys"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes evnen til at regulere linsens form, så der stilles skarpt?",
+      "Korrekt svar": "akkomodation",
+      "Ukorrekt svar 1": "anatgonistisk",
+      "Ukorrekt svar 2": "adaption",
+      "Ukorrekt svar 3": "homøostase"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på hullet i iris ",
+      "Korrekt svar": "pupillen",
+      "Ukorrekt svar 1": "irishullet",
+      "Ukorrekt svar 2": "cavum iris ",
+      "Ukorrekt svar 3": "poplitea"
+    },
+    {
+      "Spørgsmål": "Personer med kun et øje har svært ved at ",
+      "Korrekt svar": "bedømme afstand",
+      "Ukorrekt svar 1": "se dobbelt",
+      "Ukorrekt svar 2": "se farver ",
+      "Ukorrekt svar 3": "se skarpt "
+    },
+    {
+      "Spørgsmål": "En person der er i underskud med  A-vitamin, risikere at blive ",
+      "Korrekt svar": "natteblind",
+      "Ukorrekt svar 1": "nærsynet",
+      "Ukorrekt svar 2": "langsynet ",
+      "Ukorrekt svar 3": "blind"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det ydre øre",
+      "Korrekt svar": "auris externa",
+      "Ukorrekt svar 1": "auris media",
+      "Ukorrekt svar 2": "auris interna",
+      "Ukorrekt svar 3": "auris auricula"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på mellemøret",
+      "Korrekt svar": "auris media ",
+      "Ukorrekt svar 1": "auris externa",
+      "Ukorrekt svar 2": "auris interna",
+      "Ukorrekt svar 3": "auris thympani"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på det indre øre",
+      "Korrekt svar": "auris interna",
+      "Ukorrekt svar 1": "auris externa",
+      "Ukorrekt svar 2": "auris thympani",
+      "Ukorrekt svar 3": "auris media"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på øremuslingen",
+      "Korrekt svar": "auricula",
+      "Ukorrekt svar 1": "clavicula",
+      "Ukorrekt svar 2": "auris ",
+      "Ukorrekt svar 3": "auris externa"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på den ydre øregang- der hvor ørevoksen sidder :-)",
+      "Korrekt svar": "meatus acusticus externus",
+      "Ukorrekt svar 1": " metacarpus ",
+      "Ukorrekt svar 2": "metatarsus",
+      "Ukorrekt svar 3": "obliquus externus"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn på den knogle hvori den ydre øregang findes",
+      "Korrekt svar": "os temporale",
+      "Ukorrekt svar 1": "os parietale",
+      "Ukorrekt svar 2": "os frontale",
+      "Ukorrekt svar 3": "os occipitalis"
+    },
+    {
+      "Spørgsmål": "Hvad sidder inde for enden af den ydre øregang?",
+      "Korrekt svar": "trommehinden",
+      "Ukorrekt svar 1": "stigbøjlen",
+      "Ukorrekt svar 2": "øreflippen",
+      "Ukorrekt svar 3": "øretragten"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske navn for trommehinden",
+      "Korrekt svar": "membrana tympani",
+      "Ukorrekt svar 1": "membrana tectoria",
+      "Ukorrekt svar 2": "membrana synovialis",
+      "Ukorrekt svar 3": "membrana interossea"
+    },
+    {
+      "Spørgsmål": "Hvad består trommehinden af?",
+      "Korrekt svar": "en tynd bindevævsplade",
+      "Ukorrekt svar 1": "en tynd muskel",
+      "Ukorrekt svar 2": "en tynd fedthinde",
+      "Ukorrekt svar 3": "enlaget pladeepitel"
+    },
+    {
+      "Spørgsmål": "Nævn navnet på de tre høreknogler",
+      "Korrekt svar": "hammeren, ambolten og stigbøjlen",
+      "Ukorrekt svar 1": "hammeren, ambolten og sadlen",
+      "Ukorrekt svar 2": "ambolten, skamlen og sadlen",
+      "Ukorrekt svar 3": "hammeren, stigbøjlen og bjælken"
+    },
+    {
+      "Spørgsmål": "Find den rigtige rækkefølge for høreknoglerne ",
+      "Korrekt svar": "hammeren, ambolten og stigbøjlen",
+      "Ukorrekt svar 1": "hammeren, stigbøjlen og ambolten",
+      "Ukorrekt svar 2": "stigbøjlen, hammeren og ambolten",
+      "Ukorrekt svar 3": "ambolten, stigbøjlen og hammeren"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har trommehinden?",
+      "Korrekt svar": "trommehinden overføre lydens svingninger til høreknoglerne",
+      "Ukorrekt svar 1": "trommehinden forhindre høje lyde i at ødelægge hørecentret",
+      "Ukorrekt svar 2": "trommehinden forhindre bakterier i at trænge ind i øret",
+      "Ukorrekt svar 3": "trommehinden danner ørevoks"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har det eustakiske rør?",
+      "Korrekt svar": "at sikre det sammme tryk på begge sider af trommehinden",
+      "Ukorrekt svar 1": "at sikre undertryk i trommehulen",
+      "Ukorrekt svar 2": "at sikre overtryk i trommehulen",
+      "Ukorrekt svar 3": "at fungere som afløbskanal ned til svælget"
+    },
+    {
+      "Spørgsmål": "I det indre øre findes sanseceller. Hvad opfatter disse sanseceller?",
+      "Korrekt svar": "lyd og ligevægt",
+      "Ukorrekt svar 1": "lugt og ligevægt",
+      "Ukorrekt svar 2": "lyd og lugt",
+      "Ukorrekt svar 3": "syn og lugt"
+    },
+    {
+      "Spørgsmål": "I hvilken knogle finder vi det indre øre?",
+      "Korrekt svar": "tindingeknoiglen",
+      "Ukorrekt svar 1": "pandeknoglen",
+      "Ukorrekt svar 2": "isseknoglen",
+      "Ukorrekt svar 3": "nalkkeknoglen"
+    },
+    {
+      "Spørgsmål": "Nævn det latinske ord for snaglen",
+      "Korrekt svar": "cochlea",
+      "Ukorrekt svar 1": "coccygis",
+      "Ukorrekt svar 2": "stapes",
+      "Ukorrekt svar 3": "sacral"
+    },
+    {
+      "Spørgsmål": "Hvor i øret findes det cortiske organ?",
+      "Korrekt svar": "i sneglen",
+      "Ukorrekt svar 1": "i vestibulum",
+      "Ukorrekt svar 2": "i canales semicirculares",
+      "Ukorrekt svar 3": "i auris media"
+    },
+    {
+      "Spørgsmål": "Hvilken funktiuon har det cortiske organ?",
+      "Korrekt svar": "danne \"lyd\" impulser der sendes til hjernen",
+      "Ukorrekt svar 1": "danne \"tryk\" impulser der sendes til hjernen",
+      "Ukorrekt svar 2": "opfatte ligevægt og acceleration",
+      "Ukorrekt svar 3": "at forbygge søsyge og køresyge"
+    },
+    {
+      "Spørgsmål": "Hvor i det indre øre findes ligevægtsansen?",
+      "Korrekt svar": "i canales semicirculares og vestibulum",
+      "Ukorrekt svar 1": "i cochlea",
+      "Ukorrekt svar 2": "i det cortiske organ",
+      "Ukorrekt svar 3": "i scala tympani"
+    },
+    {
+      "Spørgsmål": "Her findes hammeren, ambolten og stigbøjlen",
+      "Korrekt svar": "i mellemøret",
+      "Ukorrekt svar 1": "i sneglen",
+      "Ukorrekt svar 2": "i det ydre øre",
+      "Ukorrekt svar 3": "i det indre øre"
+    },
+    {
+      "Spørgsmål": "Hvilken del af øret er fyldt med væske?",
+      "Korrekt svar": "det indre øre",
+      "Ukorrekt svar 1": "mellemøret",
+      "Ukorrekt svar 2": "det ydre øre",
+      "Ukorrekt svar 3": "øregangen "
+    },
+    {
+      "Spørgsmål": "Hvilken del af øret har forbindelse til svælget?",
+      "Korrekt svar": "mellemøret",
+      "Ukorrekt svar 1": "øregangen",
+      "Ukorrekt svar 2": "det ydre øre",
+      "Ukorrekt svar 3": "det indre øre"
+    },
+    {
+      "Spørgsmål": "Hvor kommer lydbølgerne til trommehinden fra ",
+      "Korrekt svar": "fra det ydre øre",
+      "Ukorrekt svar 1": "fra mellemøret",
+      "Ukorrekt svar 2": "fra det indre øre",
+      "Ukorrekt svar 3": "fra sneglen og vestibulum"
+    },
+    {
+      "Spørgsmål": "Hvor findes vestibulum?",
+      "Korrekt svar": "i det indre øre",
+      "Ukorrekt svar 1": "i mellemøret",
+      "Ukorrekt svar 2": "i det ydre øre ",
+      "Ukorrekt svar 3": "i øregangen"
+    },
+    {
+      "Spørgsmål": "I hvilken del af øret kan der opstå overtryk og undertryk, som kan nedsætte hørelsen?",
+      "Korrekt svar": "i mellemøret",
+      "Ukorrekt svar 1": "i det ydre øre",
+      "Ukorrekt svar 2": "i det indre øre",
+      "Ukorrekt svar 3": "i sneglen"
+    },
+    {
+      "Spørgsmål": "Hvor i øret findes det cortiske organ?",
+      "Korrekt svar": "i sneglen",
+      "Ukorrekt svar 1": "i vestibulum",
+      "Ukorrekt svar 2": "i canales semicircularis",
+      "Ukorrekt svar 3": "i mellemøret"
+    },
+    {
+      "Spørgsmål": "Oversæt membrana tympani til dansk",
+      "Korrekt svar": "trommehinden",
+      "Ukorrekt svar 1": "øremuslingen",
+      "Ukorrekt svar 2": "hammeren",
+      "Ukorrekt svar 3": "basal membranen"
+    },
+    {
+      "Spørgsmål": "Oversæt auricula til dansk",
+      "Korrekt svar": "øremusling/øretragt",
+      "Ukorrekt svar 1": "ydre øre",
+      "Ukorrekt svar 2": "sneglen",
+      "Ukorrekt svar 3": "kalkkrystaller"
+    },
+    {
+      "Spørgsmål": "Oversæt meatus acusticus  til dansk",
+      "Korrekt svar": "ydre øregang",
+      "Ukorrekt svar 1": "mellemøret",
+      "Ukorrekt svar 2": "det eustakiske rør",
+      "Ukorrekt svar 3": "den akustiske kanal "
+    }

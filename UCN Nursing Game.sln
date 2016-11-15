@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCN Nursing Game.CSharp", "UCN Nursing Game.CSharp.csproj", "{9C81BDE7-98C6-832A-13D5-8CB87061C6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCN Nursing Game.CSharp.Editor", "UCN Nursing Game.CSharp.Editor.csproj", "{88B77C91-9A1A-D03F-E294-679A6538CF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C81BDE7-98C6-832A-13D5-8CB87061C6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C81BDE7-98C6-832A-13D5-8CB87061C6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C81BDE7-98C6-832A-13D5-8CB87061C6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C81BDE7-98C6-832A-13D5-8CB87061C6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B77C91-9A1A-D03F-E294-679A6538CF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B77C91-9A1A-D03F-E294-679A6538CF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B77C91-9A1A-D03F-E294-679A6538CF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B77C91-9A1A-D03F-E294-679A6538CF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

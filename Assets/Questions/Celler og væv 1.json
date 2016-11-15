@@ -1,0 +1,168 @@
+{
+      "questionText": "Hvorledes defineres en celle ?",
+      "answers":["som den mindste levende enhed i organismen", "som den mindste molekyleenhed i organismen", "den mindste enhed i organismen der er synlig med det blotte øje", "den mindste enhed i organismen der kun kan ses i et mikroskop"]
+    }
+    {
+      "questionText": "Hvad er nucleolus?",
+      "answers":["kernelegemet", "cellekernen", "en nervecelle med udløbere", "kromosomer"]
+    }
+    {
+      "questionText": "Hvilken funktion har mitochondrier?",
+      "answers":["opbygning af energirige forbindelser som ATP", "udskillelse af energirige affaldsstoffer", "produktion af ilt", "opbygning af proteiner"]
+    }
+    {
+      "questionText": "Hvilken funktion har ribosomer?",
+      "answers":["små RNA-holdige korn,der medvirker ved proteinsyntesen", "små DNA-holdige korn", "organeller med membran og enzymer", "organeller der opkoncentrere proteiner"]
+    }
+    {
+      "questionText": "Nævn navnet på den normale vækstcelledeling i legemscellerne",
+      "answers":["en mitose", "en meiose", "en reduktionsdeling", "En kønscelledeling"]
+    }
+    {
+      "questionText": "Hvad består cellemembranernes receptorer af?",
+      "answers":["proteiner", "fedtstoffer", "kulhydrater", "fosfolipider"]
+    }
+    {
+      "questionText": "Hvilken funktion har cellemembranernes receptorer?",
+      "answers":["de er tilhæftningssted for hormoner", "tilhæftning for ilt", "de virker som ionkanaler for elektrolytter", "de danner Na/K pumpen"]
+    }
+    {
+      "questionText": "Nævn navnet på kønscelledelingen",
+      "answers":["en meiose", "en mitose", "en vækstcelledeling", "en zygote celledeling"]
+    }
+    {
+      "questionText": "Hvilken funktion har Golgi-apparatet?",
+      "answers":["det opsamler og koncentrerer proteiner", "det har betydning for celledelingen", "det danner proteiner", "forbrændingen af glukose foregår her"]
+    }
+    {
+      "questionText": "Hvor i cellerne dannes energien til de kemiske processer?",
+      "answers":["i mitokondrierne", "i endoplasmatisk reticulum", "i golgi apparatet", "i lysosomerne"]
+    }
+    {
+      "questionText": "Hvad er exocytose? ",
+      "answers":["aktiv transport af størrer partikler ud af  cellen", "passiv transport af vand ind i cellen", "passiv transport af salt ind i cellen", "aktiv transport af stoffer ind i cellen"]
+    }
+    {
+      "questionText": "Cellemembranen fungerer som en ",
+      "answers":["barriere mellem cellen og dens omgivelser", "barriere mod bakterier", "barriere mod virus", "barriere mod udefrakommende fedtstoffer"]
+    }
+    {
+      "questionText": "Cellemembranen er opbygget af ",
+      "answers":["fosfolipider, kolesterol og membranproteiner", "fosfolipider og membranproteiner", "kolesterol og fosfolipider", "kolesterol og fedtsyrer"]
+    }
+    {
+      "questionText": "Fosfolipidernes hydrofile ende er",
+      "answers":["placeret ud mod ekstacellulærvæsken og ind mos intracellulærvæsken", "ind mod cellemembanens midte", "kun placeret ud mod den ekstracellulære side ", "kun placeret ud mod den intracellulære side "]
+    }
+    {
+      "questionText": "Fosfolipidernes hydrofobe ende er",
+      "answers":["placeret ind mod cellemembranens midte", "placeret ud mod ekstacellulærvæsken og ind mos intracellulærvæsken", "placeret ud mod den ekstracellulære side ", "placeret ud mod den intracellulære side "]
+    }
+    {
+      "questionText": "Fosfolipider er opbygget af ",
+      "answers":["glycerol, fosfat og to fedtsyrer", "fosfat og to fedtsyrer", "glycerol og to fedtsyrer", "glycerol, fosfat, kolesterol og to fedtsyrer"]
+    }
+    {
+      "questionText": "Hvor findes epitelvæv?",
+      "answers":["epitelvæv findes på overflader", "i knogler ", "i muskler ", "i nervevæv"]
+    }
+    {
+      "questionText": "Hvad er anaerob forbrænding?",
+      "answers":["forbrænding uden ilt", "forbrænding med ilt", "forbrænding med ilt eller uden ilt", "en oxidation"]
+    }
+    {
+      "questionText": "Hvilke to ioner \"flytter\" natrium-kalium pumpen?",
+      "answers":["Na+  og   K+", "Na+ og Ca++", "Na+  og Cl-", "Ca++ og K+"]
+    }
+    {
+      "questionText": "Nævn navnet på det organel der færdigdanner og pakker proteiner",
+      "answers":["golgiapparatet", "endoplasmatisk reticulum", "mitokondrie", "lysosom"]
+    }
+    {
+      "questionText": "Nævn navnet på det organel der medvirker ved proteinsyntesen",
+      "answers":["ribosom", "lysosom", "centriole", "glat endoplasmatisk reticulum"]
+    }
+    {
+      "questionText": "Nævn navnet på det organel der indeholder enzymer, som nedbryder fagocyterede stoffer",
+      "answers":["lysosom", "centriole", "glat endoplasmatisk reticulum", "mitokondrie"]
+    }
+    {
+      "questionText": "Nævn navnet på det organel der indeholder cellens 46 kromosomer",
+      "answers":["nucleus", "nucleolus", "kernelegemet", "glat endoplasmatisk reticulum"]
+    }
+    {
+      "questionText": "Nævn navnet på de organeller der fordeler kromosomerne under celledeling",
+      "answers":["centrioler", "nucleolus", "ribosomer", "vesikler"]
+    }
+    {
+      "questionText": "Hvad er et gen?",
+      "answers":["gener er stykker af DNA", "gener er stykker af proteiner i kernen", "gener er stykker af tRNA", "gener er stykker af rRNA"]
+    }
+    {
+      "questionText": "Hvor mange kromosompar findes i en celle?",
+      "answers":["23 par", "46 par ", "46 par ", "2 par homologe kromosomer"]
+    }
+    {
+      "questionText": "Hvor mange gener har mennesker ca.",
+      "answers":["25.000 gener", "50.000 gener", "75.000 gener", "100.000 gener"]
+    }
+    {
+      "questionText": "Hvilken base findes ikke i DNA?",
+      "answers":["urasil", "adenin", "thymin", "guanin"]
+    }
+    {
+      "questionText": "Hvilken af nedenstående er ikke transport ved diffusion?",
+      "answers":["natrium-kalium pumpen", "osmose", "faciliteret diffusion", "ionkanaler"]
+    }
+    {
+      "questionText": "Hvad betyder osmose?",
+      "answers":["diffusion af vand", "diffusion af ioner", "diffusion af glukose og aminosyrer", "osmose betyder aktiv transport"]
+    }
+    {
+      "questionText": "Diffusion er altid ",
+      "answers":["en passiv transport", "en pumpe ", "en aktiv transport", "en energikrævende transport"]
+    }
+    {
+      "questionText": "Diffusion er en ",
+      "answers":["ikke energi krævende transport", " energi krævende transport", "en aktiv transport", "endo- eller eksocytose"]
+    }
+    {
+      "questionText": "Diffusion er altid bevægelse af et stof ",
+      "answers":["fra høj til lav koncentration af stoffet", "fra lav til høj koncentration af stoffet", "ved hjælp af pumper ", "ved hjælp af aktiv transport"]
+    }
+    {
+      "questionText": "Hvilken af nedstående transport former er energikrævende?",
+      "answers":["pumoer", "diffusion af ioner", "diffusion af glukose og aminosyrer", "osmose "]
+    }
+    {
+      "questionText": "Hvad sker der ved endocytose?",
+      "answers":["cellen optager større partikler eller væske", "cellen udskiller større partikler", "cellen sender stoffer rundt i cytoplasma", "cellen danner endosporer"]
+    }
+    {
+      "questionText": "Hvad sker der ved eksocytose?",
+      "answers":["vesiklers indhold tømmes ud af cellen", "cellen optager stoffer ", "cellen optager opløste partikler i væske", "cellen udskiller sine gener"]
+    }
+    {
+      "questionText": "Hvad kaldes mitose også?",
+      "answers":["vækstcelledeling", "meiosen", "kønscelledeling", "reduktionsdeling"]
+    }
+    {
+      "questionText": "Hvad er slut produktet efter en mitosecelledeling?",
+      "answers":["to identiske datterceller ", "to forskellige datterceller", "fire ens kønsceller", "fire forskellige kønsceller"]
+    }
+    {
+      "questionText": "Hvad er slutproduktet efter en meiosecelledeling hos manden?",
+      "answers":["fire genetisk forskellige kønsceller ", "fire genetisk ens kønsceller", "to ens datterceller", "en kønscelle og tre polceller"]
+    }
+    {
+      "questionText": "Hvor mange kromosomer indholder en ægcelle?",
+      "answers":["23 kromosomer ", "23 par kromosomer", "46 kromosomer ", "46 dobbelt kromosomer"]
+    }
+    {
+      "questionText": "Hvad er DNA replikation?",
+      "answers":["det er når cellens 46 kromosomer fordobles inden celledeling", "det er en del af cellens proteinsyntese", "der er når cellen danner fedtstoffer", "det er translation i forbindelse med mRNA"]
+    }
+    {
+      "questionText": "Hvad er væv?",
+      "answers":["en samling af ens celler ", "en samling af forskellige celler", "celler med forskelligt udseende", "celler der kun findes i nervesystemet"]
+    }

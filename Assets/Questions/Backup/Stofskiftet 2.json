@@ -1,0 +1,127 @@
+
+    {
+      "Spørgsmål": "Forhøjet anaerob forbrænding kan være problematisk fordi:",
+      "Korrekt svar": "Det kan forårsage acidose",
+      "Ukorrekt svar 1": "Det kan medfører ophobning af ketonstoffer",
+      "Ukorrekt svar 2": "Det risikerer at hæve blodets pH ",
+      "Ukorrekt svar 3": "Det kan medføre ophobning af Acetyl-CoA"
+    },
+    {
+      "Spørgsmål": "Leveren anvender denne proces til at lave de 11 ikke essentielle aminoserer",
+      "Korrekt svar": "Transaminering",
+      "Ukorrekt svar 1": "Deaminering",
+      "Ukorrekt svar 2": "Endoaminering",
+      "Ukorrekt svar 3": "Epiaminering"
+    },
+    {
+      "Spørgsmål": "Når aminoserer deamineres (forud for forbrænding) dannes dette giftige affaldsstof",
+      "Korrekt svar": "Ammoniak",
+      "Ukorrekt svar 1": "Kuldioxid",
+      "Ukorrekt svar 2": "Cyanid",
+      "Ukorrekt svar 3": "Acetylkolin"
+    },
+    {
+      "Spørgsmål": "Carbamid er et næsten ugiftigt stof der er dannet ud fra:",
+      "Korrekt svar": "Ammoniak",
+      "Ukorrekt svar 1": "Nukleinsyrer",
+      "Ukorrekt svar 2": "Acetat",
+      "Ukorrekt svar 3": "Kuldioxid"
+    },
+    {
+      "Spørgsmål": "Hvilken skæbne kan IKKE overgå den kvælstoffrie rest af en aminosyre",
+      "Korrekt svar": "Omdannes til en essentiel aminosyre",
+      "Ukorrekt svar 1": "Aerob forbrænding",
+      "Ukorrekt svar 2": "Omdannes til glukose",
+      "Ukorrekt svar 3": "Omdannes til fedt"
+    },
+    {
+      "Spørgsmål": "Hvornår danner cellerne ketonstoffer",
+      "Korrekt svar": "I forbindelse med høj fedtforbrænding",
+      "Ukorrekt svar 1": "I forbindelse med forhøjet optag af essentielle fedtsyrer",
+      "Ukorrekt svar 2": "Hvad højt LDL niveau",
+      "Ukorrekt svar 3": "Ved lavt LDL niveau"
+    },
+    {
+      "Spørgsmål": "Hvilken påstand om LDL er ikke korrekt",
+      "Korrekt svar": "LDL fører kolesterol fra vævene tilbage til leveren",
+      "Ukorrekt svar 1": "LDL fremmer aflejringen af kolesterol i vævene",
+      "Ukorrekt svar 2": "LDL stammer fra VLDL, der har afleveret triglycerider til muskle rog fedtvæv",
+      "Ukorrekt svar 3": "LDL har en lavere massefylde end HDL"
+    },
+    {
+      "Spørgsmål": "Hvad er et normalt faste-blodsukker",
+      "Korrekt svar": "4-6 mmol/L",
+      "Ukorrekt svar 1": "2-4 mmol/L",
+      "Ukorrekt svar 2": "6-8 mmol/L ",
+      "Ukorrekt svar 3": "8-10 mmol/L"
+    },
+    {
+      "Spørgsmål": "Umiddelbart efter et måltid er et normalt blodsukker på:",
+      "Korrekt svar": "8 mmol/l",
+      "Ukorrekt svar 1": "> 10 mmol/L",
+      "Ukorrekt svar 2": "4-6 mmol/L",
+      "Ukorrekt svar 3": "12-14 mmol/L"
+    },
+    {
+      "Spørgsmål": "Adrenalin ",
+      "Korrekt svar": "Frigiver fedt fra fedtdepoter",
+      "Ukorrekt svar 1": "Dannes i gll. parathyroidea",
+      "Ukorrekt svar 2": "Dannes i gl. thyroidea",
+      "Ukorrekt svar 3": "Sænker blodsukkeret"
+    },
+    {
+      "Spørgsmål": "Adrenalin ",
+      "Korrekt svar": "Udskilles i forbindelse med fysisk og psykisk stress",
+      "Ukorrekt svar 1": "Fremmer leverens omdannelse af glukose til glykogen",
+      "Ukorrekt svar 2": "Udskilles ved høje parasympatisk aktivitet",
+      "Ukorrekt svar 3": "Virker nmodsat af noradrenalin"
+    },
+    {
+      "Spørgsmål": "Hvilken påstand om kortisol er IKKE korrekt",
+      "Korrekt svar": "Kortisol understøtter effekten af insulin",
+      "Ukorrekt svar 1": "Blodets kortisolindhold er højest tidligt om morgenen",
+      "Ukorrekt svar 2": "Produceres bl.a. ved blodsukkerfald ",
+      "Ukorrekt svar 3": "Sikrer glukose til især neuroner og erytrocytter"
+    },
+    {
+      "Spørgsmål": "Hvilken påstand om kortisol er IKKE korrekt",
+      "Korrekt svar": "Kortisol fremmer musklers og fedtcellers glukoseoptag",
+      "Ukorrekt svar 1": "Fremmer glukoneogenesen fra bl.a. glycerol og aminosyrer",
+      "Ukorrekt svar 2": "Fremmer nedbrydningen af fedtdepoter",
+      "Ukorrekt svar 3": "Fremmer nedbrydning af vævsproteiner i muskler, knogler og hud"
+    },
+    {
+      "Spørgsmål": "Hvilket udsagn om stofskiftehormonerne T3 og T4 er usandt?",
+      "Korrekt svar": "De fremmer dannelsen af mitokondriernes forbrændings-enzymer",
+      "Ukorrekt svar 1": "Der dannes 20-30 gange mere T3 end T4",
+      "Ukorrekt svar 2": "T4 virker kraftigere end T3",
+      "Ukorrekt svar 3": "T3 og t4 dannes i biskjoldbruskkirtlen"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse reguleringsmekanismer af T3/T4 produktionen er ikke korrekte",
+      "Korrekt svar": "Fysisk og psykisk stress fremmer T3/T4-produktionen",
+      "Ukorrekt svar 1": "T3/T4 udskilles med en bestemt døgnrytme",
+      "Ukorrekt svar 2": "TRH fremmer indirekte T3/T4 produktionen",
+      "Ukorrekt svar 3": "TSH fremmer T3/T4-produktionen"
+    },
+    {
+      "Spørgsmål": "Hvilke af disse hormoner påvirker IKKE appetitten?",
+      "Korrekt svar": "Glukagon",
+      "Ukorrekt svar 1": "Glukagonlignende peptid-1",
+      "Ukorrekt svar 2": "Ghrelin",
+      "Ukorrekt svar 3": "Leptin"
+    },
+    {
+      "Spørgsmål": "Hvilken information modtager det appatitregulerende center IKKE",
+      "Korrekt svar": "Information om mavesækkens indhold af fedt og peptider",
+      "Ukorrekt svar 1": "Information om mavesækkens fyldningsgrad",
+      "Ukorrekt svar 2": "Information om blodets indhold af glukose",
+      "Ukorrekt svar 3": "Information om blodets indhold af insulin"
+    },
+    {
+      "Spørgsmål": "Hvilken af disse temperaturregulerende metoder kan det temperaturregulerende center IKKE iværksætte?",
+      "Korrekt svar": "Ændret fedt-isolering af huden",
+      "Ukorrekt svar 1": "Ændret svedsekretion",
+      "Ukorrekt svar 2": "Ændret perifer modstand",
+      "Ukorrekt svar 3": "Ændret produktion af TRH"
+    }

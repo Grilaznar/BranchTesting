@@ -1,0 +1,196 @@
+{
+      "Spørgsmål": "Makrofager har som funktion at fagocytere mikroorganismer og døde ødelagte celler. Der ud over har de en vigtig funktion mere, hvilken?",
+      "Korrekt svar": "at aktivere de øvrige leucocytter",
+      "Ukorrekt svar 1": "at hæmme immunsystemet ",
+      "Ukorrekt svar 2": "at vandre ud i blodet",
+      "Ukorrekt svar 3": "at udskille interferoner"
+    },
+    {
+      "Spørgsmål": "Hvad hedder de signalstoffer som de hvide blodceller udskiller til hinanden under en infektion?",
+      "Korrekt svar": "interleukiner",
+      "Ukorrekt svar 1": "interferoner",
+      "Ukorrekt svar 2": "interstitel væske",
+      "Ukorrekt svar 3": "antigener"
+    },
+    {
+      "Spørgsmål": "Hvor i kroppen findes der  primært makrofager?",
+      "Korrekt svar": "i lever, knoglemarv og milt",
+      "Ukorrekt svar 1": "i nyrer, hjerte og hjerne",
+      "Ukorrekt svar 2": "i lever, nyre og blære",
+      "Ukorrekt svar 3": "i huden, mave-tarmkanal og urinveje"
+    },
+    {
+      "Spørgsmål": "Hvad kaldes makrofager som unge, mens de cirkulerer i blodet og fagocytere?",
+      "Korrekt svar": "monocytter",
+      "Ukorrekt svar 1": "lymfocytter",
+      "Ukorrekt svar 2": "granulocytter",
+      "Ukorrekt svar 3": "mastceller"
+    },
+    {
+      "Spørgsmål": "Hvilke stoffer indeholder mastceller?",
+      "Korrekt svar": "histamin og heparin",
+      "Ukorrekt svar 1": "antihistamin og firbrinogen",
+      "Ukorrekt svar 2": "adrenalin og noradrenalin",
+      "Ukorrekt svar 3": "interferoner og prostaglandiner"
+    },
+    {
+      "Spørgsmål": "Hvilke stoffer indeholder basofile granulocytter?",
+      "Korrekt svar": "histamin og heparin",
+      "Ukorrekt svar 1": "antihistamin og firbrinogen",
+      "Ukorrekt svar 2": "adrenalin og noradrenalin",
+      "Ukorrekt svar 3": "interferoner og prostaglandiner"
+    },
+    {
+      "Spørgsmål": "Hvor i kroppen findes mastceller?",
+      "Korrekt svar": "i vævet",
+      "Ukorrekt svar 1": "i leveren",
+      "Ukorrekt svar 2": "i blodet",
+      "Ukorrekt svar 3": "i hjernen"
+    },
+    {
+      "Spørgsmål": "Hvor i kroppen findes basofile granulocytter primært?",
+      "Korrekt svar": "i blodet ",
+      "Ukorrekt svar 1": "i hepar",
+      "Ukorrekt svar 2": "i milten",
+      "Ukorrekt svar 3": "i mave-tarmkanalen"
+    },
+    {
+      "Spørgsmål": "Hvilken virkning har histamin på blodkar?",
+      "Korrekt svar": "blodkarrene dilateres",
+      "Ukorrekt svar 1": "blodkarrene trækker sig sammen",
+      "Ukorrekt svar 2": "blodkarrene optager ilt",
+      "Ukorrekt svar 3": "blodkarrene stopper"
+    },
+    {
+      "Spørgsmål": "Hvorfor udvider histamin blokarrene lokalt ved en infektion?",
+      "Korrekt svar": "for at leucocytter nemmere kan  trænge ud af blodbanen",
+      "Ukorrekt svar 1": "for at bakterier nemmere kan trænge ind i  blodbanen",
+      "Ukorrekt svar 2": "for at bakterier nemmere kan  trænge ud af blodbanen",
+      "Ukorrekt svar 3": "for at hjertet kan afslappes"
+    },
+    {
+      "Spørgsmål": "Hvornår ses aktive eosinofile granulocytter i blodet?",
+      "Korrekt svar": "ved allergiske reaktioner og parasit angreb",
+      "Ukorrekt svar 1": "ved forkølelse pga. bakterier",
+      "Ukorrekt svar 2": "ved virusangreb",
+      "Ukorrekt svar 3": "ved behandling med antibiotika"
+    },
+    {
+      "Spørgsmål": "Komplementproteiner er et system af hvor mange?",
+      "Korrekt svar": "20 plasmaproteiner ",
+      "Ukorrekt svar 1": "5 plasmaproteiner ",
+      "Ukorrekt svar 2": "50 plasmaproteiner",
+      "Ukorrekt svar 3": "100 plasmaproteiner"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "Korrekt svar": "tiltrækker fagocyterende celler",
+      "Ukorrekt svar 1": "danner antistoffer",
+      "Ukorrekt svar 2": "giver karkontraktion",
+      "Ukorrekt svar 3": "øger mitosecelledannelsen"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "Korrekt svar": "at dræbe bakterier",
+      "Ukorrekt svar 1": "at dræbe virus inficerede celler",
+      "Ukorrekt svar 2": "at give kardilation",
+      "Ukorrekt svar 3": "at øge lymfocyt produktionen"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har interferoner?",
+      "Korrekt svar": "hæmmer formering og spredning af virus",
+      "Ukorrekt svar 1": "øger formering og spredning af virus",
+      "Ukorrekt svar 2": "dræber virus inficerede celler",
+      "Ukorrekt svar 3": "dræber bakterier"
+    },
+    {
+      "Spørgsmål": "Hvorledes aktiveres en lymfocyt?",
+      "Korrekt svar": "ved at møde \"sit\" specifikke antigen",
+      "Ukorrekt svar 1": "ved at møde et tilfældigt antigen",
+      "Ukorrekt svar 2": "ved at møde en leukocyt",
+      "Ukorrekt svar 3": "ved at modnes i den røde knoglemarv"
+    },
+    {
+      "Spørgsmål": "Hvorledes reagerer en lymfocyt som møder  \"sit\" specifikke antigen?",
+      "Korrekt svar": "den begynder at dele sig til et stort antal aktive lymfocytter",
+      "Ukorrekt svar 1": "den begynder at udskille interferoner",
+      "Ukorrekt svar 2": "den begynder at udskille akutfaseproteiner ",
+      "Ukorrekt svar 3": "den begynder at fagocytere det spcifikke antigen"
+    },
+    {
+      "Spørgsmål": "Hvad forstås ved \" Antigenpræsentation\" ,foretaget af en antigenpræsenterende celle, kaldet en APC?",
+      "Korrekt svar": "at makrofagen viser antigenet for en T-hjælpecelle i lymfeknuden",
+      "Ukorrekt svar 1": "at makrofagen viser antigenet for en monocyt",
+      "Ukorrekt svar 2": "at makrofagen viser antigenet for et antistof",
+      "Ukorrekt svar 3": "at makrofagen viser antigenet for andre nakrofager"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har T-dræberceller?",
+      "Korrekt svar": "at dræbe kroppens syge celler",
+      "Ukorrekt svar 1": "at dræbe bakterier",
+      "Ukorrekt svar 2": "at dræbe gamle erytrocytter",
+      "Ukorrekt svar 3": "at dræbe gamle leukocytter"
+    },
+    {
+      "Spørgsmål": "Hvad sker der hvis en B-huskecelle senere møder \"sit\" specifikke antigen?",
+      "Korrekt svar": "en kraftig celledeling og produktion af antistof",
+      "Ukorrekt svar 1": " B-huskecellen angribes og dør",
+      "Ukorrekt svar 2": "B-huskecellen stimulerer makrofager",
+      "Ukorrekt svar 3": "B-huskecellen udskiller interferoner"
+    },
+    {
+      "Spørgsmål": "Hvorledes er IgG specielt?",
+      "Korrekt svar": "IgG trænger over i fosterets blodbane",
+      "Ukorrekt svar 1": "IgG trænger over i den gravides blodbane",
+      "Ukorrekt svar 2": "IgG trænger over i lymfeknuder",
+      "Ukorrekt svar 3": "IgG trænger ud i vævene"
+    },
+    {
+      "Spørgsmål": "Hvorledes er IgA specielt?",
+      "Korrekt svar": "findes i modermælk,  kolostrum/råmælk",
+      "Ukorrekt svar 1": "findes i vagina",
+      "Ukorrekt svar 2": "trænger over i fosterets blodbane",
+      "Ukorrekt svar 3": "trænger ud i vævene"
+    },
+    {
+      "Spørgsmål": "Hvor findes IgA primært?",
+      "Korrekt svar": "i spyt, tårer, sved og indre epiteler",
+      "Ukorrekt svar 1": "i lymfeknuder ",
+      "Ukorrekt svar 2": "i blodbanen",
+      "Ukorrekt svar 3": "i den rødeknoglemarv"
+    },
+    {
+      "Spørgsmål": "Hvilken type leucocyt dræber cancerceller?",
+      "Korrekt svar": "T-dræberceller",
+      "Ukorrekt svar 1": "B-plasmaceller",
+      "Ukorrekt svar 2": "makrofager",
+      "Ukorrekt svar 3": "neutrofilegranulocytter"
+    },
+    {
+      "Spørgsmål": "Hvad forstås ved passiv immunisering?",
+      "Korrekt svar": "indsprøjtning af antistoffer",
+      "Ukorrekt svar 1": "indsprøjtning af antibiotika",
+      "Ukorrekt svar 2": "indsprøjtning af penicillin",
+      "Ukorrekt svar 3": "immunisering under søvn"
+    },
+    {
+      "Spørgsmål": "Hvilket antistof findes primært på mastceller hos allergikere?",
+      "Korrekt svar": "IgE",
+      "Ukorrekt svar 1": "IgG",
+      "Ukorrekt svar 2": "IgM",
+      "Ukorrekt svar 3": "IgD"
+    },
+    {
+      "Spørgsmål": "Hvilken funktion har komplementproteiner/komplementsystemet?",
+      "Korrekt svar": "at dræbe bakterier",
+      "Ukorrekt svar 1": "at dræbe cancerceller",
+      "Ukorrekt svar 2": "at danne interferoner",
+      "Ukorrekt svar 3": "at danne interleuciner"
+    },
+    {
+      "Spørgsmål": "Hvilken leucocyt reagerer på et hvilket som helst antigen fra en mikroorganisme?",
+      "Korrekt svar": "makrofag",
+      "Ukorrekt svar 1": "B-lymfocyt",
+      "Ukorrekt svar 2": "T-dræberceller",
+      "Ukorrekt svar 3": "T-hjælpecelle"
+    }
